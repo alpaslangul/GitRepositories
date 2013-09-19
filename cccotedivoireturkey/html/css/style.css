@@ -1,0 +1,42 @@
+@import "reset.css";
+
+@font-face {
+    font-family: 'ConduITC';
+    src: url('../font/ConduITC.eot');
+    src: url('../font/ConduITC.eot?#iefix') format('embedded-opentype'),
+    url('../font/ConduITC.woff') format('woff'),
+    url('../font/ConduITC.ttf') format('truetype'),
+    url('../font/ConduITC.svg#ConduITC') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ConduITCLight';
+    src: url('../font/ConduITCLight');
+    src: url('../font/ConduITCLight?#iefix') format('embedded-opentype'),
+    url('../font/ConduITCLight.woff') format('woff'),
+    url('../font/ConduITCLight.ttf') format('truetype'),
+    url('../font/ConduITCLight.svg#ConduITCLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduITC, "Arial sans-serif"}
+
+.wrapper { width: 950px; margin:  0 auto; height: 250px; }
+.header { width: 950px;  height: 168px; float: left; background: url("../img/flag_bg.png") no-repeat top left; }
+.header .headerLeft { float: left; }
+.header .headerLeft .logo { width: 118px ; height: 119px; margin: 22px 0 0 16px; float: left; background: url("../img/logo.png") no-repeat center; }
+.header .headerLeft .headerMotto { font-size: 25px; color: #ffffff; text-shadow: 1px 1px 4px #000; float: left; margin: 73px 0 0 24px; }
+.header .headerRight { float: right; }
+.header .headerRight .languageSelect { width: 94px; height: 26px; float: right; margin: 16px 4px 0 0; background: url("../img/langImg.png")}
+.header .headerRight .searchLayer { width: 244px; height: 27px; float: right; margin: 60px 4px 0 0;  clear: right;  background: url("../img/searcgImg.png")}
+
+.content { width: 950px; float: left}
+.content .menu { width: 950px; height: 50px; background: url("../img/menuBg.png") repeat-x top left;}
+.content .menu ul { width: 835px;margin-left: 30px; float: left; }
+.content .menu ul li{ width: 133px; height: 47px; float: left; font-size: 22px; color: #a3a3a3; line-height: 55px; text-align: center; cursor: pointer; margin-top: 3px;}
+.content .menu ul li:hover{ background: url("../img/menuHover.png") no-repeat bottom center;}
+
+.footer { width: 950px; float: left}
