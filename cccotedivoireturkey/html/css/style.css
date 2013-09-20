@@ -85,6 +85,10 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .sponsors .sponsorsContainer .spnsImg {  width: 824px; height: 129px;background: url("../img/sponsors.png") }
 .middle .content .sponsors .sponsorsContainer .spnsRightBtn { width: 29px; height: 129px; background: url("../img/rightArrow.png") no-repeat center }
 
+.middle .content .connectionForm { width: 430px; float: left; border: 1px solid red;}
+.middle .content .connectionText { width: 430px; float: left; border: 1px solid #000000;}
+.middle .content .connectionMap  { width: 430px; float: left; border: 1px solid blue;}
+
 .advertising { width: 161px; float: left;height: 500px;}
 .advertising img { padding: 4px; }
 
@@ -105,5 +109,5 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .footer .foot .connectionColumn div .mapIco { float: left;}
 .footer .foot .connectionColumn div .mapText { width: 100px; float: left; font-size: 12px; margin: 15px 0 0 5px;}
 .footer .foot .socialColumn { float: right !important;}
-.footer .foot .socialColumn .socClmContainer { float: right; bottom: 0; margin-top: 117px; margin-right: 5px;}
+.footer .foot .socialColumn .socClmContainer { float: right; bottom: 0; margin-top: 96px; margin-right: 5px;}
 .footer .foot .socialColumn .socClmContainer img {  cursor: pointer; }
