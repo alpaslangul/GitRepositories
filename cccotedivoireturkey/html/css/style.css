@@ -22,9 +22,20 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Century';
+    src: url('../font/Century');
+    src: url('../font/Century?#iefix') format('embedded-opentype'),
+    url('../font/Century.woff') format('woff'),
+    url('../font/Century.ttf') format('truetype'),
+    url('../font/Century.svg#Century') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduITC, "Arial sans-serif"}
 
-.wrapper { width: 950px; margin:  0 auto; height: 250px; }
+.container { width: 950px; margin:  0 auto; height: 250px; }
 .header { width: 950px;  height: 168px; float: left; background: url("../img/flag_bg.png") no-repeat top left; }
 .header .headerLeft { float: left; }
 .header .headerLeft .logo { width: 118px ; height: 119px; margin: 22px 0 0 16px; float: left; background: url("../img/logo.png") no-repeat center; }
@@ -45,7 +56,7 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .leftContent p { font-family:  ConduITCLight, "Arial sans-serif"; text-align: justify; line-height: 22px; color: #b5b6b6; font-size: 13px; padding: 8px 11px 0 3px;}
 .middle .content .rightContent { width: 242px;  margin-left: 37px; float: left; margin-top: 32px;}
 .middle .content .rightContent .chief { width: 240px; }
-.middle .content .rightContent .chief .chiefHead {font-family:  ConduITCLight, "Arial sans-serif"; color : #a3a3a3; font-size: 22px;}
+.middle .content .rightContent .leftHeadLine {font-family:  ConduITCLight, "Arial sans-serif"; color : #a3a3a3; font-size: 22px;}
 .middle .content .rightContent .chief .chiefDisplay {margin-top: 16px; }
 .middle .content .rightContent .chief .chiefDisplay img  {float: left}
 .middle .content .rightContent .chief .chiefDisplay span {width: 111px; margin-left: 10px; float: left;  font-size: 13px; margin-bottom: 11px;}
@@ -53,6 +64,17 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .rightContent .chief .chiefDisplay .chiefName {color: #818181;}
 .middle .content .rightContent .chief .chiefDisplay .chiefDetail {color: #a3a3a3;}
 .middle .content .rightContent .chief .chiefText {width: 200px; float: left; font-size: 13px; color: #a3a3a3; margin-top: 10px;line-height: 20px;margin-left: 3px;}
+.middle .content .rightContent .chief .chiefButton {width: 100px; height: 30px; margin-top: 10px; margin-left: 3px; float: left; font-size: 16px; color: #ffffff; line-height: 33px; text-align: center; background: #589ad2; }
+.middle .content .rightContent .newsWrapper { width: 240px; margin-top : 60px; float: left;}
+.middle .content .rightContent .newsWrapper .news { width: 240px; margin-top : 10px; float: left;}
+.middle .content .rightContent .newsWrapper .news .newsDate { float: left;  }
+.middle .content .rightContent .newsWrapper .news .newsDate div { height: 20px; font-family:  Century, "Arial sans-serif"; color: #ffffff ; text-align: center; line-height: 20px;}
+.middle .content .rightContent .newsWrapper .news .newsDate .newsMonth { width: 34px; float: left; background: #f77f00; }
+.middle .content .rightContent .newsWrapper .news .newsDate .newsYears { width: 51px; float: left; background: #00aebd; }
+.middle .content .rightContent .newsWrapper .news .newsTitle { width: 100%; margin: 5px 0 0 0; float: left; color: #ff0000; font-size: 18px; }
+.middle .content .rightContent .newsWrapper .news .newsArticle { width: 100%; margin: 5px 0 5px 0; float: left; color: #a3a3a3; font-size: 15px; }
+
+
 
 .advertising { width: 161px; float: left;height: 500px;}
 .advertising img { padding: 4px; }
