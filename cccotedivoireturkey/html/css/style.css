@@ -33,10 +33,28 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .header .headerRight .languageSelect { width: 94px; height: 26px; float: right; margin: 16px 4px 0 0; background: url("../img/langImg.png")}
 .header .headerRight .searchLayer { width: 244px; height: 27px; float: right; margin: 60px 4px 0 0;  clear: right;  background: url("../img/searcgImg.png")}
 
-.content { width: 950px; float: left}
-.content .menu { width: 950px; height: 50px; background: url("../img/menuBg.png") repeat-x top left;}
-.content .menu ul { width: 835px;margin-left: 30px; float: left; }
-.content .menu ul li{ width: 133px; height: 47px; float: left; font-size: 22px; color: #a3a3a3; line-height: 55px; text-align: center; cursor: pointer; margin-top: 3px;}
-.content .menu ul li:hover{ background: url("../img/menuHover.png") no-repeat bottom center;}
+.middle  { width: 1150px; float: left}
+.middle .content { width: 950px; float: left}
+.middle .content .menu { width: 950px; height: 50px; background: url("../img/menuBg.png") repeat-x top left;}
+.middle .content .menu ul { width: 835px;margin-left: 30px; float: left; }
+.middle .content .menu ul li{ width: 133px; height: 47px; float: left; font-size: 22px; color: #a3a3a3; line-height: 55px; text-align: center; cursor: pointer; margin-top: 3px;}
+.middle .content .menu ul li:hover{ background: url("../img/menuHover.png") no-repeat bottom center;}
+.middle .content .leftContent { width: 600px; float: left; margin-left: 37px; margin-top: 32px; }
+.middle .content .leftContent span { color : #a3a3a3; font-size: 22px; }
+.middle .content .leftContent img { margin-top: 16px; }
+.middle .content .leftContent p { font-family:  ConduITCLight, "Arial sans-serif"; text-align: justify; line-height: 22px; color: #b5b6b6; font-size: 13px; padding: 8px 11px 0 3px;}
+.middle .content .rightContent { width: 242px;  margin-left: 37px; float: left; margin-top: 32px;}
+.middle .content .rightContent .chief { width: 240px; }
+.middle .content .rightContent .chief .chiefHead {font-family:  ConduITCLight, "Arial sans-serif"; color : #a3a3a3; font-size: 22px;}
+.middle .content .rightContent .chief .chiefDisplay {margin-top: 16px; }
+.middle .content .rightContent .chief .chiefDisplay img  {float: left}
+.middle .content .rightContent .chief .chiefDisplay span {width: 111px; margin-left: 10px; float: left;  font-size: 13px; margin-bottom: 11px;}
+.middle .content .rightContent .chief .chiefDisplay .chiefTitle {color: #ff0000; margin-top: 8px;line-height: 18px;margin-bottom: 9px;}
+.middle .content .rightContent .chief .chiefDisplay .chiefName {color: #818181;}
+.middle .content .rightContent .chief .chiefDisplay .chiefDetail {color: #a3a3a3;}
+.middle .content .rightContent .chief .chiefText {width: 200px; float: left; font-size: 13px; color: #a3a3a3; margin-top: 10px;line-height: 20px;margin-left: 3px;}
+
+.advertising { width: 161px; float: left;height: 500px;}
+.advertising img { padding: 4px; }
 
 .footer { width: 950px; float: left}
