@@ -78,14 +78,32 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .leftContent .insideContent .activityContainer .imgL5 {  margin-left: 0px !important; }
 .middle .content .sponsors  { width: 100%;  float: left }
 .middle .content .sponsors span {margin-left: 35px; float: left }
-.middle .content .sponsors .sponsorsContainer { width: 900px; margin: 20px auto; float: left; }
+.middle .content .sponsors .sponsorsContainer { width: 900px; margin: 20px 0 20px 35px; float: left; }
 .middle .content .sponsors .sponsorsContainer > div { float: left; }
+.middle .content .sponsors .sponsorsContainer > a { float: left; }
 .middle .content .sponsors .sponsorsContainer .spnsLeftBtn { width: 29px; height: 129px; background: url("../img/leftArrow.png") no-repeat center  }
 .middle .content .sponsors .sponsorsContainer .spnsImg {  width: 824px; height: 129px;background: url("../img/sponsors.png") }
 .middle .content .sponsors .sponsorsContainer .spnsRightBtn { width: 29px; height: 129px; background: url("../img/rightArrow.png") no-repeat center }
 
-
 .advertising { width: 161px; float: left;height: 500px;}
 .advertising img { padding: 4px; }
 
-.footer { width: 950px; float: left}
+.footer { width: 950px; height: 216px; float: left; background: #04345e;}
+.footer .pageUp { width: 100%; float: left; cursor: pointer;}
+.footer .pageUp .up { float: right; font-family:  Verdana, "Arial sans-serif"; color: #a3a3a3; font-size: 13px; margin: 5px;}
+.footer .pageUp img { float: right; margin: 9px 5px 0 1px;}
+.footer .foot { width: 100%; float: left; }
+.footer .foot .footerHeadLine { color: #f77f00 !important; margin-bottom: 10px !important; }
+.footer .foot > div { width: 140px; height: 153px; margin-top: 40px; margin-left: 15px;  float: left; color: #b8b8b8; }
+.footer .foot > div > span { display: block; color: #b8b8b8; margin: 3px 0; }
+.footer .foot .outColumn { margin-left: 60px; }
+.footer .foot .servicesColumn {}
+.footer .foot .countryColumn {}
+.footer .foot .connectionColumn{ width: 160px;}
+.footer .foot .connectionColumn > div { margin-top: 10px;}
+.footer .foot .connectionColumn span {  color: #737373;}
+.footer .foot .connectionColumn div .mapIco { float: left;}
+.footer .foot .connectionColumn div .mapText { width: 100px; float: left; font-size: 12px; margin: 15px 0 0 5px;}
+.footer .foot .socialColumn { float: right !important;}
+.footer .foot .socialColumn .socClmContainer { float: right; bottom: 0; margin-top: 117px; margin-right: 5px;}
+.footer .foot .socialColumn .socClmContainer img {  cursor: pointer; }
