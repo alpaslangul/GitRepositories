@@ -85,9 +85,18 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .sponsors .sponsorsContainer .spnsImg {  width: 824px; height: 129px;background: url("../img/sponsors.png") }
 .middle .content .sponsors .sponsorsContainer .spnsRightBtn { width: 29px; height: 129px; background: url("../img/rightArrow.png") no-repeat center }
 
-.middle .content .connectionForm { width: 430px; float: left; border: 1px solid red;}
-.middle .content .connectionText { width: 430px; float: left; border: 1px solid #000000;}
-.middle .content .connectionMap  { width: 430px; float: left; border: 1px solid blue;}
+.middle .content .connectionForm { width: 430px; float: left; margin: 40px 0 0 45px;}
+.middle .content .connectionForm .connFormHeader { color : red;}
+.middle .content .connectionForm .connForm { }
+.middle .content .connectionForm .connForm .formLeft { width: 115px; float: left; }
+.middle .content .connectionForm .connForm .formLeft span {font-size: 14px; color : #b8b8b8; display: block;  }
+.middle .content .connectionForm .connForm .formRight  { width: 280px; float: left; }
+.middle .content .connectionForm .connForm .formRight input { width: 280px;}
+.middle .content .connectionForm .connForm .formRight textarea {width: 280px; resize: none;}
+.middle .content .connectionMap { width: 430px; float: left; border: 1px solid #000000;}
+.middle .content .connectionText  { width: 430px; float: left; clear: left; margin: 50px 0 45px 45px;  }
+.middle .content .connectionText span  { width: 100px; float: left; color : #ff0000; }
+.middle .content .connectionText p {  width: 320px; float: left; color : #b8b8b8; }
 
 .advertising { width: 161px; float: left;height: 500px;}
 .advertising img { padding: 4px; }
