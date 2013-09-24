@@ -84,19 +84,24 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .sponsors .sponsorsContainer .spnsLeftBtn { width: 29px; height: 129px; background: url("../img/leftArrow.png") no-repeat center  }
 .middle .content .sponsors .sponsorsContainer .spnsImg {  width: 824px; height: 129px;background: url("../img/sponsors.png") }
 .middle .content .sponsors .sponsorsContainer .spnsRightBtn { width: 29px; height: 129px; background: url("../img/rightArrow.png") no-repeat center }
+.middle .content .connLeft  { float: left; }
+.middle .content .connRight { float: left; }
 
-.middle .content .connectionForm { width: 430px; float: left; margin: 40px 0 0 45px;}
-.middle .content .connectionForm .connFormHeader { color : red;}
-.middle .content .connectionForm .connForm { }
-.middle .content .connectionForm .connForm .formLeft { width: 115px; float: left; }
-.middle .content .connectionForm .connForm .formLeft span {font-size: 14px; color : #b8b8b8; display: block;  }
-.middle .content .connectionForm .connForm .formRight  { width: 280px; float: left; }
-.middle .content .connectionForm .connForm .formRight input { width: 280px;}
-.middle .content .connectionForm .connForm .formRight textarea {width: 280px; resize: none;}
-.middle .content .connectionMap { width: 430px; float: left; margin-top: 40px;}
-.middle .content .connectionText  { width: 430px; float: left; clear: left; margin: 50px 0 45px 45px;  }
-.middle .content .connectionText span  { width: 100px; float: left; color : #ff0000; }
-.middle .content .connectionText p {  width: 320px; float: left; color : #b8b8b8; }
+.middle .content .connLeft .connectionForm { width: 430px; float: left; margin: 40px 0 0 45px;}
+.middle .content .connLeft .connectionForm .connFormHeader { color : red;}
+.middle .content .connLeft .connectionForm .connForm { float: left; }
+.middle .content .connLeft .connectionForm .connForm input[type="button"] { width: 90px; height: 23px; float: right; background: #589ad2; border: none; color: #ffffff; margin-right: 34px; margin-top: 10px;}
+.middle .content .connLeft .connectionForm .connForm .formLeft { width: 115px; float: left; }
+.middle .content .connLeft .connectionForm .connForm .formLeft span {font-size: 14px; color : #b8b8b8; display: block;  margin-top: 10px;}
+.middle .content .connLeft .connectionForm .connForm .formRight  { width: 280px; float: left; }
+.middle .content .connLeft .connectionForm .connForm .formRight input { width: 280px;}
+.middle .content .connLeft .connectionForm .connForm .formRight textarea {width: 280px; resize: none;}
+.middle .content .connRight .connectionMap { width: 430px; float: left; margin-top: 40px;}
+.middle .content .connRight .connectionMap input[name="nerden"]{ padding-left: 5px; height: 23px; outline: none; border-color: #589ad2;}
+.middle .content .connRight .connectionMap .maps-button { border: none; background: #589ad2; width: 135px; height: 23px;  color: #ffffff;}
+.middle .content .connLeft .connectionText  { width: 430px; float: left; clear: left; margin: 50px 0 45px 45px;  }
+.middle .content .connLeft .connectionText span  { width: 100px; float: left; color : #ff0000; }
+.middle .content .connLeft .connectionText p {  width: 320px; float: left; color : #b8b8b8; }
 
 .advertising { width: 161px; float: left;height: 500px;}
 .advertising img { padding: 4px; }
