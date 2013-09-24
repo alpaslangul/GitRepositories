@@ -33,7 +33,7 @@
     font-style: normal;
 }
 
-body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduITC, "Arial sans-serif"}
+body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduITC, "Arial sans-serif"; background-color: #eeebe4;}
 
 .container { width: 950px; margin:  0 auto; height: 250px; }
 .header { width: 950px;  height: 168px; float: left; background: url("../img/flag_bg.png") no-repeat top left; }
@@ -65,7 +65,7 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .rightContent .chief .chiefDisplay .chiefDetail {color: #a3a3a3;}
 .middle .content .rightContent .chief .chiefText {width: 200px; float: left; font-size: 13px; color: #a3a3a3; margin-top: 10px;line-height: 20px;margin-left: 3px;}
 .middle .content .rightContent .chief .chiefButton {width: 100px; height: 30px; margin-top: 10px; margin-left: 3px; float: left; font-size: 16px; color: #ffffff; line-height: 33px; text-align: center; background: #589ad2; }
-.middle .content .rightContent .newsWrapper { width: 240px; margin-top : 60px; float: left;}
+.middle .content .rightContent .newsWrapper { width: 240px; margin-top : 60px; margin-bottom: 15px; float: left;}
 .middle .content .rightContent .newsWrapper .news { width: 240px; margin-top : 10px; float: left;}
 .middle .content .rightContent .newsWrapper .news .newsDate { float: left;  }
 .middle .content .rightContent .newsWrapper .news .newsDate div { height: 20px; font-family:  Century, "Arial sans-serif"; color: #ffffff ; text-align: center; line-height: 20px;}
@@ -86,6 +86,16 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .sponsors .sponsorsContainer .spnsRightBtn { width: 29px; height: 129px; background: url("../img/rightArrow.png") no-repeat center }
 .middle .content .connLeft  { float: left; }
 .middle .content .connRight { float: left; }
+.middle .content .leftContent .contentHeader { float: left; color: #d00000; width: 500px; margin-top: 15px; margin-bottom: 15px;}
+.middle .content .leftContent .contentImage { float: left; color: #d00000}
+
+
+/* Right Menu */
+.middle .content .rightContent .rightMenu { width: 240px; background: #f2f2f2; float: left;}
+.middle .content .rightContent .rightMenu .rightMenuHeader { padding: 10px; display: block; font-family:  Century, "Arial sans-serif"; color: #589ad2; font-size: 13px;  }
+.middle .content .rightContent .rightMenu img {  padding: 10px;   float: left;}
+.middle .content .rightContent .rightMenu .rightMenuItem { color: #b8b8b8; font-size: 13px; display: block;  padding: 9px; float: left; width: 185px;}
+.middle .content .rightContent .rightMenu .rightMenuItem:hover { color: #f77f00; font-weight: bold; cursor: pointer;}
 
 .middle .content .connLeft .connectionForm { width: 430px; float: left; margin: 40px 0 0 45px;}
 .middle .content .connLeft .connectionForm .connFormHeader { color : red;}
