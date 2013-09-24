@@ -1,7 +1,10 @@
 @import "reset.css";
 
-@font-face {
-    font-family: 'ConduITC';
+/* General Property */
+
+input[type="button"] {cursor: pointer; }
+
+@font-face {    font-family: 'ConduITC';
     src: url('../font/ConduITC.eot');
     src: url('../font/ConduITC.eot?#iefix') format('embedded-opentype'),
     url('../font/ConduITC.woff') format('woff'),
@@ -99,14 +102,15 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .rightContent .rightMenu .rightMenuItem:hover { color: #f77f00; font-weight: bold; cursor: pointer;}
 
 /* memberShip */
-.middle .content .leftContent .memberShip { float: left; width: 440px; background: #f6f6f6; padding: 15px;  }
+.middle .content .leftContent .memberShip { float: left; width: 570px; background: #f6f6f6; padding: 15px;  }
 .middle .content .leftContent .memberShip .memberHeader{ width: 440px; padding: 10px 0; color: #d00000; }
-.middle .content .leftContent .memberShip .memberFormLeft{ float: left; width: 115px; float: left; }
-.middle .content .leftContent .memberShip .memberFormLeft span { width: 115px; display: block; padding-top: 9px; float: left; margin-left: 10px;}
-.middle .content .leftContent .memberShip .memberFormLeft .messageArea {  margin-top: 150px;   margin-left: 10px;}
+.middle .content .leftContent .memberShip .memberFormLeft{ float: left; width: 205px; float: left; color: #b8b8b8; font-size: 14px; }
+.middle .content .leftContent .memberShip .memberFormLeft span { width: 115px; display: block; padding-top: 9px; float: left; margin-left: 60px;}
+.middle .content .leftContent .memberShip .memberFormLeft .messageArea {  margin-top: 90px;   margin-left: 60px;}
 .middle .content .leftContent .memberShip .memberFormRight{ float: left; width: 285px; float: left;}
 .middle .content .leftContent .memberShip .memberFormRight input{ width: 285px; }
 .middle .content .leftContent .memberShip .memberFormRight textarea{ width: 285px; resize: none;}
+.middle .content .leftContent .memberShip input[type="button"] { width: 90px; height: 23px; float: right; background: #589ad2; border: none; color: #ffffff; margin-right: 80px; margin-top: 10px;}
 
 /* HeadLines */
 
