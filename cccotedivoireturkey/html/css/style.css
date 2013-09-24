@@ -44,8 +44,8 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .header .headerRight .languageSelect { width: 94px; height: 26px; float: right; margin: 16px 4px 0 0; background: url("../img/langImg.png")}
 .header .headerRight .searchLayer { width: 244px; height: 27px; float: right; margin: 60px 4px 0 0;  clear: right;  background: url("../img/searcgImg.png")}
 
-.middle  { width: 1150px; float: left}
-.middle .content { width: 950px; float: left}
+.middle  { width: 1150px; float: left; }
+.middle .content { width: 950px; float: left; background: #ffffff;}
 .middle .content .menu { width: 950px; height: 50px; background: url("../img/menuBg.png") repeat-x top left;}
 .middle .content .menu ul { width: 835px;margin-left: 30px; float: left; }
 .middle .content .menu ul li{ width: 133px; height: 47px; float: left; font-size: 22px; color: #a3a3a3; line-height: 55px; text-align: center; cursor: pointer; margin-top: 3px;}
@@ -88,6 +88,7 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .connRight { float: left; }
 .middle .content .leftContent .contentHeader { float: left; color: #d00000; width: 500px; margin-top: 15px; margin-bottom: 15px;}
 .middle .content .leftContent .contentImage { float: left; color: #d00000}
+.middle .content .leftContent .contentText { float: left; color : #b8b8b8; font-size: 13px; line-height: 22px; padding-bottom: 25px;}
 
 
 /* Right Menu */
@@ -96,6 +97,26 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .rightContent .rightMenu img {  padding: 10px;   float: left;}
 .middle .content .rightContent .rightMenu .rightMenuItem { color: #b8b8b8; font-size: 13px; display: block;  padding: 9px; float: left; width: 185px;}
 .middle .content .rightContent .rightMenu .rightMenuItem:hover { color: #f77f00; font-weight: bold; cursor: pointer;}
+
+/* memberShip */
+.middle .content .leftContent .memberShip { float: left; width: 440px; background: #f6f6f6; padding: 15px;  }
+.middle .content .leftContent .memberShip .memberHeader{ width: 440px; padding: 10px 0; color: #d00000; }
+.middle .content .leftContent .memberShip .memberFormLeft{ float: left; width: 115px; float: left; }
+.middle .content .leftContent .memberShip .memberFormLeft span { width: 115px; display: block; padding-top: 9px; float: left; margin-left: 10px;}
+.middle .content .leftContent .memberShip .memberFormLeft .messageArea {  margin-top: 150px;   margin-left: 10px;}
+.middle .content .leftContent .memberShip .memberFormRight{ float: left; width: 285px; float: left;}
+.middle .content .leftContent .memberShip .memberFormRight input{ width: 285px; }
+.middle .content .leftContent .memberShip .memberFormRight textarea{ width: 285px; resize: none;}
+
+/* HeadLines */
+
+.middle .content .leftContent .HeadLines { width: 595px; }
+.middle .content .leftContent .HeadLines .HeadLinesPart { width: 270px; height: 335px; float: left;  margin-left: 13px; margin-right: 13px; background: #f6f6f6; margin-bottom: 30px;}
+.middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesTop { width: 250px; float: left; color: #6f6f6f; font-size: 16px; padding: 10px;  background-color: #c8e3fa }
+.middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesContent { width: 270px; float: left; color : #9c9c9c; font-size: 14px; padding-top: 10px;}
+.middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesContent img { padding: 10px 5px 5px 20px;  float: left;}
+.middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesContent .HeadLinesItem { display: block;  padding: 7px; float: left; width: 205px;}
+.middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesContent .HeadLinesRepItem { clear: right; display: block;  padding: 17px; float: left; height: 60px; width: 144px;}
 
 .middle .content .connLeft .connectionForm { width: 430px; float: left; margin: 40px 0 0 45px;}
 .middle .content .connLeft .connectionForm .connFormHeader { color : red;}
