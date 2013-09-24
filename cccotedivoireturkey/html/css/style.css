@@ -93,7 +93,7 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .connectionForm .connForm .formRight  { width: 280px; float: left; }
 .middle .content .connectionForm .connForm .formRight input { width: 280px;}
 .middle .content .connectionForm .connForm .formRight textarea {width: 280px; resize: none;}
-.middle .content .connectionMap { width: 430px; float: left; border: 1px solid #000000;}
+.middle .content .connectionMap { width: 430px; float: left; margin-top: 40px;}
 .middle .content .connectionText  { width: 430px; float: left; clear: left; margin: 50px 0 45px 45px;  }
 .middle .content .connectionText span  { width: 100px; float: left; color : #ff0000; }
 .middle .content .connectionText p {  width: 320px; float: left; color : #b8b8b8; }
