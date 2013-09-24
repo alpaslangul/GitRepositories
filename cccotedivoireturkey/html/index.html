@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="css/style.css"/>
     <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
     <meta charset="utf-8">
+    <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
 </head>
 <body>
 <div class="container">
@@ -17,8 +18,19 @@
              </span>
         </div>
         <div class="headerRight">
-              <div class="languageSelect"></div>
-              <div class="searchLayer"></div>
+              <div class="languageSelect">
+                  <div id="dd" class="wrapper-dropdown-5" tabindex="1">Dil Seçimi
+                      <ul class="dropdown">
+                          <li><a href="#"><i class="icon-user"></i>Türkçe</a></li>
+                          <li><a href="#"><i class="icon-cog"></i>Fransızca</a></li>
+                          <li><a href="#"><i class="icon-remove"></i>İngilizce</a></li>
+                      </ul>
+                  </div>
+              </div>
+              <div class="searchLayer">
+                  <input type="text" id="mainSearch" value="ARAMA"/>
+                  <a href="#" alt=""/></a>
+              </div>
         </div>
     </div>
     <div class="middle">
@@ -173,6 +185,38 @@
 
     </div>
 
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+
+    <script type="text/javascript">
+
+        function DropDown(el) {
+            this.dd = el;
+            this.initEvents();
+        }
+        DropDown.prototype = {
+            initEvents : function() {
+                var obj = this;
+
+                obj.dd.on('click', function(event){
+                    $(this).toggleClass('active');
+                    event.stopPropagation();
+                });
+            }
+        }
+
+        $(function() {
+
+            var dd = new DropDown( $('#dd') );
+
+            $(document).click(function() {
+                // all dropdowns
+                $('.wrapper-dropdown-5').removeClass('active');
+            });
+
+        });
+
+    </script>
 
 </div>
 </body>

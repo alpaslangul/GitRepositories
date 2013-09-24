@@ -1,10 +1,7 @@
 @import "reset.css";
 
-/* General Property */
-
-input[type="button"] {cursor: pointer; }
-
-@font-face {    font-family: 'ConduITC';
+@font-face {
+    font-family: 'ConduITC';
     src: url('../font/ConduITC.eot');
     src: url('../font/ConduITC.eot?#iefix') format('embedded-opentype'),
     url('../font/ConduITC.woff') format('woff'),
@@ -46,6 +43,8 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .header .headerRight { float: right; }
 .header .headerRight .languageSelect { width: 94px; height: 26px; float: right; margin: 16px 4px 0 0; background: url("../img/langImg.png")}
 .header .headerRight .searchLayer { width: 244px; height: 27px; float: right; margin: 60px 4px 0 0;  clear: right;  background: url("../img/searcgImg.png")}
+.header .headerRight .searchLayer input { width: 204px; height: 23px; font-family: Verdana, "Arial sans-serif"; font-size: 13px; color: #d6d6d9; outline: none; padding-left: 5px; background: transparent; border: none;float: left;}
+.header .headerRight .searchLayer a { width: 21px; height: 21px; border: none;float: left; background: url("../img/magnify.png") no-repeat center; padding: 3px 0 3px 13px;}
 
 .middle  { width: 1150px; float: left; }
 .middle .content { width: 950px; float: left; background: #ffffff;}
@@ -102,15 +101,14 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .rightContent .rightMenu .rightMenuItem:hover { color: #f77f00; font-weight: bold; cursor: pointer;}
 
 /* memberShip */
-.middle .content .leftContent .memberShip { float: left; width: 570px; background: #f6f6f6; padding: 15px;  }
+.middle .content .leftContent .memberShip { float: left; width: 440px; background: #f6f6f6; padding: 15px;  }
 .middle .content .leftContent .memberShip .memberHeader{ width: 440px; padding: 10px 0; color: #d00000; }
-.middle .content .leftContent .memberShip .memberFormLeft{ float: left; width: 205px; float: left; color: #b8b8b8; font-size: 14px; }
-.middle .content .leftContent .memberShip .memberFormLeft span { width: 115px; display: block; padding-top: 9px; float: left; margin-left: 60px;}
-.middle .content .leftContent .memberShip .memberFormLeft .messageArea {  margin-top: 90px;   margin-left: 60px;}
+.middle .content .leftContent .memberShip .memberFormLeft{ float: left; width: 115px; float: left; }
+.middle .content .leftContent .memberShip .memberFormLeft span { width: 115px; display: block; padding-top: 9px; float: left; margin-left: 10px;}
+.middle .content .leftContent .memberShip .memberFormLeft .messageArea {  margin-top: 150px;   margin-left: 10px;}
 .middle .content .leftContent .memberShip .memberFormRight{ float: left; width: 285px; float: left;}
 .middle .content .leftContent .memberShip .memberFormRight input{ width: 285px; }
 .middle .content .leftContent .memberShip .memberFormRight textarea{ width: 285px; resize: none;}
-.middle .content .leftContent .memberShip input[type="button"] { width: 90px; height: 23px; float: right; background: #589ad2; border: none; color: #ffffff; margin-right: 80px; margin-top: 10px;}
 
 /* HeadLines */
 
@@ -129,7 +127,7 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .connLeft .connectionForm .connForm .formLeft { width: 115px; float: left; }
 .middle .content .connLeft .connectionForm .connForm .formLeft span {font-size: 14px; color : #b8b8b8; display: block;  margin-top: 10px;}
 .middle .content .connLeft .connectionForm .connForm .formRight  { width: 280px; float: left; }
-.middle .content .connLeft .connectionForm .connForm .formRight input { width: 280px;}
+.middle .content .connLeft .connectionForm .connForm .formRight input { width: 280px; margin: 2px auto;}
 .middle .content .connLeft .connectionForm .connForm .formRight textarea {width: 280px; resize: none;}
 .middle .content .connRight .connectionMap { width: 430px; float: left; margin-top: 40px;}
 .middle .content .connRight .connectionMap input[name="nerden"]{ padding-left: 5px; height: 23px; outline: none; border-color: #589ad2;}
@@ -160,3 +158,147 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .footer .foot .socialColumn { float: right !important;}
 .footer .foot .socialColumn .socClmContainer { float: right; bottom: 0; margin-top: 96px; margin-right: 5px;}
 .footer .foot .socialColumn .socClmContainer img {  cursor: pointer; }
+
+/* Drop Down*/
+
+
+
+/* GLOBALS */
+
+*,
+*:after,
+*:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+::selection {
+    background: transparent;
+}
+
+::-moz-selection {
+    background: transparent;
+}
+
+.wrapper-demo {
+    margin: 60px 0 0 0;
+    *zoom: 1;
+    font-weight: 400;
+}
+
+.wrapper-demo:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+/* DEMO 5 */
+
+.wrapper-dropdown-5 {
+    /* Size & position */
+    position: relative;
+    width: 94px;
+    margin: 0 auto;
+    padding: 6px 6px;
+
+    /* Styles */
+    background: #fff;
+    cursor: pointer;
+    outline: none;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+    border: 2px solid #000000;
+}
+
+.wrapper-dropdown-5:after { /* Little arrow */
+    content: "";
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    margin-top: -3px;
+    border-width: 6px 6px 0 6px;
+    border-style: solid;
+    border-color: #4cbeff transparent;
+}
+
+.wrapper-dropdown-5 .dropdown {
+    /* Size & position */
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+
+    /* Styles */
+    background: #fff;
+    border: 2px solid #000000;
+    border-top: none;
+    border-bottom: none;
+    list-style: none;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+
+    /* Hiding */
+    max-height: 0;
+    overflow: hidden;
+}
+
+.wrapper-dropdown-5 .dropdown li {
+    padding: 0 10px ;
+}
+
+.wrapper-dropdown-5 .dropdown li a {
+    display: block;
+    text-decoration: none;
+    color: #333;
+    padding: 10px 0;
+    transition: all 0.3s ease-out;
+    border-bottom: 1px solid #e6e8ea;
+}
+
+.wrapper-dropdown-5 .dropdown li:last-of-type a {
+    border: none;
+}
+
+.wrapper-dropdown-5 .dropdown li i {
+    margin-right: 5px;
+    color: inherit;
+    vertical-align: middle;
+}
+
+/* Hover state */
+
+.wrapper-dropdown-5 .dropdown li:hover a {
+    color: #57a9d9;
+}
+
+/* Active state */
+
+.wrapper-dropdown-5.active {
+    border-radius: 5px 5px 0 0;
+    background: #4cbeff;
+    box-shadow: none;
+    border-bottom: none;
+    color: white;
+}
+
+.wrapper-dropdown-5.active:after {
+    border-color: #82d1ff transparent;
+}
+
+.wrapper-dropdown-5.active .dropdown {
+    border-bottom: 1px solid #000000;
+    max-height: 400px;
+}
+
+/* No CSS3 support: none */
