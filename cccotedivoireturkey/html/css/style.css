@@ -92,7 +92,6 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .leftContent .contentImage { float: left; color: #d00000}
 .middle .content .leftContent .contentText { float: left; color : #b8b8b8; font-size: 13px; line-height: 22px; padding-bottom: 25px;}
 
-
 /* Right Menu */
 .middle .content .rightContent .rightMenu { width: 240px; background: #f2f2f2; float: left;}
 .middle .content .rightContent .rightMenu .rightMenuHeader { padding: 10px; display: block; font-family:  Century, "Arial sans-serif"; color: #589ad2; font-size: 13px;  }
