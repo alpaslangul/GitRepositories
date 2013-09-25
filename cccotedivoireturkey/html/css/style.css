@@ -41,10 +41,10 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .header .headerLeft .logo { width: 118px ; height: 119px; margin: 22px 0 0 16px; float: left; background: url("../img/logo.png") no-repeat center; }
 .header .headerLeft .headerMotto { font-size: 25px; color: #ffffff; text-shadow: 1px 1px 4px #000; float: left; margin: 73px 0 0 24px; }
 .header .headerRight { float: right; }
-.header .headerRight .languageSelect { width: 94px; height: 26px; float: right; margin: 16px 4px 0 0; background: url("../img/langImg.png")}
+.header .headerRight .languageSelect { width: 94px; height: 26px; float: right; margin: 16px 4px 0 0; background: url("../img/langImg.png"); font-family: Verdana, "Arial sans-serif"; color: #2f3338; font-size: 12px;}
 .header .headerRight .searchLayer { width: 244px; height: 27px; float: right; margin: 60px 4px 0 0;  clear: right;  background: url("../img/searcgImg.png")}
 .header .headerRight .searchLayer input { width: 204px; height: 23px; font-family: Verdana, "Arial sans-serif"; font-size: 13px; color: #d6d6d9; outline: none; padding-left: 5px; background: transparent; border: none;float: left;}
-.header .headerRight .searchLayer a { width: 21px; height: 21px; border: none;float: left; background: url("../img/magnify.png") no-repeat center; padding: 3px 0 3px 13px;}
+.header .headerRight .searchLayer a { width: 21px; height: 21px; border: none; float: left; background: url("../img/magnify.png") no-repeat center; margin: 3px 0 3px 13px;}
 
 .middle  { width: 1150px; float: left; }
 .middle .content { width: 950px; float: left; background: #ffffff;}
@@ -97,7 +97,7 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .rightContent .rightMenu { width: 240px; background: #f2f2f2; float: left;}
 .middle .content .rightContent .rightMenu .rightMenuHeader { padding: 10px; display: block; font-family:  Century, "Arial sans-serif"; color: #589ad2; font-size: 13px;  }
 .middle .content .rightContent .rightMenu img {  padding: 10px;   float: left;}
-.middle .content .rightContent .rightMenu .rightMenuItem { color: #b8b8b8; font-size: 13px; display: block;  padding: 9px; float: left; width: 185px;}
+.middle .content .rightContent .rightMenu .rightMenuItem { color: #b8b8b8; font-size: 13px; display: block;  padding: 9px; width: 185px;}
 .middle .content .rightContent .rightMenu .rightMenuItem:hover { color: #f77f00; font-weight: bold; cursor: pointer;}
 
 /* memberShip */
@@ -117,7 +117,7 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesTop { width: 250px; float: left; color: #6f6f6f; font-size: 16px; padding: 10px;  background-color: #c8e3fa }
 .middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesContent { width: 270px; float: left; color : #9c9c9c; font-size: 14px; padding-top: 10px;}
 .middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesContent img { padding: 10px 5px 5px 20px;  float: left;}
-.middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesContent .HeadLinesItem { display: block;  padding: 7px; float: left; width: 205px;}
+.middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesContent .HeadLinesItem { display: block;  padding: 7px; width: 205px;}
 .middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesContent .HeadLinesRepItem { clear: right; display: block;  padding: 17px; float: left; height: 60px; width: 144px;}
 
 .middle .content .connLeft .connectionForm { width: 430px; float: left; margin: 40px 0 0 45px;}
@@ -161,144 +161,19 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 
 /* Drop Down*/
 
-
-
 /* GLOBALS */
-
-*,
-*:after,
-*:before {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
-
-::selection {
-    background: transparent;
-}
-
-::-moz-selection {
-    background: transparent;
-}
-
-.wrapper-demo {
-    margin: 60px 0 0 0;
-    *zoom: 1;
-    font-weight: 400;
-}
-
-.wrapper-demo:after {
-    clear: both;
-    content: "";
-    display: table;
-}
-
-/* DEMO 5 */
-
-.wrapper-dropdown-5 {
-    /* Size & position */
-    position: relative;
-    width: 94px;
-    margin: 0 auto;
-    padding: 6px 6px;
-
-    /* Styles */
-    background: #fff;
-    cursor: pointer;
-    outline: none;
-    -webkit-transition: all 0.3s ease-out;
-    -moz-transition: all 0.3s ease-out;
-    -ms-transition: all 0.3s ease-out;
-    -o-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
-    border: 2px solid #000000;
-}
-
-.wrapper-dropdown-5:after { /* Little arrow */
-    content: "";
-    width: 0;
-    height: 0;
-    position: absolute;
-    top: 50%;
-    right: 15px;
-    margin-top: -3px;
-    border-width: 6px 6px 0 6px;
-    border-style: solid;
-    border-color: #4cbeff transparent;
-}
-
-.wrapper-dropdown-5 .dropdown {
-    /* Size & position */
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
-
-    /* Styles */
-    background: #fff;
-    border: 2px solid #000000;
-    border-top: none;
-    border-bottom: none;
-    list-style: none;
-    -webkit-transition: all 0.3s ease-out;
-    -moz-transition: all 0.3s ease-out;
-    -ms-transition: all 0.3s ease-out;
-    -o-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
-
-    /* Hiding */
-    max-height: 0;
-    overflow: hidden;
-}
-
-.wrapper-dropdown-5 .dropdown li {
-    padding: 0 10px ;
-}
-
-.wrapper-dropdown-5 .dropdown li a {
-    display: block;
-    text-decoration: none;
-    color: #333;
-    padding: 10px 0;
-    transition: all 0.3s ease-out;
-    border-bottom: 1px solid #e6e8ea;
-}
-
-.wrapper-dropdown-5 .dropdown li:last-of-type a {
-    border: none;
-}
-
-.wrapper-dropdown-5 .dropdown li i {
-    margin-right: 5px;
-    color: inherit;
-    vertical-align: middle;
-}
-
-/* Hover state */
-
-.wrapper-dropdown-5 .dropdown li:hover a {
-    color: #57a9d9;
-}
-
-/* Active state */
-
-.wrapper-dropdown-5.active {
-    border-radius: 5px 5px 0 0;
-    background: #4cbeff;
-    box-shadow: none;
-    border-bottom: none;
-    color: white;
-}
-
-.wrapper-dropdown-5.active:after {
-    border-color: #82d1ff transparent;
-}
-
-.wrapper-dropdown-5.active .dropdown {
-    border-bottom: 1px solid #000000;
-    max-height: 400px;
-}
-
-/* No CSS3 support: none */
+*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0;}
+.wrapper-demo{zoom:1;font-weight:400;margin:60px 0 0;}
+.wrapper-demo:after{clear:both;content:"";display:table;}
+.wrapper-dropdown-5{position:relative;width:94px;background:#fff;cursor:pointer;outline:none;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-ms-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out;border:1px solid #556069;margin:0 auto;padding:6px;}
+.wrapper-dropdown-5:after{content:"";width:0;height:0;position:absolute;top:50%;margin-top:-3px;right:8px;border-color: #01ac26 transparent;border-style:solid;border-width:6px 6px 0;}
+.wrapper-dropdown-5 .dropdown{position:absolute;top:100%;left:0;right:0;background:#fff;border:1px solid #556069;border-top:none;border-bottom:none;list-style:none;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-ms-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out;max-height:0;overflow:hidden;width:94px;margin-left:-1px;}
+.wrapper-dropdown-5 .dropdown li{padding:0 10px;}
+.wrapper-dropdown-5 .dropdown li a{display:block;text-decoration:none;color:#333;transition:all .3s ease-out;border-bottom:1px solid #e6e8ea;padding:5px 0;}
+.wrapper-dropdown-5 .dropdown li:last-of-type a{border:none;}
+.wrapper-dropdown-5 .dropdown li i{margin-right:5px;color:inherit;vertical-align:middle;}
+.wrapper-dropdown-5 .dropdown li:hover a{color:#57a9d9;}
+.wrapper-dropdown-5.active{background: #01ac26;box-shadow:none;border-bottom:none;color:#FFF;}
+.wrapper-dropdown-5.active:after{border-color: #ffffff transparent;}
+.wrapper-dropdown-5.active .dropdown{border-bottom:1px solid #556069;max-height:400px;}
+::selection,::-moz-selection{background:transparent;}
