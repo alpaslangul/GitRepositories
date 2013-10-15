@@ -6,7 +6,7 @@ CA = {
 
     objectLoad : function () {
         $('#image').load(function(){
-            $('#image').delay(1000).fadeIn(300);
+            $(this).fadeIn(100);
             console.log('dosya yüklendi');
         })
     }
