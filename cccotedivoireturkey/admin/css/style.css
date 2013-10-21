@@ -41,3 +41,17 @@ a{ cursor : pointer;}
 .container .loginRight .loginMiddle  {  height: 117px; float: left; }
 .container .loginRight .loginBottom  {  height: 74px; float: left; line-height: 70px; }
 
+/* signin page*/
+
+#signin .wrapper { font-family: Helvetica, 'Arial sans-serif'; }
+#signin .container { width: 512px; height: 485px; background: #fff; margin: 100px auto; border: 1px solid #777; border-radius : 5px;}
+.wrapper .inner { width: 512px;  float: left;  }
+.wrapper .inner .innerTop { width: 100%; margin: 22px 0 0 52px; }
+.wrapper .inner .innerLeft { width: 256px; float: left; margin-top: 20px; }
+.wrapper .inner .innerLeft p { font-size: 14px; color: #777; margin: 15px 0 0 78px; }
+.wrapper .inner .innerRight { width: 256px; float: left; margin-top: 20px;  }
+.wrapper .inner .innerRight input[type=text]{ width: 203px; height: 22px; margin: 5px 0; }
+.wrapper .inner .innerRight select{ width: 203px; height: 22px; margin: 5px 0; }
+.wrapper .inner input[type=button] { width: 125px; height: 32px; color: #555; border-radius : 4px; box-shadow: 1px 1px #d1d0d0; text-shadow: 1px 1px #fff; border: none; outline: none; float: right; margin: 25px 52px 0 0; background: url("../img/btnGreen.png") }
+.wrapper .inner input[type=button]:hover { color: #fff; text-shadow: 1px 1px #777; box-shadow: 1px 1px #b4b1b1; cursor: pointer;   }
+.wrapper .inner .terms { width: 100%; float: right; font-size: 11px; text-align: right; padding: 10px 50px; cursor: pointer; }
