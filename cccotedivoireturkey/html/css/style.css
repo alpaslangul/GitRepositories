@@ -33,6 +33,45 @@
     font-style: normal;
 }
 
+@font-face
+{
+    font-family: 'Omnes';
+    src: url('../font/Omnes.eot');
+    src: url('../font/Omnes.eot') format('embedded-opentype'),
+    url('../font/Omnes.woff') format('woff'),
+    url('../font/Omnes.ttf') format('truetype'),
+    url('../font/Omnes.svg#Omnes') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'OmnesSemiBold';
+    src: url('../font/OmnesSemiBold.eot');
+    src: url('../font/OmnesSemiBold.eot') format('embedded-opentype'),
+    url('../font/OmnesSemiBold.woff') format('woff'),
+    url('../font/OmnesSemiBold.ttf') format('truetype'),
+    url('../font/OmnesSemiBold.svg#OmnesSemiBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'OmnesRegular';
+    src: url('../font/OmnesRegular.eot');
+    src: url('../font/OmnesRegular.eot') format('embedded-opentype'),
+    url('../font/OmnesRegular.woff') format('woff'),
+    url('../font/OmnesRegular.ttf') format('truetype'),
+    url('../font/OmnesRegular.svg#OmnesRegular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+/******* Generic *******/
+.red { color: red !important;}
 body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduITC, "Arial sans-serif"; background-color: #eeebe4;}
 
 .container { width: 950px; margin:  0 auto; height: 250px; }
@@ -88,9 +127,12 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .sponsors .sponsorsContainer .spnsRightBtn { width: 29px; height: 129px; background: url("../img/rightArrow.png") no-repeat center }
 .middle .content .connLeft  { float: left; }
 .middle .content .connRight { float: left; }
-.middle .content .leftContent .contentHeader { float: left; color: #d00000; width: 500px; margin-top: 15px; margin-bottom: 15px;}
+.middle .content .leftContent .contentHeader { font-family:  OmnesSemiBold, "Arial sans-serif"; font-size: 18px; font-weight: bold; float: left; color: #d00000; width: 100%; margin-top: 15px; margin-bottom: 15px;}
+.middle .content .leftContent .contentHeadLine { font-family:  OmnesSemiBold, "Arial sans-serif"; font-weight: bold; font-size: 14px; float: left; color: #3d3d3d; width: 100%; margin: 5px 0 5px 0;}
+
 .middle .content .leftContent .contentImage { float: left; color: #d00000}
-.middle .content .leftContent .contentText { float: left; color : #b8b8b8; font-size: 13px; line-height: 22px; padding-bottom: 25px;}
+.middle .content .leftContent .contentText { font-family:  Omnes, "Arial sans-serif"; float: left; color : #8f8f8f; font-size: 13px; line-height: 22px; padding-bottom: 25px;}
+.middle .content .leftContent  span { font-size: 14px; font-weight: bold;}
 
 /* Right Menu */
 .middle .content .rightContent .rightMenu { width: 240px; background: #f2f2f2; float: left;}
