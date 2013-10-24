@@ -3,9 +3,7 @@
 <head>
     <title>Côte d'Ivoire</title>
     <link rel="stylesheet" href="css/style.css"/>
-    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
     <meta charset="utf-8">
-    <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
 
 </head>
 <body>
@@ -38,12 +36,12 @@
          <div class="content">
              <div class="menu">
                  <ul>
-                     <li>Ana Sayfa</li>
-                     <li>Hakkımızda</li>
-                     <li>Hizmetlerimiz</li>
-                     <li>Yönetim</li>
-                     <li>Üyelik</li>
-                     <li>Bize Ulaşın</li>
+                     <li><a href="index.html">Ana Sayfa</a></li>
+                     <li><a href="aboutus.html">Hakkımızda</a></li>
+                     <li><a href="services.html">Hizmetlerimiz</a></li>
+                     <li><a href="executive.html">Yönetim</a></li>
+                     <li><a href="members.html">Üyelik</a></li>
+                     <li><a href="connection.html">Bize Ulaşın</a></li>
                  </ul>
              </div>
              <div class="leftContent">
@@ -127,10 +125,22 @@
              </div>
              <div class="sponsors">
                  <span class="HeadLine">Sponsorlarımız</span>
-                 <div class="sponsorsContainer">
-                    <a href="#" class="spnsLeftBtn"></a>
-                    <div class="spnsImg"></div>
-                    <a href="#" class="spnsRightBtn"></a>
+                 <div class="sponsorsWrapper">
+                    <div class="spnsLeftBtn"></div>
+                    <div class="spnsImg">
+                        <div class="sponsorsContainer">
+                            <div class="sliderImage">
+                                <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors.png" alt="eset"/></a>
+                            </div>
+                            <div class="sliderImage">
+                                <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors2.png" alt="eset"/></a>
+                            </div>
+                            <div class="sliderImage">
+                                <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors3.png" alt="eset"/></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="spnsRightBtn"></div>
                  </div>
              </div>
          </div>
@@ -176,16 +186,17 @@
             </div>
             <div class="socialColumn">
                 <div class="socClmContainer">
-                    <img src="img/mailIco.png" alt=""/>
-                    <img src="img/rssIco.png" alt=""/>
-                    <img src="img/facebookIco.png" alt=""/>
-                    <img src="img/twitterIco.png" alt=""/>
+                    <a href="#" class="Ico" id="fb"></a>
+                    <a href="#" class="Ico" id="tw"></a>
+                    <a href="#" class="Ico" id="rss"></a>
+                    <a href="#" class="Ico" id="mail"></a>
                 </div>
             </div>
         </div>
 
     </div>
-
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
     <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
 
