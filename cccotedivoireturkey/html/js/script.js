@@ -1,11 +1,13 @@
 CCC = {
     id : 1,
     imageW : 824,
+    itemCount : $('.sponsorsContainer').children('.sliderImage').siblings().length,
 
     commonInit : function() {
         $('#mainSearch').bind('click', CCC.clear);
         $('.spnsLeftBtn').on('click', CCC.slider.leftClick);
         $('.spnsRightBtn').on('click', CCC.slider.rightClick);
+        $('.sponsorsContainer').css('width', CCC.imageW * CCC.itemCount);
     },
 
     clear : function() {
@@ -16,16 +18,15 @@ CCC = {
 
 
         timer : function () {
-            var t = 0;
             setInterval(function()
             {
-                CCC.slider.rightClick()
+                CCC.slider.rightClick();
             }, 3000);
         },
 
         leftClick : function ()
         {
-            if (CCC.id < 4 && CCC.id > 1)
+            if (CCC.id < (CCC.itemCount)+1 && CCC.id > (CCC.itemCount)-(CCC.itemCount-1))
             {
                 $('.sponsorsContainer').animate({marginLeft: -CCC.imageW * (CCC.id-2) }, 1000, function () { });
                 CCC.id--
@@ -34,20 +35,20 @@ CCC = {
 
         rightClick : function ()
         {
-            if (CCC.id < 3)
+            if (CCC.id < (CCC.itemCount))
             {
                 $('.sponsorsContainer').animate({marginLeft: -CCC.imageW * CCC.id}, 1000, function () { });
                 CCC.id++
 
-            } else if (CCC.id = 3) {
+            } else if (CCC.id = (CCC.itemCount)) {
                 $('.sponsorsContainer').animate({marginLeft: 0}, 1000, function () { });
                 CCC.id = 1;
             }
         }
     }
-}
+};
 
 $(document).ready( function() {
     CCC.commonInit();
-    CCC.slider.timer();
-})
+    CCC.slider.timer()
+});
