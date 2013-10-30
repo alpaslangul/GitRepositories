@@ -17,6 +17,7 @@
  * @author Brent R. Matzelle
  * @copyright 2001 - 2003 Brent R. Matzelle
  */
+
 class PHPMailer
 {
     /////////////////////////////////////////////////
@@ -593,6 +594,7 @@ class PHPMailer
      * @access public
      * @return bool
      */
+
     function SetLanguage($lang_type, $lang_path = "language/") {
         if(file_exists($lang_path.'phpmailer.lang-'.$lang_type.'.php'))
             include($lang_path.'phpmailer.lang-'.$lang_type.'.php');
@@ -604,7 +606,7 @@ class PHPMailer
             return false;
         }
         $this->language = $PHPMAILER_LANG;
-    
+
         return true;
     }
 

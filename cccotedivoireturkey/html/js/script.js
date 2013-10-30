@@ -8,10 +8,24 @@ CCC = {
         $('.spnsLeftBtn').on('click', CCC.slider.leftClick);
         $('.spnsRightBtn').on('click', CCC.slider.rightClick);
         $('.sponsorsContainer').css('width', CCC.imageW * CCC.itemCount);
+        $('.up').bind('click', CCC.pageUp)
+        $('.maps-button').bind('click', CCC.pageDown)
     },
 
     clear : function() {
         $('#mainSearch').attr('value', '');
+    },
+
+    pageUp : function () {
+        $('html, body').animate({scrollTop:0}, 'slow', function(){
+
+        })
+    },
+
+    pageDown : function () {
+        $('html, body').animate({scrollTop:300}, 'slow', function(){
+
+        })
     },
 
     slider : {

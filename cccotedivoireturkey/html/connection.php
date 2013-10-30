@@ -1,6 +1,4 @@
-<?php
-    include 'header.php';
-?>
+<?php include 'header.php'; ?>
 <div class="middle">
     <div class="content">
         <div class="menu">
@@ -59,9 +57,8 @@
 
             </div>
             <div class="connectionText">
-                <span>Adres </span><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
-                <span>Telefon</span><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
-                <span>Fax </span><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+                <span>Adres </span><p>Osmanpaşa cad. No: 11/B Kağıthane / İstanbul / Türkiye</p>
+                <span>Telefon</span><p>+90 212 295 08 85 </p>
                 <span>E-mail </span><p> info@cccotedivoireturkey.com </p>
             </div>
         </div>
@@ -165,7 +162,7 @@
         <div class="socialColumn">
             <div class="socClmContainer">
                 <a href="#" class="Ico" id="fb"></a>
-                <a href="#" class="Ico" id="tw"></a>
+<!--                <a href="#" class="Ico" id="tw"></a>-->
                 <a href="#" class="Ico" id="rss"></a>
                 <a href="#" class="Ico" id="mail"></a>
             </div>
@@ -178,6 +175,7 @@
 
 </body>
 <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
 <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
 <script type="text/javascript" src="js/dwopdown.js"></script>
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>

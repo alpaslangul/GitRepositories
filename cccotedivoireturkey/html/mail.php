@@ -14,7 +14,7 @@ $mail->Fromname = "cccotedivoireturkey.com web form";
 $mail->AddAddress("sonererdogan@cccotedivoireturkey.com","Soner Erdoğan");
 $mail->AddAddress("osmangumuskaya@cccotedivoireturkey.com","Osman Gümüşkaya");
 $mail->AddAddress("osmangumuskaya@cccotedivoireturkey.com","Mualla Göksu");
-$mail->AddAddress("alpaslan@moni.com.tr","Alpaslan Gül");
+//$mail->AddAddress("alpaslan@moni.com.tr","Alpaslan Gül");
 $mail->Subject  =  $_POST['web form'];
 $mail->Body     =  implode("    ",$_POST);
 
