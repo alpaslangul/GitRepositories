@@ -2,71 +2,10 @@
 <head>
     <title>Côte d'Ivoire</title>
     <link rel="stylesheet" href="css/style.css">
-    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
     <meta charset="utf-8">
 
-    <script type="text/javascript"
-            src="http://maps.google.com/maps/api/js?sensor=false">
-    </script>
-    <script type="text/javascript">
-
-        var map;
-        var directionsService;
-        var directionsRenderer;
-        var nereye="41.066726, 28.98688";
-
-        function initialize() {
-            map = new google.maps.Map(document.getElementById("map_canvas"),
-                    {
-                        zoom: 13,
-                        mapTypeId: google.maps.MapTypeId.ROADMAP,
-                        center: new google.maps.LatLng(41.066726, 28.98688)
-
-
-                    });
-            var image = 'http://www.moni.com.tr/Repositories/cccotedivoireturkey/html/img/cccIcon.png';
-            var myLatLng = new google.maps.LatLng(41.066726, 28.98688);
-            var beachMarker = new google.maps.Marker({
-                position: myLatLng,
-                map: map,
-                icon: image
-            });
-
-
-
-            directionsRenderer = new google.maps.DirectionsRenderer();
-            directionsRenderer.setMap(map);
-            directionsRenderer.setPanel(document.getElementById('directions'));
-            directionsService = new google.maps.DirectionsService();
-
-            Form=document.forms['harita'];
-
-        }
-
-        function YolTarifi(Nerden, Nereye) {
-            var request = {
-                origin: Nerden,
-                destination: Nereye,
-                travelMode: google.maps.DirectionsTravelMode.DRIVING,
-                unitSystem: google.maps.DirectionsUnitSystem.METRIC
-
-            };
-
-            directionsService.route(request, function(response, status) {
-                if (status == google.maps.DirectionsStatus.OK) {
-                    directionsRenderer.setDirections(response);
-                } else {
-                    alert('Yol Tarifi Oluşturulamadı');
-                }
-            });
-        }
-
-
-    </script>
-
-
 </head>
-<body onload="initialize()">
+<body id="connection" onload="initialize()">
 <div class="container">
 
     <div class="header">
@@ -234,8 +173,65 @@
 
     </div>
 
-
 </div>
 
 </body>
+<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript">
+
+    var map;
+    var directionsService;
+    var directionsRenderer;
+    var nereye="41.066726, 28.98688";
+
+    function initialize() {
+        map = new google.maps.Map(document.getElementById("map_canvas"),
+                {
+                    zoom: 13,
+                    mapTypeId: google.maps.MapTypeId.ROADMAP,
+                    center: new google.maps.LatLng(41.066726, 28.98688)
+
+
+                });
+        var image = 'http://www.moni.com.tr/Repositories/cccotedivoireturkey/html/img/cccIcon.png';
+        var myLatLng = new google.maps.LatLng(41.066726, 28.98688);
+        var beachMarker = new google.maps.Marker({
+            position: myLatLng,
+            map: map,
+            icon: image
+        });
+
+
+
+        directionsRenderer = new google.maps.DirectionsRenderer();
+        directionsRenderer.setMap(map);
+        directionsRenderer.setPanel(document.getElementById('directions'));
+        directionsService = new google.maps.DirectionsService();
+
+        Form=document.forms['harita'];
+
+    }
+
+    function YolTarifi(Nerden, Nereye) {
+        var request = {
+            origin: Nerden,
+            destination: Nereye,
+            travelMode: google.maps.DirectionsTravelMode.DRIVING,
+            unitSystem: google.maps.DirectionsUnitSystem.METRIC
+
+        };
+
+        directionsService.route(request, function(response, status) {
+            if (status == google.maps.DirectionsStatus.OK) {
+                directionsRenderer.setDirections(response);
+            } else {
+                alert('Yol Tarifi Oluşturulamadı');
+            }
+        });
+    }
+
+
+</script>
+
 </html>

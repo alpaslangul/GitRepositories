@@ -96,7 +96,7 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .leftContent { width: 600px; float: left; margin-left: 37px; margin-top: 32px; }
 .middle .content .leftContent .insideContent { float: left; padding-bottom: 15px; }
 .middle .content .leftContent .insideContent img { margin-top: 16px; }
-.middle .content .leftContent .insideContent p { font-family:  ConduITCLight, "Arial sans-serif"; text-align: justify; line-height: 22px; color: #b5b6b6; font-size: 13px; padding: 8px 11px 0 3px;}
+.middle .content .leftContent .insideContent p { font-family:  ConduITCLight, "Arial sans-serif"; text-align: justify; line-height: 22px; color: #717474; font-size: 13px; padding: 8px 11px 0 3px;}
 .middle .content .rightContent { width: 242px;  margin-left: 37px; float: left; margin-top: 32px;}
 .middle .content .rightContent .chief { width: 240px; }
 .middle .content .HeadLine {font-family:  ConduITCLight, "Arial sans-serif"; color : #a3a3a3; font-size: 22px;}
@@ -168,10 +168,11 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .connLeft .connectionForm { width: 430px; float: left; margin: 40px 0 0 45px;}
 .middle .content .connLeft .connectionForm .connFormHeader { color : red;}
 .middle .content .connLeft .connectionForm .connForm { float: left; }
-.middle .content .connLeft .connectionForm .connForm input[type="button"] { width: 90px; height: 23px; float: right; background: #589ad2; border: none; color: #ffffff; margin-right: 34px; margin-top: 10px;}
 .middle .content .connLeft .connectionForm .connForm .formLeft { width: 115px; float: left; }
 .middle .content .connLeft .connectionForm .connForm .formLeft span {font-size: 14px; color : #b8b8b8; display: block;  margin-top: 10px;}
 .middle .content .connLeft .connectionForm .connForm .formRight  { width: 280px; float: left; }
+.middle .content .connLeft .connectionForm .connForm .formRight form { margin-top: 5px; }
+.middle .content .connLeft .connectionForm .connForm .formRight form p #btn  { width: 90px; height: 23px; float: right; background: #589ad2; border: none; color: #ffffff; margin-top: 10px;}
 .middle .content .connLeft .connectionForm .connForm .formRight input { width: 280px; margin: 2px auto;}
 .middle .content .connLeft .connectionForm .connForm .formRight textarea {width: 280px; resize: none;}
 .middle .content .connRight .connectionMap { width: 430px; float: left; margin-top: 40px;}

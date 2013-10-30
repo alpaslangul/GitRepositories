@@ -6,7 +6,7 @@
     <meta charset="utf-8">
 
 </head>
-<body>
+<body id="index">
 <div class="container">
 
     <div class="header">
@@ -41,22 +41,21 @@
                      <li><a href="services.html">Hizmetlerimiz</a></li>
                      <li><a href="executive.html">Yönetim</a></li>
                      <li><a href="members.html">Üyelik</a></li>
-                     <li><a href="connection.html">Bize Ulaşın</a></li>
+                     <li><a href="connection.php">Bize Ulaşın</a></li>
                  </ul>
              </div>
              <div class="leftContent">
                  <div class="insideContent">
                       <span class="HeadLine">Hakkımızda</span>
                       <img src="img/image.png" alt=""/>
-                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-                          standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to
-                          make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,
-                          remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing
-                          Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
-                          of Lorem Ipsum.
-
-                          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
-                          literature from 45 BC, making it over 2000 years old.
+                      <p style="font-size: 20px; font-weight: bold;">Misyonumuz & Vizyonumuz</p>
+                      <p>Girişimciye rehberlik hizmeti ve profesyonel ufku genişleterek ilerlemesine katkıda bulunma<br />
+                         Bölgesel ekonomi gelişimine katkıda bulunma, iş imkanları geliştirme ve muhafaza etme, geleceğin girişimcilerine ve şirket kurucularına yol gösterme ve destek verme<br />
+                         Bilgi ve tecrübeleri paylaşarak profesyonel hayatta yalnızlığa son verme<br />
+                         Mensuplar arasında bir dinamik oluşturarak ekonomik alışverişlere güvenli bir ortam sağlama<br />
+                         Üyeler arasında dostluk ilişkileri ve dayanışma ortamı sağlama ve geliştirme, ve daha geniş bir anlamda profesyonel dünyada insanî değerlere daha çok yer verme<br />
+                         Daha tecrübeli girişimcilerle karşılaşmaları arttırarak gençlere girişimcilik ruhunu aktarma<br />
+                         Özel, kamusal veya lokal kuruluşlarda girişimcileri temsil etme ve aktivitelerinin reklamını yapma,profesyonel hayatlarına pozitif etki sağlama - See more at: http://www.betiad.be/notre-mission/?lang=tr#sthash.2PMCK9Lk.dpuf
                       </p>
                  </div>
                  <div class="insideContent">
@@ -71,24 +70,20 @@
 
              <div class="rightContent">
 
-                 <div class="chief">
-                     <span class="HeadLine">Başkan</span>
-                     <div class="chiefDisplay">
-                         <img src="img/chief.png" alt=""/>
-                         <span class="chiefTitle">Yönetim<br />
-                               Kurulu Başkanı
-                         </span>
-                         <span class="chiefName">Osman Gümüşkaya</span>
-                         <span class="chiefDetail">
-                             Lorem Ipsum is simply dummy text of the printing.
-                         </span>
-                     </div>
-                     <div class="chiefText">
-                         Lorem Ipsum is simply dummy text of the printing and
-                         typesetting industry. Lorem Ipsum has been the industry's
-                         standard dummy text ever since the 1500s.
-                     </div>
-                     <a href="#" class="chiefButton">Devamı</a>
+                 <div class="rightMenu">
+                     <span class="rightMenuHeader">Başlıklar</span>
+                     <img src="img/arrow.png" alt=""/><span class="rightMenuItem"><a href="#" ></a>Temsilcilikler</span>
+                     <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yetkililer</span>
+                     <img src="img/arrow.png" alt=""/><span class="rightMenuItem">İletişim ağları</span>
+                     <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Aracılık hizmetleri</span>
+                     <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Eğitimler</span>
+                     <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yatırımlar</span>
+                     <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Sponsorluk <olanakları></olanakları></span>
+                     <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Vize hizmetleri</span>
+                     <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Üyelik</span>
+                     <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yıllık rapor</span>
+                     <img src="img/arrow.png" alt=""/><span class="rightMenuItem">E-bülten</span>
+                     <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yayınlarımız</span>
                  </div>
 
                  <div class="newsWrapper">
@@ -200,38 +195,8 @@
     </div>
     <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
-    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
-
-    <script type="text/javascript">
-
-        function DropDown(el) {
-            this.dd = el;
-            this.initEvents();
-        }
-        DropDown.prototype = {
-            initEvents : function() {
-                var obj = this;
-
-                obj.dd.on('click', function(event){
-                    $(this).toggleClass('active');
-                    event.stopPropagation();
-                });
-            }
-        };
-
-        $(function() {
-
-            var dd = new DropDown( $('#dd') );
-
-            $(document).click(function() {
-                // all dropdowns
-                $('.wrapper-dropdown-5').removeClass('active');
-            });
-
-        });
-
-    </script>
+    <script type="text/javascript" src="js/dwopdown.js"></script>
 
 </div>
 </body>
