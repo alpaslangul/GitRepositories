@@ -2,7 +2,7 @@
 require("class.phpmailer.php");
 
 $mail = new PHPMailer();
-
+$mail -> charSet = "UTF-8";
 $mail->IsSMTP();                                   // send via SMTP
 $mail->Host     = "mail.cccotedivoireturkey.com"; // SMTP servers
 $mail->SMTPAuth = true;     // turn on SMTP authentication
@@ -11,10 +11,10 @@ $mail->Password = "Moni123"; // SMTP password
 
 $mail->From     = "web@cccotedivoireturkey.com"; // smtp kullan�c� ad�n�z ile ayn� olmal�
 $mail->Fromname = "cccotedivoireturkey.com web form";
-$mail->AddAddress("sonererdogan@cccotedivoireturkey.com","Soner Erdoğan");
-$mail->AddAddress("osmangumuskaya@cccotedivoireturkey.com","Osman Gümüşkaya");
-$mail->AddAddress("osmangumuskaya@cccotedivoireturkey.com","Mualla Göksu");
-//$mail->AddAddress("alpaslan@moni.com.tr","Alpaslan Gül");
+//$mail->AddAddress("sonererdogan@cccotedivoireturkey.com","Soner Erdoğan");
+//$mail->AddAddress("osmangumuskaya@cccotedivoireturkey.com","Osman Gümüşkaya");
+//$mail->AddAddress("osmangumuskaya@cccotedivoireturkey.com","Mualla Göksu");
+$mail->AddAddress("alpaslan@moni.com.tr","Alpaslan Gül");
 $mail->Subject  =  $_POST['web form'];
 $mail->Body     =  implode("    ",$_POST);
 

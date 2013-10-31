@@ -26,7 +26,7 @@
                                 <input type="text" name="sehir" size="20">
                             </p>
                             <p>
-                                <input type="text" name="telefon" size="20">
+                                <input type="text" name="telefon" size="20" >
                             </p>
                             <p>
                                 <input type="text" name="mailad" size="20">
