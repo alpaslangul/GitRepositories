@@ -1,7 +1,7 @@
 SLIDER = {
 //    variables
     itemCount : $('.dynamics').children('.sliderItems').siblings().length,
-    imageSize : $(this).children('.sliderItems').children('img').width(),
+    imageSize : $('.dynamics').children('.sliderItems').children('img').width(),
     start : 1,
 
     commonInit : function ()
@@ -27,7 +27,6 @@ SLIDER = {
         {
             push = slideWidth*SLIDER.start;
             $('.dynamics').animate({marginLeft:-push},1000);
-            console.log('start Item =',SLIDER.start);
             SLIDER.start++;
 
         } else if (SLIDER.start = SLIDER.itemCount)
