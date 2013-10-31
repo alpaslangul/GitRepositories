@@ -11,15 +11,12 @@
         $resultName = $filename.'"'.' onload="initialize()"';
         }
 ?>
-<html>
-<head>
+<html><head>
     <title>Côte d'Ivoire</title>
     <link rel="stylesheet" href="css/style.css">
     <meta charset="utf-8">
-
 </head>
-
-<body id="<?php echo $resultName ?>">
+<body>
 <div class="container">
 
     <div class="header">
@@ -45,3 +42,15 @@
             </div>
         </div>
     </div>
+    <div class="middle">
+        <div class="content">
+            <div class="menu">
+                <ul>
+                    <li id="1"><a href="index.php" >Ana Sayfa</a></li>
+                    <li id="2"><a href="aboutus.php" >Hakkımızda</a></li>
+                    <li id="3"><a href="services.php" >Hizmetlerimiz</a></li>
+                    <li id="4"><a href="executive.php" >Yönetim</a></li>
+                    <li id="5"><a href="members.php" >Üyelik</a></li>
+                    <li id="6"><a href="connection.php" >Bize Ulaşın</a></li>
+                </ul>
+            </div>

@@ -1,50 +1,32 @@
-<html><head>
-    <title>Côte d'Ivoire</title>
-    <link rel="stylesheet" href="css/style.css">
-    <meta charset="utf-8">
-</head>
-<body>
-<div class="container">
-
-    <div class="header">
-        <div class="headerLeft">
-            <div class="logo"></div>
-             <span class="headerMotto">Chambre De Commerce  Et D’ındustrıe <br />
-                   Turque En Cote D’ıvoıre
-             </span>
-        </div>
-        <div class="headerRight">
-            <div class="languageSelect">
-                <div id="dd" class="wrapper-dropdown-5" tabindex="1">Dil Seçimi
-                    <ul class="dropdown">
-                        <li><a href="#"><i class="icon-user"></i>Türkçe</a></li>
-                        <li><a href="#"><i class="icon-cog"></i>Fransızca</a></li>
-                        <li><a href="#"><i class="icon-remove"></i>İngilizce</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="searchLayer">
-                <input type="text" id="mainSearch" value="ARAMA" title="search"/>
-                <a href="#"></a>
-            </div>
-        </div>
-    </div>
-    <div class="middle">
-        <div class="content">
-            <div class="menu">
-                <ul>
-                    <li id="1"><a href="index-eski.html" >Ana Sayfa</a></li>
-                    <li id="2"><a href="aboutus.html" >Hakkımızda</a></li>
-                    <li id="3"><a href="services.html" >Hizmetlerimiz</a></li>
-                    <li id="4"><a href="executive.html" >Yönetim</a></li>
-                    <li id="5"><a href="members.html" >Üyelik</a></li>
-                    <li id="6"><a href="connection.php" >Bize Ulaşın</a></li>
-                </ul>
-            </div>
-
-            <!--LEFT CONTENT-->
+<?php include 'header.php'; ?>
             <div class="leftContent">
-                <p style="font-size: 23px !important;">Tasarım aşamasında</p>
+                <span class="contentHeader">Hakkımızda</span>
+                <span class="contentHeadLine">Fildişi Sahili ile Türkiye Arasındaki Ticari Köprü</span>
+                <p class="contentText">
+                    Türkiye'deki Fildişi Sahili Ticaret Odası Fildişi Sahili ile Türkiye arasındaki ticari köprü ve komünikasyon merkezi olma misyonunu üstlenmiştir.
+                    Hizmetler yelpazesi iki ülkeler hakkında bilgi verme ve danışmanlık, irtibat hizmetleri, lojistik hizmetler, fuar katılımı için yardım hizmetlerini
+                    kapsamaktadır.
+                </p>
+                <span class="contentHeadLine">Üyelerimiz:</span>
+                <p class="contentText">
+                    Türkiye'de Fildişi Sahili Ticaret Odası Sahili'nden ve Türkiye'den toplam 165 üyesi vardır. Üyelerimiz, imalat, ticaret ve hizmet
+                    sektörlerinin her alanında faaliyet gösterirler, her birinin her iki ülkede geniş iş tecrübeleri vardır ve büyük bir ilişkiler ağı oluşturmaktadırlar.
+                </p>
+                <span class="contentHeadLine">Aktivitelerimiz:</span>
+                <p class="contentText">
+                    Yayınlar (Dergi, Bülten), fuar aktiviteleri, Fildişi Sahili-Türkiye temaslarının her düzeyde sürdürülmesi, Fildişi Sahili ve Türkiye'nin
+                    ekonomik itibarının olumlu gelişmesinde önemli katkılarda bulunma, yatırımcı arama ve temas kurdurtma.
+                </p>
+                <span class="contentHeadLine">Kuruluş yılı:</span>
+                <p class="contentText">2013</p>
+
+                <span class="contentHeadLine">Detaylar:</span>
+                <p class="contentText">
+                    Sorumluluk alanı:<br/>
+                    Fildişi Sahili-Türkiye bağlantısı, firma adresleri, Fildişi Sahili üyelerimizle temas, bülten, projeler, aktiviteler.<br/>
+                    e-posta: info@cccotedivoireturkey.com<br/>
+                </p>
+
             </div>
 
             <div class="rightContent">
@@ -155,9 +137,15 @@
 <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
 <script type="text/javascript" src="js/dwopdown.js"></script>
 <script type="text/javascript" src="js/script.js"></script>
+<script src="js/cufon-yui.js" type="text/javascript"></script>
+<script src="js/cufon/Omnes_400-Omnes_SemBd_600-Omnes_italic_700-Omnes_italic_700.font.js" type="text/javascript"></script>
+
 <script type="text/javascript">
-    $('#5 a').css('color', '#f77f00');
-    $('#5').css('background', 'url("img/sprite.png") no-repeat -2px -1px');
+    Cufon.replace('.contentHeader');
+    Cufon.replace('.contentHeadLine');
+    $('#2 a').css('color', '#f77f00');
+    $('#2').css('background', 'url("img/sprite.png") no-repeat -2px -1px');
 </script>
+
 </body>
 </html>

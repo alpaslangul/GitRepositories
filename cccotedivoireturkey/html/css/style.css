@@ -99,11 +99,11 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 /********* SLIDER *********/
 .middle .content .leftContent .sliderWrapper { width: 593px; height: 328px;  margin-top: 16px; margin-bottom: 20px; overflow-x: hidden; }
 .middle .content .leftContent .sliderWrapper .dynamics { height: inherit; overflow-y: hidden; }
-.middle .content .leftContent .sliderWrapper .dynamics .sliderItems { float: left; height: inherit;  }
+.middle .content .leftContent .sliderWrapper .dynamics .sliderItems { float: left; height: inherit;  position: relative;}
 
 .middle .content .rightContent { width: 242px;  margin-left: 37px; float: left; margin-top: 32px;}
 .middle .content .rightContent .chief { width: 240px; }
-.middle .content .HeadLine {font-family:  ConduITCLight, "Arial sans-serif"; color: #717474; font-size: 18px !important;}
+.middle .content .HeadLine {font-family:  ConduITCLight, "Arial sans-serif"; color: #717474; font-size: 22px !important;}
 .middle .content .rightContent .chief .chiefDisplay {margin-top: 16px; }
 .middle .content .rightContent .chief .chiefDisplay img  {float: left}
 .middle .content .rightContent .chief .chiefDisplay span {width: 111px; margin-left: 10px; float: left;  font-size: 13px; margin-bottom: 11px;}
@@ -185,9 +185,9 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .connRight .connectionMap { width: 430px; float: left; margin-top: 40px;}
 .middle .content .connRight .connectionMap input[name="nerden"]{ padding-left: 5px; height: 23px; outline: none; border-color: #589ad2;}
 .middle .content .connRight .connectionMap .maps-button { border: none; background: #589ad2; width: 135px; height: 23px;  color: #ffffff;}
-.middle .content .connLeft .connectionText  { width: 430px; float: left; clear: left; margin: 50px 0 45px 45px;  }
-.middle .content .connLeft .connectionText span  { width: 100px; float: left; color : #ff0000; }
-.middle .content .connLeft .connectionText p {  width: 320px; float: left; color : #b8b8b8; }
+.middle .content .connLeft .connectionText  { font-family:  Omnes, "Arial sans-serif"; font-size: 13px; line-height: 18px; width: 430px; float: left; clear: left; margin: 50px 0 45px 45px;  }
+.middle .content .connLeft .connectionText div span  { width: 115px; float: left; color : #ff0000; }
+.middle .content .connLeft .connectionText div p {  width: 295px; float: left; color : #b8b8b8; }
 
 .advertising { width: 161px; float: left;height: 500px;}
 .advertising img { padding: 4px; }
@@ -221,7 +221,6 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .footer .foot .socialColumn .socClmContainer #mail { background-position: -68px 69px; }
 .footer .foot .socialColumn .socClmContainer #mail:hover { background-position: -68px 36px; }
 
-
 /* Drop Down*/
 
 /* GLOBALS */
@@ -240,3 +239,8 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .wrapper-dropdown-5.active:after{border-color: #ffffff transparent;}
 .wrapper-dropdown-5.active .dropdown{border-bottom:1px solid #556069;max-height:400px;}
 ::selection,::-moz-selection{background:transparent;}
+
+#cotedivoireAdress {margin-top: 25px; float: left;}
+.active { color: #ff0 !important; }
+.sliderInHead { position: absolute; z-index: 998; width:100%; bottom: 0; color: white; height: 43px; background: #000000;  opacity: 0.7 }
+.siderInHeadText { position: absolute; z-index: 999; font-size:22px !important; bottom: 0; color: white;line-height: 42px; padding: 0 10px; }

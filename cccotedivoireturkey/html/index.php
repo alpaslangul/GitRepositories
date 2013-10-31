@@ -1,32 +1,50 @@
-<?php
-    include 'header.php';
-?>
-<div class="middle">
-    <div class="content">
-        <div class="menu">
-            <ul>
-                <li><a href="index.html">Ana Sayfa</a></li>
-                <li><a href="aboutus.html">Hakkımızda</a></li>
-                <li><a href="services.html">Hizmetlerimiz</a></li>
-                <li><a href="executive.html">Yönetim</a></li>
-                <li><a href="members.html">Üyelik</a></li>
-                <li><a href="connection.html">Bize Ulaşın</a></li>
-            </ul>
-        </div>
+<?php include 'header.php'; ?>
         <div class="leftContent">
             <div class="insideContent">
                 <span class="HeadLine">Hakkımızda</span>
-                <img src="img/image.png" alt=""/>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to
-                    make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,
-                    remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing
-                    Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
-                    of Lorem Ipsum.
+                <!--TOP SLIDER-->
 
-                    Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
-                    literature from 45 BC, making it over 2000 years old.
-                </p>
+                <div class="sliderWrapper">
+                    <div class="dynamics">
+                        <div class="sliderItems">
+                            <div class="sliderInHead"></div>
+                            <span class="siderInHeadText">Turizm</span>
+                            <img src="img/image.jpg" alt=""/>
+                        </div>
+                        <div class="sliderItems">
+                            <div class="sliderInHead"></div>
+                            <span class="siderInHeadText">Altyapı</span>
+                            <img src="img/image2.jpg" alt=""/>
+                        </div>
+                        <div class="sliderItems">
+                            <div class="sliderInHead"></div>
+                            <span class="siderInHeadText">Spor</span>
+                            <img src="img/image3.jpg" alt=""/>
+                        </div>
+                        <div class="sliderItems">
+                            <div class="sliderInHead"></div>
+                            <span class="siderInHeadText">Madencilik</span>
+                            <img src="img/image4.jpg" alt=""/>
+                        </div>
+                        <div class="sliderItems">
+                            <div class="sliderInHead"></div>
+                            <span class="siderInHeadText">Tarım</span>
+                            <img src="img/image5.jpg" alt=""/>
+                        </div>
+                    </div>
+                </div>
+
+                <p style="font-size: 18px;">Misyonumuz</p>
+                <p>Girişimciye rehberlik hizmeti ve profesyonel ufku genişleterek ilerlemesine katkıda bulunma<br />
+                    Bölgesel ekonomi gelişimine katkıda bulunma, iş imkanları geliştirme ve muhafaza etme, geleceğin girişimcilerine ve şirket kurucularına yol gösterme ve destek verme<br />
+                    Bilgi ve tecrübeleri paylaşarak profesyonel hayatta yalnızlığa son verme<br />
+                    Mensuplar arasında bir dinamik oluşturarak ekonomik alışverişlere güvenli bir ortam sağlama<br />
+                    Üyeler arasında dostluk ilişkileri ve dayanışma ortamı sağlama ve geliştirme, ve daha geniş bir anlamda profesyonel dünyada insanî değerlere daha çok yer verme<br />
+                    Daha tecrübeli girişimcilerle karşılaşmaları arttırarak gençlere girişimcilik ruhunu aktarma<br />
+                    Özel, kamusal veya lokal kuruluşlarda girişimcileri temsil etme ve aktivitelerinin reklamını yapma,profesyonel hayatlarına pozitif etki sağlama</p>
+                <p style="font-size: 18px; ">Vizyonumuz</p>
+                <p>Üyelerinin güvenini ve saygınlığını kazanmış, üye olmaktan gurur duyulan Türkiye ile Hollanda arasında
+                    köprü vazifesi gören dış ticaret ile ilgili en önemli adreslerinden biri haline gelmeyi arzu etmekteyiz.</p>
             </div>
             <div class="insideContent">
                 <span class="HeadLine">Etkinliklerimiz</span>
@@ -40,24 +58,20 @@
 
         <div class="rightContent">
 
-            <div class="chief">
-                <span class="HeadLine">Başkan</span>
-                <div class="chiefDisplay">
-                    <img src="img/chief.png" alt=""/>
-                         <span class="chiefTitle">Yönetim<br />
-                               Kurulu Başkanı
-                         </span>
-                    <span class="chiefName">Osman Gümüşkaya</span>
-                         <span class="chiefDetail">
-                             Lorem Ipsum is simply dummy text of the printing.
-                         </span>
-                </div>
-                <div class="chiefText">
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s.
-                </div>
-                <a href="#" class="chiefButton">Devamı</a>
+            <div class="rightMenu">
+                <span class="rightMenuHeader">Başlıklar</span>
+                <img src="img/arrow.png" alt=""/><span class="rightMenuItem"><a href="#" ></a>Hizmetlerimiz</span>
+                <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Fırsatlar</span>
+                <img src="img/arrow.png" alt=""/><span class="rightMenuItem">İhtiyaçlar</span>
+                <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Ofis Hizmetleri</span>
+                <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Üyelere Özel hizm.</span>
+                <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Ticari Hizmetler</span>
+                <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yatırım Alanları</span>
+                <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Sponsorluk olanakları</span>
+                <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Stratejik hedeflerimiz</span>
+                <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Değerlerimiz</span>
+                <img src="img/arrow.png" alt=""/><span class="rightMenuItem">E-bülten</span>
+                <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yayınlarımız</span>
             </div>
 
             <div class="newsWrapper">
@@ -94,21 +108,19 @@
         </div>
         <div class="sponsors">
             <span class="HeadLine">Sponsorlarımız</span>
+            <!--BOTTOM SLIDER-->
             <div class="sponsorsWrapper">
                 <div class="spnsLeftBtn"></div>
                 <div class="spnsImg">
                     <div class="sponsorsContainer">
                         <div class="sliderImage">
-                            <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors.png" alt="eset"/></a>
+                            <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors.jpg" alt="eset"/></a>
                         </div>
                         <div class="sliderImage">
-                            <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors2.png" alt="eset"/></a>
+                            <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors2.jpg" alt="eset"/></a>
                         </div>
                         <div class="sliderImage">
-                            <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors3.png" alt="eset"/></a>
-                        </div>
-                        <div class="sliderImage">
-                            <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors3.png" alt="eset"/></a>
+                            <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors3.jpg" alt="eset"/></a>
                         </div>
                     </div>
                 </div>
@@ -117,7 +129,7 @@
         </div>
     </div>
     <div class="advertising">
-        <img src="img/lutfhansa.png" alt=""/>
+        <img src="img/airdivoure.jpg" alt=""/>
     </div>
 
 </div>
@@ -158,10 +170,10 @@
         </div>
         <div class="socialColumn">
             <div class="socClmContainer">
-                <a href="#" class="Ico" id="fb"></a>
-                <a href="#" class="Ico" id="tw"></a>
+                <a href="https://www.facebook.com/groups/201454196683699/" class="Ico" id="fb" target="_blank"></a>
+                <!--<a href="#" class="Ico" id="tw"></a>-->
                 <a href="#" class="Ico" id="rss"></a>
-                <a href="#" class="Ico" id="mail"></a>
+                <a href="connection.php" class="Ico" id="mail"></a>
             </div>
         </div>
     </div>
@@ -170,7 +182,12 @@
 <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
 <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
 <script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/slider.js"></script>
 <script type="text/javascript" src="js/dwopdown.js"></script>
+<script type="text/javascript">
+    $('#1 a').css('color', '#f77f00');
+    $('#1').css('background', 'url("img/sprite.png") no-repeat -2px -1px');
+</script>
 
 </div>
 </body>

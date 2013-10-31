@@ -1,16 +1,5 @@
 <?php include 'header.php'; ?>
-<div class="middle">
-    <div class="content">
-        <div class="menu">
-            <ul>
-                <li><a href="index.html">Ana Sayfa</a></li>
-                <li><a href="aboutus.html">Hakkımızda</a></li>
-                <li><a href="services.html">Hizmetlerimiz</a></li>
-                <li><a href="executive.html">Yönetim</a></li>
-                <li><a href="members.html">Üyelik</a></li>
-                <li><a href="connection.php">Bize Ulaşın</a></li>
-            </ul>
-        </div>
+
         <div class="connLeft"> <!--form left-->
             <div class="connectionForm">
                 <div class="connFormHeader">İletişim Formu</div>
@@ -57,9 +46,17 @@
 
             </div>
             <div class="connectionText">
-                <span>Adres </span><p>Osmanpaşa cad. No: 11/B Kağıthane / İstanbul / Türkiye</p>
-                <span>Telefon</span><p>+90 212 295 08 85 </p>
-                <span>E-mail </span><p> info@cccotedivoireturkey.com </p>
+                <div id="turkeyAdress">
+                    <span>Adres </span><p>Osmanpaşa cad. No: 11/B Kağıthane / İstanbul / Türkiye</p>
+                    <span>Telefon</span><p>+90 212 295 08 85 </p>
+                    <span>E-mail </span><p> info@cccotedivoireturkey.com </p>
+                </div>
+
+                <div id="cotedivoireAdress">
+                    <span>Adres </span><p>Osmanpaşa cad. No: 11/B Kağıthane / İstanbul / Türkiye</p>
+                    <span>Telefon</span><p>+90 212 295 08 85 </p>
+                    <span>E-mail </span><p> info@cccotedivoireturkey.com </p>
+                </div>
             </div>
         </div>
         <div class="connRight"> <!--form right-->
@@ -120,7 +117,7 @@
 
     </div>
     <div class="advertising">
-        <img src="img/lutfhansa.png" alt="">
+        <img src="img/airdivoure.jpg" alt="">
     </div>
 
 </div>
@@ -231,8 +228,10 @@
             }
         });
     }
-
+    $('#6 a').css('color', '#f77f00');
+    $('#6').css('background', 'url("img/sprite.png") no-repeat -2px -1px');
 
 </script>
+
 
 </html>
