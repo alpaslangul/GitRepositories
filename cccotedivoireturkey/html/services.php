@@ -4,16 +4,16 @@
             <!--OFİS HİZMETLERİMİZ-->
             <span class="contentHeader s16">Ofis Hizmetleri</span>
             <p class="contentText">
-                Hollanda da şirketinizin iyi temsil edilebilmesi için gerekli çalışmaları düzenlemek.
+                Fildişi Sahili 'nde şirketinizin iyi temsil edilebilmesi için gerekli çalışmaları düzenlemek.
             </p>
-            <p class="contentText">Hollanda da şirketiniz adına şubeniz gibi çalışmalarının profesyonel ekiplerce Yürütülerek hizmet verilmesinin sağlanması.
+            <p class="contentText">Fildişi Sahili ' nde şirketiniz adına şubeniz gibi çalışmalarının profesyonel ekiplerce Yürütülerek hizmet verilmesinin sağlanması.
             </p>
-            <p class="contentText">Hollanda da şirketinize özel telefon hattı, gelen telefonlara şirketiniz adına cevap verilmesi ya da sizlere yönlendirilmesi.</p>
+            <p class="contentText">Fildişi Sahili ' nde şirketinize özel telefon hattı, gelen telefonlara şirketiniz adına cevap verilmesi ya da sizlere yönlendirilmesi.</p>
             <p class="contentText">Üyelerimizle ilgili en son haberleri her iki ayda bir yayınlanan haber bültenimizde yayınlanmaktadır. Ayrıca
                 Odamızın web sitesi üzerinden ve mail yolluyla da duyurular yapılmaktadır.</p>
-            <p class="contentText">Hollanda da iş toplantılarınızın yapılabilmesi için ofis ve servis hizmetleri.
+            <p class="contentText">Fildişi Sahili ' nde iş toplantılarınızın yapılabilmesi için ofis ve servis hizmetleri.
             </p>
-            <p class="contentText">Hollanda ya ekibinizle birlikte gelindiğinde çalışmalarınızı yürütebileceğiniz hazır Ofis hizmetleri.
+            <p class="contentText">Fildişi Sahili ' nde ekibinizle birlikte gelindiğinde çalışmalarınızı yürütebileceğiniz hazır Ofis hizmetleri.
             </p>
 
             <!--ÜYELERE ÖZEL HİZMETLERİMİZ-->
@@ -25,11 +25,11 @@
             <p class="contentText">Ulaşım ve konaklama rezervasyonlarının yapılması
             </p>
             <p class="contentText"> Kiralık araba tahsis edilmesi</p>
-            <p class="contentText">Hollanda ve Benelüks ülkelerinde görüşmek istediğiniz şirketlerden randevu Koordinasyonun sağlanması</p>
-            <p class="contentText">Hollanda da iş görüşmelerinde tercüman bulundurulması.
+            <p class="contentText">Fildişi Sahili ' nde görüşmek istediğiniz şirketlerden randevu Koordinasyonun sağlanması</p>
+            <p class="contentText">Fildişi Sahili ' nde iş görüşmelerinde tercüman bulundurulması.
             </p>
-            <p class="contentText">Hollanda daki Fuarlara katılmak isteyen şirketlerin başvurularını yapmak.</p>
-            <p class="contentText">Hollanda da şirketler arası yapılan sözleşmelerde Türk Avukat bulundurulması.</p>
+            <p class="contentText">Fildişi Sahili ' ndeki Fuarlara katılmak isteyen şirketlerin başvurularını yapmak.</p>
+            <p class="contentText">Fildişi Sahili ' nde şirketler arası yapılan sözleşmelerde Türk Avukat bulundurulması.</p>
             <p class="contentText">Avukat, Noter ve Mali Müşavir temini ve koordinasyonu sağlamak</p>
             <p class="contentText">İş yapacağınız firmalar hakkında finansal ve kurucuları hakkında istihbarat hizmetleri</p>
             <p class="contentText">Türkçe – Flemenkçe yeminli çeviri ve tercümanlık hizmetleri</p>
@@ -37,12 +37,12 @@
                 <span class="contentHeader s16"><hr>
                     Ticari Hizmetlerimiz</span>
             <p class="contentText">
-                <span class="inHead">Hollanda-Türkiye Ticaret Odası<br /></span>
-                Hollanda’da ve Türkiye’de yeni iş sahalarının açılması, Hollanda firmalarının yatırımların teşvik ve bunların genişletilmesi,
+                <span class="inHead">Fildişi Sahili-Türkiye Ticaret Odası<br /></span>
+                Fildişi Sahili ’nde ve Türkiye’de yeni iş sahalarının açılması, Fildişi Sahili firmalarının yatırımların teşvik ve bunların genişletilmesi,
                 iki ülke arasında ki ticaretin hacminin büyümesi ve desteklenmesi ve başka iş alanlarında bağlantılı faaliyetlerde bulunmak
                 isteyen firmalara yardımcı olunması için detaylı ve geniş hizmetler verebilmektedir. Bu hizmet ve servislerin bir bölümü,
                 Destek Hizmetleri, Hukuksal Servis, Belge Hizmetleri ve Etkinlikler hakkında bilgi alabilirsiniz. Ayrıca, bu bölümde,
-                Hollanda ve Türkiye arasında Ticaret Heyeti Ziyaretlerini, Ticaret olanaklarını, İhaleleri, Şirket kurabilme imkânları ve
+                Fildişi Sahili ve Türkiye arasında Ticaret Heyeti Ziyaretlerini, Ticaret olanaklarını, İhaleleri, Şirket kurabilme imkânları ve
                 şartları hakkında detaylı bilgilerde ’de sahip olabilirsiniz. Ayrıca, İş ortağı arayabilir veya yardım isteyebilirsiniz,
                 bundan başka, seminerler, konferanslar, çeşitli alanlarda bilgilendirmeye ait bilgilere ulaşabilirsiniz,
                 Aşağıda bu konuları kısa da olsa bir incelemenizde yarar var
@@ -60,8 +60,8 @@
 
             <p class="contentText">
                 <span class="inHead">Şirket Kurma</span><br />
-                Hollanda ve Türkiye’de ya da bu iki ülke arasında firma kurma ve faaliyete geçirme ile ilgili konularda sizi bilgilendiririz.<br />
-                • Hollanda ve Türkiye’de İş ve Şirket Turları
+                Fildişi Sahili ve Türkiye’de ya da bu iki ülke arasında firma kurma ve faaliyete geçirme ile ilgili konularda sizi bilgilendiririz.<br />
+                • Fildişi Sahili ve Türkiye’de İş ve Şirket Turları
                 • Şirket kurmak için yapılacak olan işlemler ve çalışmalar
                 • Gerekli dokümanlar ve belgeler
                 • Bu Hizmetleri yapan danışmanlık şirketleri ile bağlantılar
@@ -75,7 +75,7 @@
             </p>
             <p class="contentText">
                 <span class="inHead">Hukuksal Yardım</span><br />
-                Hollandaca ve Türkçe bilen ve alanlarında tecrübeli olan hukukçularımız ve avukatlarımız istediğiniz konularda, o ülkenin yasal şartlarına
+                Fransızca ve Türkçe bilen ve alanlarında tecrübeli olan hukukçularımız ve avukatlarımız istediğiniz konularda, o ülkenin yasal şartlarına
                 göre değişken olan kurallara ve imkânları size ön bilgi vererek, islerinizi kolaylaşmasını sağlar. Vekâlet ücreti almadan, o ülkede ki
                 borçlarınızın tahsile gider ve size de tavsiyelerde bulunur. Bu işlemler ücretsiz yapılır.
             </p>
@@ -98,9 +98,9 @@
             </p>
             <p class="contentText">
                 <span class="inHead">Ticaret & İş Heyetleri ve Etkinlikleri</span><br />
-                Ticaret Odamız, Hollanda ve Türkiye arasında ki ticaret ve yatırımları genişletmek gayesiyle ticaret heyet ziyaretlerini düzenler ve üyelerinin
+                Ticaret Odamız, Fildişi Sahili ve Türkiye arasında ki ticaret ve yatırımları genişletmek gayesiyle ticaret heyet ziyaretlerini düzenler ve üyelerinin
                 bu iş gezilerine zamanında bilgi vererek, firmalarının zamanında hazırlanarak, iletişim ağının genişletilmesi ile birlikte hizmet ve ürünlerinin
-                tanıtılmasına yardımcı olmaktadır.  Hollanda ve Türkiye arasında karşılıklı alanlarında profesyonel olan ticaret heyetleri ile fuar, sergi ve
+                tanıtılmasına yardımcı olmaktadır.  Fildişi Sahili ve Türkiye arasında karşılıklı alanlarında profesyonel olan ticaret heyetleri ile fuar, sergi ve
                 buna benzer Ticaret Etkinliklerini üyelerine zamanında haber vererek, katılmalarını sağlar, gerekli hazırlıklarına destek olur.
             </p>
             <p class="contentText">
