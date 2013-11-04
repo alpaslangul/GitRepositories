@@ -146,7 +146,7 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .leftContent  span { font-size: 14px; }
 
 /* Right Menu */
-.middle .content .rightContent .rightMenu { width: 240px; background: #f2f2f2; float: left;}
+.middle .content .rightContent .rightMenu { width: 240px; background: #f2f2f2; float: left; font-family: Omnes, "Arial sans-serif";}
 .middle .content .rightContent .rightMenu .rightMenuHeader { padding: 10px; display: block; font-family:  Century, "Arial sans-serif"; color: #589ad2; font-size: 13px;  }
 .middle .content .rightContent .rightMenu img {  padding: 10px;   float: left;}
 .middle .content .rightContent .rightMenu .rightMenuItem { color: #b8b8b8; font-size: 14px; display: block;  padding: 9px; width: 185px;}
@@ -245,3 +245,6 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .active { color: #ff0 !important; }
 .sliderInHead { position: absolute; z-index: 998; width:100%; bottom: 0; color: white; height: 43px; background: #000000;  opacity: 0.7 }
 .siderInHeadText { position: absolute; z-index: 999; font-size:22px !important; bottom: 0; color: white;line-height: 42px; padding: 0 10px; }
+.vectorLayers { width: 220px; }
+.myVectors { float: left; margin: 5px 0; cursor: pointer; }
+.vectorLayers span { font-family:  Century, "Arial sans-serif";  float: left; margin: 5px 0;cursor: pointer;}

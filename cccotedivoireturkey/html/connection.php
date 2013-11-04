@@ -10,6 +10,7 @@
                         <span>Şehir</span>
                         <span>Telefon</span>
                         <span>E-mail</span>
+                        <span>Konu</span>
                         <span>Mesaj</span>
                     </div>
                     <div class="formRight">

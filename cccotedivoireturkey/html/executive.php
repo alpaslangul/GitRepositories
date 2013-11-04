@@ -2,7 +2,7 @@
 
             <!--LEFT CONTENT-->
             <div class="leftContent">
-                <p style="font-size: 23px !important;">Tasarım aşamasında</p>
+                <p style="font-size: 23px !important;">Yapım aşamasında</p>
             </div>
 
             <div class="rightContent">

@@ -92,6 +92,9 @@
     <div class="advertising">
         <img src="img/airdivoure.jpg" alt=""/>
     </div>
+    <div class="advertising">
+    <img src="img/airdivoure.jpg" alt=""/>
+</div>
 
 </div>
 <div class="footer">
@@ -109,15 +112,15 @@
         </div>
         <div class="servicesColumn">
             <span class="footerHeadLine">Hizmetlerimiz</span>
-            <span>Yayınlar</span>
-            <span>Hizmetlerimiz</span>
-            <span>Üyelik</span>
+            <span>Ofis Hizmetlerimiz</span>
+            <span>Ticari Hizmetlerimiz</span>
+            <span>Üyelere Özel Hizmetlerimiz</span>
         </div>
         <div class="countryColumn">
             <span class="footerHeadLine">Ülke Bilgileri</span>
-            <span>Galeri</span>
+            <span>Türkiye</span>
             <span>Fildişi Sahilleri</span>
-            <span>République de Côte d'Ivoire</span>
+            <span>Galeri</span>
         </div>
         <div class="connectionColumn">
             <span class="footerHeadLine">İletişim</span>
