@@ -59,6 +59,7 @@
         <div class="rightContent">
 
             <?php include 'rightMenu.php'; ?>
+            <div class="rightBanner"></div>
 
             <?php include 'news.php'; ?>
 
@@ -75,6 +76,9 @@
                         </div>
                         <div class="sliderImage">
                             <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors2.jpg" alt="eset"/></a>
+                        </div>
+                        <div class="sliderImage">
+                            <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors4.jpg" alt="eset"/></a>
                         </div>
                         <div class="sliderImage">
                             <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors3.jpg" alt="eset"/></a>
