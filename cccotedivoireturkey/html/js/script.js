@@ -30,7 +30,6 @@ CCC = {
 
     slider : {
 
-
         timer : function () {
             setInterval(function()
             {
@@ -44,6 +43,7 @@ CCC = {
             {
                 $('.sponsorsContainer').animate({marginLeft: -CCC.imageW * (CCC.id-2) }, 1000, function () { });
                 CCC.id--
+
             }
         },
 

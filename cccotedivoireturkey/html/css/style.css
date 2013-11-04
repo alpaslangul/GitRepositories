@@ -112,7 +112,7 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .rightContent .chief .chiefDisplay .chiefDetail {color: #a3a3a3;}
 .middle .content .rightContent .chief .chiefText {width: 200px; float: left; font-size: 13px; color: #a3a3a3; margin-top: 10px;line-height: 20px;margin-left: 3px;}
 .middle .content .rightContent .chief .chiefButton {width: 100px; height: 30px; margin-top: 10px; margin-left: 3px; float: left; font-size: 16px; color: #ffffff; line-height: 33px; text-align: center; background: #589ad2; }
-.middle .content .rightContent .newsWrapper { width: 240px; margin-top: 30px; margin-bottom: 15px; float: left;}
+.middle .content .rightContent .newsWrapper { width: 240px; margin-top: 15px; margin-bottom: 15px; float: left;}
 .middle .content .rightContent .newsWrapper .news { width: 240px; margin-top : 10px; float: left;}
 .middle .content .rightContent .newsWrapper .news .newsDate { float: left;  }
 .middle .content .rightContent .newsWrapper .news .newsDate div { height: 20px; font-family:  Century, "Arial sans-serif"; color: #ffffff ; text-align: center; line-height: 20px;}
@@ -151,7 +151,7 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .rightContent .rightMenu img {  padding: 10px;   float: left;}
 .middle .content .rightContent .rightMenu .rightMenuItem { color: #b8b8b8; font-size: 14px; display: block;  padding: 9px; width: 185px;}
 .middle .content .rightContent .rightMenu .rightMenuItem:hover { color: #f77f00; font-weight: bold; cursor: pointer;}
-.middle .content .rightContent .rightBanner { width: 240px; height: 120px; background: url("../img/banner240x120.png") no-repeat center; float: left; margin-top: 30px;}
+.middle .content .rightContent .rightBanner { width: 240px; height: 120px; background: url("../img/banner240x120.png") no-repeat center; float: left; margin: 30px 0;}
 
 /* memberShip */
 .middle .content .leftContent .memberShip { float: left; width: 440px; background: #f6f6f6; padding: 15px;  }
@@ -190,8 +190,8 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .connLeft .connectionText div span  { width: 115px; float: left; color : #ff0000; }
 .middle .content .connLeft .connectionText div p {  width: 295px; float: left; color : #b8b8b8; }
 
-.advertising { width: 161px; float: left;height: 500px;}
-.advertising img { padding: 4px; }
+.advertising { width: 161px; float: left;}
+.advertising img { padding: 4px; display: none; }
 
 .footer { width: 950px; height: 216px;  float: left; background: #04345e;}
 .footer .pageUp { width: 100%; float: left; cursor: pointer;}
@@ -248,3 +248,5 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .vectorLayers { width: 220px; }
 .myVectors { float: left; margin: 5px 0; cursor: pointer; }
 .vectorLayers span { font-family:  Century, "Arial sans-serif";  float: left; margin: 5px 0;cursor: pointer;}
+.weather { width: 240px; text-align: center; }
+.weather p { margin: 10px 0; }

@@ -3,29 +3,21 @@
                 <span class="contentHeader">Hakkımızda</span>
                 <span class="contentHeadLine">Fildişi Sahili ile Türkiye Arasındaki Ticari Köprü</span>
                 <p class="contentText">
-                    Türkiye'deki Fildişi Sahili Ticaret Odası Fildişi Sahili ile Türkiye arasındaki ticari köprü ve komünikasyon merkezi olma misyonunu üstlenmiştir.
-                    Hizmetler yelpazesi iki ülkeler hakkında bilgi verme ve danışmanlık, irtibat hizmetleri, lojistik hizmetler, fuar katılımı için yardım hizmetlerini
-                    kapsamaktadır.
+                    Fildişi Sahili Türk Tic. ve San. Odası Fildişi Sahili ile Türkiye arasındaki ticari köprü ve iletişim merkezi
+                    olma görevini üstlenmiştir. Fildişi Sahili ve Türkiye'den üyeleri vardır. Üyelerimiz, Kamu, yönetim, üretim,
+                    ticaret ve hizmet sektörlerinin her alanında faaliyet gösterirlerken  geniş iş tecrübeleri ile büyük ilişkiler ağı oluşturmaktadırlar.
                 </p>
-                <span class="contentHeadLine">Üyelerimiz:</span>
+                <span class="contentHeadLine">Misyonumuz</span>
                 <p class="contentText">
-                    Türkiye'de Fildişi Sahili Ticaret Odası Sahili'nden ve Türkiye'den toplam 165 üyesi vardır. Üyelerimiz, imalat, ticaret ve hizmet
-                    sektörlerinin her alanında faaliyet gösterirler, her birinin her iki ülkede geniş iş tecrübeleri vardır ve büyük bir ilişkiler ağı oluşturmaktadırlar.
+                    Üyeler arasında dinamik oluşturup, güvenli ortam sağlayarak bölgesel ve küresel ekonomi gelişimine katkıda bulunmak.
+                    İş imkanları geliştirerek muhafaza ederken, bugünün ve geleceğin girişimcilerine yol gösterip, destek verirken insanî değerlere sahip çıkmaktır.
                 </p>
-                <span class="contentHeadLine">Aktivitelerimiz:</span>
-                <p class="contentText">
-                    Yayınlar (Dergi, Bülten), fuar aktiviteleri, Fildişi Sahili-Türkiye temaslarının her düzeyde sürdürülmesi, Fildişi Sahili ve Türkiye'nin
-                    ekonomik itibarının olumlu gelişmesinde önemli katkılarda bulunma, yatırımcı arama ve temas kurdurtma.
-                </p>
-                <span class="contentHeadLine">Kuruluş yılı:</span>
-                <p class="contentText">2013</p>
 
-                <span class="contentHeadLine">Detaylar:</span>
+                <span class="contentHeadLine">Vizyonumuz</span>
                 <p class="contentText">
-                    Sorumluluk alanı:<br/>
-                    Fildişi Sahili-Türkiye bağlantısı, firma adresleri, Fildişi Sahili üyelerimizle temas, bülten, projeler, aktiviteler.<br/>
-                    e-posta: info@cccotedivoireturkey.com<br/>
+                    Türkiye ve Cote d'ıvoire'u başarıya taşıyacak her ticari planın mimarı olmak.
                 </p>
+
 
             </div>
 
@@ -85,53 +77,7 @@
         </div>
 
     </div>
-    <div class="footer">
-        <div class="pageUp">
-            <img src="img/up.png" alt="">
-            <span class="up">SAYFA BAŞI</span>
-        </div>
-
-        <div class="foot">
-            <div class="outColumn">
-                <span class="footerHeadLine">Biz</span>
-                <span>Etkinliklerimiz</span>
-                <span>Haberler</span>
-                <span>Yayınlar</span>
-            </div>
-            <div class="servicesColumn">
-                <span class="footerHeadLine">Hizmetlerimiz</span>
-                <span>Yayınlar</span>
-                <span>Hizmetlerimiz</span>
-                <span>Üyelik</span>
-            </div>
-            <div class="countryColumn">
-                <span class="footerHeadLine">Ülke Bilgileri</span>
-                <span>Galeri</span>
-                <span>Fildişi Sahilleri</span>
-                <span>République de Côte d'Ivoire</span>
-            </div>
-            <div class="connectionColumn">
-                <span class="footerHeadLine">İletişim</span>
-                <span>info@cccotedivoireturkey.com</span>
-                <span>+90 212 511 44 88</span>
-                <div>
-                    <img src="img/mapIco.png" alt="" class="mapIco">
-                    <p class="mapText">455 Larkspur Dr.
-                        San Jose, CA 92926</p>
-                </div>
-            </div>
-            <div class="socialColumn">
-                <div class="socClmContainer">
-                    <a href="#" class="Ico" id="fb"></a>
-                    <!--<a href="#" class="Ico" id="tw"></a>-->
-                    <a href="#" class="Ico" id="rss"></a>
-                    <a href="#" class="Ico" id="mail"></a>
-                </div>
-            </div>
-        </div>
-
-    </div>
-
+<?php include 'footer.php'; ?>
 
 </div>
 <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>

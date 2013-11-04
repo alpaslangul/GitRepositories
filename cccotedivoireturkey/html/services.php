@@ -1,38 +1,39 @@
 <?php include 'header.php'; ?>
         <div class="leftContent">
             <span class="contentHeader">Hizmetlerimiz</span>
+            <p class="contentText">iki ülke arasındaki ticaret hacminin büyümesi, desteklenmesi ve başka iş alanlarında bağlantılı
+                faaliyetlerde bulunmak isteyen firmalara yardımcı olunması için detaylı ve geniş hizmetler verebilmektedir.
+                Bu hizmet ve servislerin bir bölümü, Destek Hizmetleri, Hukuksal Servis, Belge Hizmetleri ve Etkinlikler
+                hakkında bilgi alabilirsiniz. Ayrıca, bu bölümde, Fildişi Sahili ve Türkiye arasında Ticaret Heyeti
+                Ziyaretlerini, Ticaret olanaklarını, İhaleleri, Şirket kurabilme imkânları ve şartları hakkında detaylı
+                bilgilerde ’de sahip olabilirsiniz. Ayrıca, İş ortağı arayabilir veya yardım isteyebilirsiniz, bundan başka,
+                seminerler, konferanslar, çeşitli alanlarda bilgilendirmeye ait bilgilere ulaşabilirsiniz, Aşağıda bu
+                konuları kısa da olsa bir incelemenizde yarar var </p>
             <!--OFİS HİZMETLERİMİZ-->
             <span class="contentHeader s16">Ofis Hizmetleri</span>
             <p class="contentText">
-                Fildişi Sahili 'nde şirketinizin iyi temsil edilebilmesi için gerekli çalışmaları düzenlemek.
-            </p>
-            <p class="contentText">Fildişi Sahili ' nde şirketiniz adına şubeniz gibi çalışmalarının profesyonel ekiplerce Yürütülerek hizmet verilmesinin sağlanması.
-            </p>
-            <p class="contentText">Fildişi Sahili ' nde şirketinize özel telefon hattı, gelen telefonlara şirketiniz adına cevap verilmesi ya da sizlere yönlendirilmesi.</p>
-            <p class="contentText">Üyelerimizle ilgili en son haberleri her iki ayda bir yayınlanan haber bültenimizde yayınlanmaktadır. Ayrıca
-                Odamızın web sitesi üzerinden ve mail yolluyla da duyurular yapılmaktadır.</p>
-            <p class="contentText">Fildişi Sahili ' nde iş toplantılarınızın yapılabilmesi için ofis ve servis hizmetleri.
-            </p>
-            <p class="contentText">Fildişi Sahili ' nde ekibinizle birlikte gelindiğinde çalışmalarınızı yürütebileceğiniz hazır Ofis hizmetleri.
+                Fildişi Sahili ' nde iş toplantılarınızın yapılabilmesi için ofis ve servis hizmetleri.<br />
+                Fildişi Sahili ' nde ekibinizle birlikte gelindiğinde çalışmalarınızı yürütebileceğiniz hazır Ofis hizmetleri.<br />
+                Fildişi Sahili 'nde şirketinizin iyi temsil edilebilmesi için gerekli çalışmaları düzenlenmesi.<br />
+                Fildişi Sahili ' nde şirketiniz adına şubeniz gibi çalışmalarının profesyonel ekiplerce yürütülerek hizmet verilmesinin sağlanması.<br />
+                Fildişi Sahili ' nde şirketinize özel telefon hattı, gelen telefonlara şirketiniz adına cevap verilmesi ya da sizlere yönlendirilmesi.<br />
             </p>
 
             <!--ÜYELERE ÖZEL HİZMETLERİMİZ-->
                 <span class="contentHeader s16"><hr>
-                    Üyelere Özel Hizmetlerimiz</span>
+                    Fildişi Sahili ve Türkiye'de Üyelere Özel Hizmetlerimiz</span>
             <p class="contentText">
-                Şirket yetkililerinin Vizelerini alabilmeleri için davetiye verilmesi
+                Şirket yetkililerinin vizelerini alabilmeleri için davetiye verilmesi<br />
+                Ulaşım ve konaklama rezervasyonlarının yapılması<br />
+                Görüşmek istediğiniz şirketlerden randevu koordinasyonun sağlanması<br />
+                İş görüşmelerinde tercüman bulundurulması.<br />
+                Fuarlara katılmak isteyen şirketlerin başvurularını yapmak.<br />
+                İş yapacağınız firmalar hakkında finansal ve kurucuları hakkında istihbarat hizmetleri.<br />
+                Türkçe – Fransızca yeminli çeviri ve tercümanlık hizmetleri<br />
+                Araba kiralama.<br />
+                Güvenlik.
             </p>
-            <p class="contentText">Ulaşım ve konaklama rezervasyonlarının yapılması
-            </p>
-            <p class="contentText"> Kiralık araba tahsis edilmesi</p>
-            <p class="contentText">Fildişi Sahili ' nde görüşmek istediğiniz şirketlerden randevu Koordinasyonun sağlanması</p>
-            <p class="contentText">Fildişi Sahili ' nde iş görüşmelerinde tercüman bulundurulması.
-            </p>
-            <p class="contentText">Fildişi Sahili ' ndeki Fuarlara katılmak isteyen şirketlerin başvurularını yapmak.</p>
-            <p class="contentText">Fildişi Sahili ' nde şirketler arası yapılan sözleşmelerde Türk Avukat bulundurulması.</p>
-            <p class="contentText">Avukat, Noter ve Mali Müşavir temini ve koordinasyonu sağlamak</p>
-            <p class="contentText">İş yapacağınız firmalar hakkında finansal ve kurucuları hakkında istihbarat hizmetleri</p>
-            <p class="contentText">Türkçe – Flemenkçe yeminli çeviri ve tercümanlık hizmetleri</p>
+
             <!--TİCARİ HİZMETLER-->
                 <span class="contentHeader s16"><hr>
                     Ticari Hizmetlerimiz</span>
@@ -47,67 +48,30 @@
                 bundan başka, seminerler, konferanslar, çeşitli alanlarda bilgilendirmeye ait bilgilere ulaşabilirsiniz,
                 Aşağıda bu konuları kısa da olsa bir incelemenizde yarar var
             </p>
+
             <p class="contentText">
-                • Şirket Kurma<br />
-                • İş Ortağı Arama<br />
-                • Hukuksal Yardım<br />
-                • Ticaret Olanakları<br />
-                • Borçlarınızın Ücretsiz Olarak Tahsili ve Neticelendirilmesi,<br />
-                • Yurt Dışında İhalelere Katılma ve Olanakları,<br />
-                • Ticaret & İş Heyetleri ve Etkinlikleri<br />
-                • Danışmanlık ve Is Geliştirme
+                <span class="inHead">İş Ortağı Arama</span><br />
+                Hedefiniz yeni pazarlar ise, yatırımcılar  ile işinizi genişletmek istiyorsanız veya yatırım için proje arıyorsanız lütfen odamıza başvrun.
             </p>
 
             <p class="contentText">
-                <span class="inHead">Şirket Kurma</span><br />
-                Fildişi Sahili ve Türkiye’de ya da bu iki ülke arasında firma kurma ve faaliyete geçirme ile ilgili konularda sizi bilgilendiririz.<br />
-                • Fildişi Sahili ve Türkiye’de İş ve Şirket Turları
-                • Şirket kurmak için yapılacak olan işlemler ve çalışmalar
-                • Gerekli dokümanlar ve belgeler
-                • Bu Hizmetleri yapan danışmanlık şirketleri ile bağlantılar
-                • Ve diğer teknik konular ve taleplerinizi dile getirebilirsiniz.
-                Ayrıca, vize, çalışma ve oturma müsaadeleri ile ilgili bilgileri, gümrük konusunda bilgi ve önerilerimizi, her iki ülkede konsolosluk hizmetleri, seyahat, kargo taşımacılığı, konut, vergi, tapu işlemleri,
-                Yazılı ve sözlü çeviri hizmetleri, sergi, fuar, konferans merkezleri, muhasebe şirketleri, diğer hizmetlerle beraber Hukuk kuruluşları hakkında bilgi sahibi olabilirsiniz.
-            </p>
-            <p class="contentText">
-                <span class="inHead">İş Ortağı Arama</span><br />
-                Yeni pazarlar sizin hedefiniz ise, dış satım alım ve satış yapan şirketler arabuluculuğu ile genişletmek istiyorsanız, bu konularda Ticaret Odamız size yardımcı olabilir.
-            </p>
-            <p class="contentText">
-                <span class="inHead">Hukuksal Yardım</span><br />
-                Fransızca ve Türkçe bilen ve alanlarında tecrübeli olan hukukçularımız ve avukatlarımız istediğiniz konularda, o ülkenin yasal şartlarına
-                göre değişken olan kurallara ve imkânları size ön bilgi vererek, islerinizi kolaylaşmasını sağlar. Vekâlet ücreti almadan, o ülkede ki
-                borçlarınızın tahsile gider ve size de tavsiyelerde bulunur. Bu işlemler ücretsiz yapılır.
-            </p>
-            <p class="contentText">
-                <span class="inHead">Ticaret Olanakları</span><br />
-                Ticaret Odamız, iş imkânlarına ve ticari bağlantıların talepleriniz doğrultusunda genişletilmesi ve halka ilişkilerin ve reklamların
-                yapılmasına yardımcı olur. Ticari olanakları inceleyebilir ve sorabilirsiniz.
-            </p>
-            <p class="contentText">
-                <span class="inHead">Borçların Ücretsiz olarak Tahsil ve Neticelendirilmesi</span><br />
-                O ülkede borçların tahsili ve mahkemeye gitmeden size geri ödenmesi için, ücretsiz olarak, takip ve alacaklının haklarının korunmasını göz
-                önüne alarak, efektif şekilde bu borçların tahsili ve akıbeti konusunda yardımcı olunur.
-            </p>
-            <p class="contentText">
                 <span class="inHead">Yurt Dışında İhalelere Katılma ve Kazanma İmkanları</span><br />
-                Ticaret Odamız, bu konuda Avrupa’da ve Türkiye’de faal rol oynamakta ve bu konuya ilgi gösteren şirketlere doğru yolları göstermekte ve
-                katıldığı ihalenin kazanması için, gerekli işlemleri, danışarak, yerine getirmeyi prensip olarak kabul etmiştir. Aynı zamanda, ihale
-                önerilerinde de bulunabilir, katılma ve kazanma imkânlarını önceden de sorabilirsiniz. Bu konuda Ticaret Odamız yanınızda olup, en
-                doğru yolu size gösterecektir.
+                Ticaret Odamız, bu konuda Afrika’da ve Türkiye’de faal rol oynamaktadır. Bu konuya ilgi gösteren şirketlere doğru yolları göstermekte
+                ve katıldığı ihalenin kazanması için, gerekli işlemleri, danışarak, yerine getirmeyi prensip olarak kabul etmiştir. Aynı zamanda, ihale
+                önerilerinde de bulunabilir, katılma ve kazanma imkânlarını önceden de sorabilirsiniz. Bu konuda Ticaret Odamız yanınızda olup,
+                en doğru yolu size gösterecektir.
             </p>
             <p class="contentText">
                 <span class="inHead">Ticaret & İş Heyetleri ve Etkinlikleri</span><br />
-                Ticaret Odamız, Fildişi Sahili ve Türkiye arasında ki ticaret ve yatırımları genişletmek gayesiyle ticaret heyet ziyaretlerini düzenler ve üyelerinin
-                bu iş gezilerine zamanında bilgi vererek, firmalarının zamanında hazırlanarak, iletişim ağının genişletilmesi ile birlikte hizmet ve ürünlerinin
-                tanıtılmasına yardımcı olmaktadır.  Fildişi Sahili ve Türkiye arasında karşılıklı alanlarında profesyonel olan ticaret heyetleri ile fuar, sergi ve
-                buna benzer Ticaret Etkinliklerini üyelerine zamanında haber vererek, katılmalarını sağlar, gerekli hazırlıklarına destek olur.
+                Ticaret Odamız, Fildişi Sahili ve Türkiye arasındaki ticaret ve yatırımları genişletmek amacıyla ticaret heyet ziyaretlerini düzenlemektedir.
+                İletişim ağının genişleterek  hizmet ve ürünlerin tanıtılmasına profesyonel olarak yardımcı olmaktadır.
+                Fildişi Sahili ve Türkiye arasında karşılıklı  fuar, forum, seminer ve buna benzer etkinlikler düzenler veya düzenlenen etkinlikleri üyelerine haber vererek katılmalarını sağlar,
+                Tanıtım çalışmaları için tüm profuksiyonları gerçekleştirir,  destek olur.
             </p>
             <p class="contentText">
                 <span class="inHead">Danışmanlık ve İş Geliştirme</span><br />
-                Yeni bir pazara girme ve ürünlerinizi tanıtma baştan aşağı, çok titizlik isteyen bir sanattır. O ülkeyi iyi tanımak ve çok unsurlara dikkat
-                etmenizde yarar vardır. Urünlerinizi o ülkeye götürmeden ve ayrıca yararlanacağınız strateji ve pazara giriş imkânları hakkında Ticaret
-                Odamızın tecrübeli expertlerinden bilgi almanızı bekleriz
+                Yeni bir pazara girmek, yatırım yapmak veya  ürünlerinizi tanıtmak için sözkonusu pazarı iyi tanımak gerekir.
+                Urünlerinizi o ülkeye götürmeden stratejiniz için gerekli  pazara giriş imkânları hakkında odamızın tecrübeli uzmanlarından bilgi almanızı öneririz.
             </p>
         </div>
 
@@ -167,52 +131,7 @@
     </div>
 
 </div>
-<div class="footer">
-    <div class="pageUp">
-        <img src="img/up.png" alt="">
-        <span class="up">SAYFA BAŞI</span>
-    </div>
-
-    <div class="foot">
-        <div class="outColumn">
-            <span class="footerHeadLine">Biz</span>
-            <span>Etkinliklerimiz</span>
-            <span>Haberler</span>
-            <span>Yayınlar</span>
-        </div>
-        <div class="servicesColumn">
-            <span class="footerHeadLine">Hizmetlerimiz</span>
-            <span>Yayınlar</span>
-            <span>Hizmetlerimiz</span>
-            <span>Üyelik</span>
-        </div>
-        <div class="countryColumn">
-            <span class="footerHeadLine">Ülke Bilgileri</span>
-            <span>Galeri</span>
-            <span>Fildişi Sahilleri</span>
-            <span>République de Côte d'Ivoire</span>
-        </div>
-        <div class="connectionColumn">
-            <span class="footerHeadLine">İletişim</span>
-            <span>info@cccotedivoireturkey.com</span>
-            <span>+90 212 511 44 88</span>
-            <div>
-                <img src="img/mapIco.png" alt="" class="mapIco">
-                <p class="mapText">455 Larkspur Dr.
-                    San Jose, CA 92926</p>
-            </div>
-        </div>
-        <div class="socialColumn">
-            <div class="socClmContainer">
-                <a href="#" class="Ico" id="fb"></a>
-                <!--<a href="#" class="Ico" id="tw"></a>-->
-                <a href="#" class="Ico" id="rss"></a>
-                <a href="#" class="Ico" id="mail"></a>
-            </div>
-        </div>
-    </div>
-
-</div>
+<?php include 'footer.php'; ?>
 
 
 </div>
