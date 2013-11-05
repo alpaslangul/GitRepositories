@@ -48,8 +48,8 @@
             </div>
             <div class="connectionText">
                 <div id="turkeyAdress">
-                    <span>Adres </span><p>Osmanpaşa cad. No: 11/B Kağıthane / İstanbul / Türkiye</p>
-                    <span>Telefon</span><p>+90 212 295 08 85 </p>
+                    <span>Adres </span><p>Chambre De Commerce Et D'Industrie Turque En Cote D'Ivoure Rue paul langevin zone Abidjan / Cote d'Ivoure</p>
+                    <span>Telefon</span><p>+225 212 44 582</p>
                     <span>E-mail </span><p> info@cccotedivoireturkey.com </p>
                 </div>
 

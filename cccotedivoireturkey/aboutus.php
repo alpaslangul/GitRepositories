@@ -22,21 +22,7 @@
             </div>
 
             <div class="rightContent">
-                <div class="rightMenu">
-                    <span class="rightMenuHeader">Başlıklar</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem"><a href="#" ></a>Temsilcilikler</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yetkililer</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">İletişim ağları</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Aracılık hizmetleri</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Eğitimler</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yatırımlar</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Sponsorluk <olanakları></olanakları></span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Vize hizmetleri</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Üyelik</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yıllık rapor</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">E-bülten</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yayınlarımız</span>
-                </div>
+                <?php include 'rightMenu.php'; ?>
 
                 <div class="newsWrapper">
                     <span class="HeadLine">Haberler</span>
@@ -86,12 +72,12 @@
 <script src="js/cufon-yui.js" type="text/javascript"></script>
 <script src="js/cufon/Omnes_400-Omnes_SemBd_600-Omnes_italic_700-Omnes_italic_700.font.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-    Cufon.replace('.contentHeader');
-    Cufon.replace('.contentHeadLine');
-    $('#2 a').css('color', '#f77f00');
-    $('#2').css('background', 'url("img/sprite.png") no-repeat -2px -1px');
-</script>
+<!--<script type="text/javascript">-->
+<!--    Cufon.replace('.contentHeader');-->
+<!--    Cufon.replace('.contentHeadLine');-->
+<!--    $('#2 a').css('color', '#f77f00');-->
+<!--    $('#2').css('background', 'url("img/sprite.png") no-repeat -2px -1px');-->
+<!--</script>-->
 
 </body>
 </html>

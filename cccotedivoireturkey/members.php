@@ -6,21 +6,7 @@
             </div>
 
             <div class="rightContent">
-                <div class="rightMenu">
-                    <span class="rightMenuHeader">Başlıklar</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem"><a href="#" ></a>Temsilcilikler</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yetkililer</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">İletişim ağları</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Aracılık hizmetleri</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Eğitimler</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yatırımlar</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Sponsorluk <olanakları></olanakları></span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Vize hizmetleri</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Üyelik</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yıllık rapor</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">E-bülten</span>
-                    <img src="img/arrow.png" alt=""/><span class="rightMenuItem">Yayınlarımız</span>
-                </div>
+                <?php include 'rightMenu.php'; ?>
 
                 <div class="newsWrapper">
                     <span class="HeadLine">Haberler</span>
