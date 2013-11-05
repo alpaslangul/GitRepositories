@@ -31,6 +31,21 @@
                             <span class="siderInHeadText">Tarım</span>
                             <img src="img/image5.jpg" alt=""/>
                         </div>
+                        <div class="sliderItems">
+                            <div class="sliderInHead"></div>
+                            <span class="siderInHeadText">Güneş Enerjisi</span>
+                            <img src="img/image6.jpg" alt=""/>
+                        </div>
+                        <div class="sliderItems">
+                            <div class="sliderInHead"></div>
+                            <span class="siderInHeadText">Hidroelektrik</span>
+                            <img src="img/image7.jpg" alt=""/>
+                        </div>
+                        <div class="sliderItems">
+                            <div class="sliderInHead"></div>
+                            <span class="siderInHeadText">Rüzgar Enerjisi</span>
+                            <img src="img/image8.jpg" alt=""/>
+                        </div>
                     </div>
                 </div>
 
@@ -64,7 +79,6 @@
                     <a href="http://www.weather.com/weather/local/TUXX0014">Istanbul Weather Forecast, Turkey</a>
                 </div>
             </div>
-
 
         </div>
         <div class="sponsors">

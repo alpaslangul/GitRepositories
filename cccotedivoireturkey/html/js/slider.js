@@ -18,7 +18,7 @@ SLIDER = {
         setInterval(function()
         {
             SLIDER.goLeft();
-        }, 4500);
+        }, 3000);
     },
 
     goLeft : function ()
