@@ -172,6 +172,9 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesContent img { padding: 10px 5px 5px 20px;  float: left;}
 .middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesContent .HeadLinesItem { display: block;  padding: 7px; width: 205px;}
 .middle .content .leftContent .HeadLines .HeadLinesPart .HeadLinesContent .HeadLinesRepItem { clear: right; display: block;  padding: 17px; float: left; height: 60px; width: 144px;}
+.middle .content .leftContent .photos { width: 600px; float: left;}
+.middle .content .leftContent .photos div .photosFront { width: 250px; height: 150px; background: url("../img/large/thumb/front.png"); position: absolute; display: none; cursor: pointer;}
+.middle .content .leftContent .photos div img { margin: 0 25px 15px 0;  float: left;}
 
 .middle .content .connLeft .connectionForm { width: 430px; float: left; margin: 40px 0 0 45px;}
 .middle .content .connLeft .connectionForm .connFormHeader { color : red;}

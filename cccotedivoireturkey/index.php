@@ -1,4 +1,11 @@
-<?php include 'header.php'; ?>
+<?php include 'header.php';
+$ip = $_SERVER['REMOTE_ADDR'];   // This is user IP
+$type = "Country"; // take type="Country"; if you want country else take type="City";
+
+$url = "http://www.codetrip.info/iframe/getcountry-city.php?ip=".$ip."&type=".$type;
+$var = file_get_contents($url);
+
+?>
         <div class="leftContent">
             <div class="insideContent">
                 <span class="HeadLine">Hakkımızda</span>

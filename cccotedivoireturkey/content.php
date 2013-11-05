@@ -1,10 +1,12 @@
 <?php include 'header.php'; ?>
             <div class="leftContent">
-
+                <p style="font-size: 23px !important;">Yapım aşamasında</p>
             </div>
 
             <div class="rightContent">
-
+                <?php include 'rightMenu.php'; ?>
+                <div class="rightBanner"></div>
+                <?php include 'news.php'; ?>
             </div>
 
         </div>

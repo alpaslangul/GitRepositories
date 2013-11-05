@@ -18,6 +18,32 @@
                     Türkiye ve Cote d'ıvoire'u başarıya taşıyacak her ticari planın mimarı olmak.
                 </p>
 
+                <div class="photos">
+                    <div>
+                        <div class="photosFront"></div>
+                        <img src="img/large/thumb/image1.jpg" alt=""/>
+                    </div>
+                    <div>
+                        <div class="photosFront"></div>
+                        <img src="img/large/thumb/image2.jpg" alt=""/>
+                    </div>
+                    <div>
+                        <div class="photosFront"></div>
+                        <img src="img/large/thumb/image3.jpg" alt=""/>
+                    </div>
+                    <div>
+                        <div class="photosFront"></div>
+                        <img src="img/large/thumb/image4.jpg" alt=""/>
+                    </div>
+                    <div>
+                        <div class="photosFront"></div>
+                        <img src="img/large/thumb/image5.jpg" alt=""/>
+                    </div>
+                    <div>
+                        <div class="photosFront"></div>
+                        <img src="img/large/thumb/image6.jpg" alt=""/>
+                    </div>
+                </div>
 
             </div>
 

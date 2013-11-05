@@ -9,7 +9,16 @@ CCC = {
         $('.spnsRightBtn').on('click', CCC.slider.rightClick);
         $('.sponsorsContainer').css('width', CCC.imageW * CCC.itemCount);
         $('.up').bind('click', CCC.pageUp)
-        $('.maps-button').bind('click', CCC.pageDown)
+        $('.maps-button').bind('click', CCC.pageDown);
+        $('.photos div').hover(CCC.photosHover,CCC.photosLeave);
+    },
+
+    photosHover : function () {
+        $(this).children('.photosFront').fadeIn(300);
+    },
+
+    photosLeave : function () {
+        $(this).children('.photosFront').fadeOut(80);
     },
 
     clear : function() {
@@ -64,5 +73,6 @@ CCC = {
 
 $(document).ready( function() {
     CCC.commonInit();
-    CCC.slider.timer()
+    CCC.slider.timer();
+
 });
