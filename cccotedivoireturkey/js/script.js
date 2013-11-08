@@ -11,7 +11,10 @@ CCC = {
         $('.up').bind('click', CCC.pageUp)
         $('.maps-button').bind('click', CCC.pageDown);
         $('.photos div').hover(CCC.photosHover, CCC.photosLeave);
+        $('.toogleHead').on('click', CCC.toggleActive);
     },
+
+
 
     photosHover : function () {
         var a = $(this).children('.photosFront').index();
@@ -20,6 +23,10 @@ CCC = {
 
     photosLeave : function () {
         $(this).children('.photosFront').fadeOut(300);
+    },
+
+    toggleActive : function () {
+        $(this).find('.contentText').slideToggle('slow').parents('.toogleHead').find('.contentHeader').toggleClass('dp');
     },
 
     clear : function() {

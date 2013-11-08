@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
             <div class="leftContent">
-                <span class="contentHeader">Transimex Yatırım Anlaşması</span>
+                <span class="contentHeader arrow">Transimex Yatırım Anlaşması</span>
                 <span class="contentHeadLine">Fildişi Sahili ile Türkiye Arasındaki Ticari Köprü</span>
                 <p class="contentText">
                     Fildişi Sahilleri Liman Ulaştırma Gümrük Resmi Kuruluşu olan Transimex Kuruluşu ile Odamız Yatırım anlaşması imzalamıştır.

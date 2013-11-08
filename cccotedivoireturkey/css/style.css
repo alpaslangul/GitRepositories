@@ -135,13 +135,15 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .sponsorsWrapper .spnsRightBtn { width: 29px; height: 129px; margin-left: 8px; background: url("../img/rightArrow.png") no-repeat center; cursor: pointer; }
 .middle .content .connLeft  { float: left; }
 .middle .content .connRight { float: left; }
-.middle .content .leftContent .contentHeader { font-family:  OmnesSemiBold, "Arial sans-serif"; font-size: 18px; font-weight: bold; float: left; color: #d00000; width: 100%; margin-top: 15px; margin-bottom: 15px;}
+.middle .content .leftContent .contentHeader { font-family:  OmnesSemiBold, "Arial sans-serif"; font-size: 18px; font-weight: bold; float: left; color: #d00000; width: 100%; margin-top: 15px; margin-bottom: 15px; }
 .middle .content .leftContent .contentHeader hr { margin: 0 0 30px 0 }
 .middle .content .leftContent .contentHeadLine { font-family:  OmnesSemiBold, "Arial sans-serif"; font-weight: bold; font-size: 14px; float: left; color: #3d3d3d; width: 100%; margin: 5px 0 5px 0;}
 .middle .content .leftContent .s16 { font-size: 15px !important; }
+.middle .content .leftContent .arrow { width: 100%; padding-left: 20px; background: url("../img/sprite.png") no-repeat -4px -119px; cursor: pointer;}
 
 .middle .content .leftContent .contentImage { float: left; color: #d00000}
-.middle .content .leftContent .contentText { font-family:  Omnes, "Arial sans-serif"; float: left; color : #8f8f8f; font-size: 13px; line-height: 22px; padding-bottom: 25px; text-align: justify}
+.middle .content .leftContent .contentText {  font-family:  Omnes, "Arial sans-serif"; float: left; color : #8f8f8f; font-size: 13px; line-height: 22px; padding-bottom: 25px; text-align: justify}
+.middle .content .leftContent .visible {  display: none; }
 .middle .content .leftContent .contentText .inHead { font-family:  OmnesSemiBold, "Arial sans-serif"; font-weight: bold; }
 .middle .content .leftContent  span { font-size: 14px; }
 
@@ -254,3 +256,5 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .vectorLayers span { font-family:  Century, "Arial sans-serif";  float: left; margin: 5px 0;cursor: pointer;}
 .weather { width: 240px; text-align: center; }
 .weather p { margin: 10px 0; }
+.dp { background-position: -5px -133px !important; }
+.toggleVisible { display: block !important; }

@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
             <div class="leftContent">
-                <span class="contentHeader">Yetki Anlaşması</span>
+                <span class="contentHeader arrow">Yetki Anlaşması</span>
                 <p class="contentText">
                     Cote D'ivoire(Fildişi Sahili) hükümeti  ile Fildişi Sahili Türk Ticaret ve Sanayi odası Türkiye'ye ayrıcalık tanıyan
                     iki anlaşmayı imzaladı. Cote D'ivoire Başbakan yardımcısı ve yatırımdan sorumlu devlet bakanının imza koyduğu anlaşma
