@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
         <div class="leftContent">
             <span class="contentHeader">Hizmetlerimiz</span>
-            <p class="contentText">iki ülke arasındaki ticaret hacminin büyümesi, desteklenmesi ve başka iş alanlarında bağlantılı
+            <p class="contentText">İki ülke arasındaki ticaret hacminin büyümesi, desteklenmesi ve başka iş alanlarında bağlantılı
                 faaliyetlerde bulunmak isteyen firmalara yardımcı olunması için detaylı ve geniş hizmetler verebilmektedir.
                 Bu hizmet ve servislerin bir bölümü, Destek Hizmetleri, Hukuksal Servis, Belge Hizmetleri ve Etkinlikler
                 hakkında bilgi alabilirsiniz. Ayrıca, bu bölümde, Fildişi Sahili ve Türkiye arasında Ticaret Heyeti
-                Ziyaretlerini, Ticaret olanaklarını, İhaleleri, Şirket kurabilme imkânları ve şartları hakkında detaylı
-                bilgilerde ’de sahip olabilirsiniz. Ayrıca, İş ortağı arayabilir veya yardım isteyebilirsiniz, bundan başka,
-                seminerler, konferanslar, çeşitli alanlarda bilgilendirmeye ait bilgilere ulaşabilirsiniz, Aşağıda bu
-                konuları kısa da olsa bir incelemenizde yarar var </p>
+                Ziyaretlerini, Ticaret olanaklarını ihaleleri, şirket kurabilme imkânları ve şartları hakkında detaylı
+                bilgilerdede sahip olabilirsiniz. Ayrıca, iş ortağı arayabilir veya yardım isteyebilirsiniz. Bundan başka,
+                seminerler, konferanslar, çeşitli alanlarda bilgilere ulaşabilirsiniz. Aşağıda bu
+                konuları kısa da olsa bir incelemenizde yarar var. </p>
             <!--OFİS HİZMETLERİMİZ-->
             <span class="contentHeader s16">Ofis Hizmetleri</span>
             <p class="contentText">
                 Fildişi Sahili ' nde iş toplantılarınızın yapılabilmesi için ofis ve servis hizmetleri.<br />
-                Fildişi Sahili ' nde ekibinizle birlikte gelindiğinde çalışmalarınızı yürütebileceğiniz hazır Ofis hizmetleri.<br />
+                Fildişi Sahili ' nde ekibinizle birlikte gelindiğinde çalışmalarınızı yürütebileceğiniz hazır ofis hizmetleri.<br />
                 Fildişi Sahili 'nde şirketinizin iyi temsil edilebilmesi için gerekli çalışmaları düzenlenmesi.<br />
                 Fildişi Sahili ' nde şirketiniz adına şubeniz gibi çalışmalarının profesyonel ekiplerce yürütülerek hizmet verilmesinin sağlanması.<br />
                 Fildişi Sahili ' nde şirketinize özel telefon hattı, gelen telefonlara şirketiniz adına cevap verilmesi ya da sizlere yönlendirilmesi.<br />
@@ -23,13 +23,13 @@
                 <span class="contentHeader s16"><hr>
                     Fildişi Sahili ve Türkiye'de Üyelere Özel Hizmetlerimiz</span>
             <p class="contentText">
-                Şirket yetkililerinin vizelerini alabilmeleri için davetiye verilmesi<br />
-                Ulaşım ve konaklama rezervasyonlarının yapılması<br />
-                Görüşmek istediğiniz şirketlerden randevu koordinasyonun sağlanması<br />
+                Şirket yetkililerinin vizelerini alabilmeleri için davetiye verilmesi.<br />
+                Ulaşım ve konaklama rezervasyonlarının yapılması.<br />
+                Görüşmek istediğiniz şirketlerden randevu koordinasyonun sağlanması.<br />
                 İş görüşmelerinde tercüman bulundurulması.<br />
                 Fuarlara katılmak isteyen şirketlerin başvurularını yapmak.<br />
                 İş yapacağınız firmalar hakkında finansal ve kurucuları hakkında istihbarat hizmetleri.<br />
-                Türkçe – Fransızca yeminli çeviri ve tercümanlık hizmetleri<br />
+                Türkçe – Fransızca yeminli çeviri ve tercümanlık hizmetleri.<br />
                 Araba kiralama.<br />
                 Güvenlik.
             </p>
@@ -45,8 +45,8 @@
                 Destek Hizmetleri, Hukuksal Servis, Belge Hizmetleri ve Etkinlikler hakkında bilgi alabilirsiniz. Ayrıca, bu bölümde,
                 Fildişi Sahili ve Türkiye arasında Ticaret Heyeti Ziyaretlerini, Ticaret olanaklarını, İhaleleri, Şirket kurabilme imkânları ve
                 şartları hakkında detaylı bilgilerde ’de sahip olabilirsiniz. Ayrıca, İş ortağı arayabilir veya yardım isteyebilirsiniz,
-                bundan başka, seminerler, konferanslar, çeşitli alanlarda bilgilendirmeye ait bilgilere ulaşabilirsiniz,
-                Aşağıda bu konuları kısa da olsa bir incelemenizde yarar var
+                bundan başka, seminerler, konferanslar, çeşitli alanlarda bilgilere ulaşabilirsiniz,
+                Aşağıda bu konuları kısa da olsa bir incelemenizde yarar var.
             </p>
 
             <p class="contentText">
@@ -71,49 +71,22 @@
             <p class="contentText">
                 <span class="inHead">Danışmanlık ve İş Geliştirme</span><br />
                 Yeni bir pazara girmek, yatırım yapmak veya  ürünlerinizi tanıtmak için sözkonusu pazarı iyi tanımak gerekir.
-                Urünlerinizi o ülkeye götürmeden stratejiniz için gerekli  pazara giriş imkânları hakkında odamızın tecrübeli uzmanlarından bilgi almanızı öneririz.
+                Ürünlerinizi o ülkeye götürmeden stratejiniz için gerekli  pazara giriş imkânları hakkında odamızın tecrübeli uzmanlarından bilgi almanızı öneririz.
             </p>
         </div>
 
         <div class="rightContent">
             <?php include 'rightMenu.php'; ?>
 
-            <div class="newsWrapper">
-                <span class="HeadLine">Haberler</span>
-                <div class="news">
-                    <div class="newsDate">
-                        <div class="newsMonth">09</div>
-                        <div class="newsYears">2013</div>
-                    </div>
-                    <span class="newsTitle">Lorem Ipsum</span>
-                         <span class="newsArticle">Lorem Ipsum is simply dummy text of the
-                             printing and typesetting </span>
-                </div>
-                <div class="news">
-                    <div class="newsDate">
-                        <div class="newsMonth">09</div>
-                        <div class="newsYears">2013</div>
-                    </div>
-                    <span class="newsTitle">Lorem Ipsum</span>
-                         <span class="newsArticle">Lorem Ipsum is simply dummy text of the
-                             printing and typesetting </span>
-                </div>
-                <div class="news">
-                    <div class="newsDate">
-                        <div class="newsMonth">09</div>
-                        <div class="newsYears">2013</div>
-                    </div>
-                    <span class="newsTitle">Lorem Ipsum</span>
-                         <span class="newsArticle">Lorem Ipsum is simply dummy text of the
-                             printing and typesetting </span>
-                </div>
-            </div>
+            <?php include 'news.php'; ?>
 
         </div>
 
     </div>
     <div class="advertising">
-        <img src="img/airdivoure.jpg" alt="">
+        <img src="img/airdivoure.jpg" alt=""/>
+        <img src="img/eset-dikey.jpg" alt=""/>
+        <img src="img/batipro-dikey.jpg" alt=""/>
     </div>
 
 </div>
@@ -124,6 +97,7 @@
 <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
 <script type="text/javascript" src="js/dwopdown.js"></script>
 <script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/slider.js"></script>
 <script type="text/javascript">
     $('#3 a').css('color', '#f77f00');
     $('#3').css('background', 'url("img/sprite.png") no-repeat -2px -1px');

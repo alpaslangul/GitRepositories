@@ -2,11 +2,11 @@
             <div class="leftContent">
                 <div class="vectorLayers">
                     <img class="myVectors" src="img/tr_Flag.jpg" alt=""/>
-                    <span>Türk Bayrağı vectorel dosyasını indirmek için tıklayınız</span>
+                    <span><a href="Turk_Bayragi.rar">Türk Bayrağı vectorel dosyasını indirmek için tıklayınız</a></span>
                     <img class="myVectors" src="img/cd_Flag.jpg" alt=""/>
-                    <span>Fildişi Sahili Bayrağı vectorel dosyasını indirmek için tıklayınız</span>
+                    <span><a href="CotedIvoire.rar">Fildişi Sahili Bayrağı vectorel dosyasını indirmek için tıklayınız</a></span>
                     <img class="myVectors" src="img/foundation_Flag.jpg" alt=""/>
-                    <span>Odamızın logosunun vectorel dosyasını indirmek için tıklayınız</span>
+                    <span><a href="logomuz.rar">Odamızın logosunun vectorel dosyasını indirmek için tıklayınız</a></span>
                 </div>
             </div>
 

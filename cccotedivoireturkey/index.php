@@ -58,7 +58,7 @@
 
                 <p style="font-size: 18px;">Hakkımızda</p>
                 <p>Fildişi Sahili Türk Tic. ve San. Odası Fildişi Sahili ile Türkiye arasındaki ticari köprü ve iletişim merkezi
-                    olma görevini üstlenmiştir. Fildişi Sahili ve Türkiye'den üyeleri vardır. Üyelerimiz, Kamu, yönetim, üretim,
+                    olma görevini üstlenmiştir. Fildişi Sahili ve Türkiye'den üyeleri vardır. Üyelerimiz, kamu, yönetim, üretim,
                     ticaret ve hizmet sektörlerinin her alanında faaliyet gösterirlerken  geniş iş tecrübeleri ile büyük ilişkiler ağı oluşturmaktadırlar.</p>
 
             </div>
@@ -75,8 +75,8 @@
         <div class="rightContent">
 
             <?php include 'rightMenu.php'; ?>
-            <div class="rightBanner"></div>
             <?php include 'news.php'; ?>
+            <div class="rightBanner"></div>
             <div class="weather">
                 <div id="wx_module_1611">
                     <a href="http://www.weather.com/weather/local/IVXX0001">Abidjan Weather Forecast, Cote D' Ivoire</a>
@@ -88,6 +88,15 @@
             </div>
 
         </div>
+        <div style="float: left; margin: 35px 0 0 25px">
+            <img src="img/mercedes.png" alt=""/>
+            <img src="img/isbank.png" alt=""/>
+            <img src="img/eset.png" alt=""/>
+            <img src="img/doubletake.png" alt=""/>
+            <img src="img/stratus.png" alt=""/>
+            <img src="img/moni.png" alt=""/>
+            <img src="img/batipro.png" alt=""/>
+        </div>
         <div class="sponsors">
             <!--BOTTOM SLIDER-->
             <div class="sponsorsWrapper">
@@ -98,19 +107,14 @@
                             <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors.jpg" alt="eset"/></a>
                         </div>
                         <div class="sliderImage">
-                            <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors2.jpg" alt="eset"/></a>
-                        </div>
-                        <div class="sliderImage">
                             <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors4.jpg" alt="eset"/></a>
-                        </div>
-                        <div class="sliderImage">
-                            <a href="http://www.eset.com.tr" target="_blank"><img src="img/sponsors3.jpg" alt="eset"/></a>
                         </div>
                     </div>
                 </div>
                 <div class="spnsRightBtn"></div>
             </div>
         </div>
+
     </div>
     <div class="advertising">
         <img src="img/airdivoure.jpg" alt=""/>

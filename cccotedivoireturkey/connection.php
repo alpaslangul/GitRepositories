@@ -117,7 +117,9 @@
 
     </div>
     <div class="advertising">
-        <img src="img/airdivoure.jpg" alt="">
+        <img src="img/airdivoure.jpg" alt=""/>
+        <img src="img/eset-dikey.jpg" alt=""/>
+        <img src="img/batipro-dikey.jpg" alt=""/>
     </div>
 
 </div>
@@ -129,6 +131,7 @@
 <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 <script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/slider.js"></script>
 <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
 <script type="text/javascript" src="js/dwopdown.js"></script>
 <script type="text/javascript">

@@ -1,6 +1,15 @@
 <?php include 'header.php'; ?>
             <div class="leftContent">
-                <p style="font-size: 23px !important;">Yapım aşamasında</p>
+                <span class="contentHeader">Transimex Yatırım Anlaşması</span>
+                <span class="contentHeadLine">Fildişi Sahili ile Türkiye Arasındaki Ticari Köprü</span>
+                <p class="contentText">
+                    Fildişi Sahilleri Liman Ulaştırma Gümrük Resmi Kuruluşu olan Transimex Kuruluşu ile Odamız Yatırım anlaşması imzalamıştır.
+                </p>
+
+                <img src="img/news/thumb/img0004.jpg" alt=""/>
+                <img src="img/news/thumb/img0005.jpg" alt=""/>
+                <img src="img/news/thumb/img0006.jpg" alt=""/>
+                <img src="img/news/thumb/img0007.jpg" alt=""/>
             </div>
 
             <div class="rightContent">

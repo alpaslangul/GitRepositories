@@ -8,42 +8,15 @@
             <div class="rightContent">
                 <?php include 'rightMenu.php'; ?>
 
-                <div class="newsWrapper">
-                    <span class="HeadLine">Haberler</span>
-                    <div class="news">
-                        <div class="newsDate">
-                            <div class="newsMonth">09</div>
-                            <div class="newsYears">2013</div>
-                        </div>
-                        <span class="newsTitle">Lorem Ipsum</span>
-                         <span class="newsArticle">Lorem Ipsum is simply dummy text of the
-                             printing and typesetting </span>
-                    </div>
-                    <div class="news">
-                        <div class="newsDate">
-                            <div class="newsMonth">09</div>
-                            <div class="newsYears">2013</div>
-                        </div>
-                        <span class="newsTitle">Lorem Ipsum</span>
-                         <span class="newsArticle">Lorem Ipsum is simply dummy text of the
-                             printing and typesetting </span>
-                    </div>
-                    <div class="news">
-                        <div class="newsDate">
-                            <div class="newsMonth">09</div>
-                            <div class="newsYears">2013</div>
-                        </div>
-                        <span class="newsTitle">Lorem Ipsum</span>
-                         <span class="newsArticle">Lorem Ipsum is simply dummy text of the
-                             printing and typesetting </span>
-                    </div>
-                </div>
+                <?php include 'news.php'; ?>
 
             </div>
 
         </div>
         <div class="advertising">
-            <img src="img/airdivoure.jpg" alt="">
+            <img src="img/airdivoure.jpg" alt=""/>
+            <img src="img/eset-dikey.jpg" alt=""/>
+            <img src="img/batipro-dikey.jpg" alt=""/>
         </div>
 
     </div>
@@ -54,6 +27,7 @@
 <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
 <script type="text/javascript" src="js/dwopdown.js"></script>
 <script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/slider.js"></script>
 <script type="text/javascript">
     $('#5 a').css('color', '#f77f00');
     $('#5').css('background', 'url("img/sprite.png") no-repeat -2px -1px');

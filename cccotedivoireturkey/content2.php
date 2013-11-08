@@ -1,6 +1,17 @@
 <?php include 'header.php'; ?>
             <div class="leftContent">
-                <p style="font-size: 23px !important;">Yapım aşamasında</p>
+                <span class="contentHeader">Yetki Anlaşması</span>
+                <p class="contentText">
+                    Cote D'ivoire(Fildişi Sahili) hükümeti  ile Fildişi Sahili Türk Ticaret ve Sanayi odası Türkiye'ye ayrıcalık tanıyan
+                    iki anlaşmayı imzaladı. Cote D'ivoire Başbakan yardımcısı ve yatırımdan sorumlu devlet bakanının imza koyduğu anlaşma
+                    çerçevesinde, ülkenin tüm maden, değerli taş ve tarım ürünleri (Kahve , Kakao, Kaju), İnşaat, Turizm konularındaki
+                    işletme, yatırım gibi ticari konularında odamız tam olarak yetkilendirilmiştir.
+                </p>
+
+                <img src="img/news/thumb/img0001.jpg" alt=""/>
+                <img src="img/news/thumb/img0002.jpg" alt=""/>
+                <img src="img/news/thumb/img0003.jpg" alt=""/>
+
             </div>
 
             <div class="rightContent">
