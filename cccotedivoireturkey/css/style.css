@@ -97,7 +97,7 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .leftContent .insideContent { float: left; padding-bottom: 15px; }
 .middle .content .leftContent .insideContent p { font-family:  Omnes, "Arial sans-serif"; text-align: justify; line-height: 22px; color: #8f8f8f; font-size: 13px; padding: 8px 11px 0 3px; text-align: justify }
 /********* SLIDER *********/
-.middle .content .leftContent .sliderWrapper { width: 593px; height: 328px;  margin-top: 16px; margin-bottom: 20px; overflow-x: hidden; }
+.middle .content .leftContent .sliderWrapper { position: relative; width: 593px; height: 328px;  margin-top: 16px; margin-bottom: 20px; overflow-x: hidden; }
 .middle .content .leftContent .sliderWrapper .dynamics { height: inherit; overflow-y: hidden; }
 .middle .content .leftContent .sliderWrapper .dynamics .sliderItems { float: left; height: inherit;  position: relative;}
 
