@@ -8,7 +8,7 @@ CCC = {
         $('.spnsLeftBtn').on('click', CCC.slider.leftClick);
         $('.spnsRightBtn').on('click', CCC.slider.rightClick);
         $('.sponsorsContainer').css('width', CCC.imageW * CCC.itemCount);
-        $('.up').bind('click', CCC.pageUp)
+        $('.pageUp').bind('click', CCC.pageUp)
         $('.maps-button').bind('click', CCC.pageDown);
         $('.photos div').hover(CCC.photosHover, CCC.photosLeave);
         $('.toogleHead').on('click', CCC.toggleActive);

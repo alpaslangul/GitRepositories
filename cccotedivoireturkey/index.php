@@ -62,6 +62,31 @@
                     ticaret ve hizmet sektörlerinin her alanında faaliyet gösterirlerken  geniş iş tecrübeleri ile büyük ilişkiler ağı oluşturmaktadırlar.</p>
 
             </div>
+
+            <div class="insideContent news">
+                <span class="HeadLine">Haberler</span>
+                <div class="newsUnit">
+                    <div class="newsImage"><img src="img/news/thumb/img0004.jpg" alt=""/></div>
+                    <div class="newsContent">
+                        <span>Transimex Yatırım Anlaşması</span><span class="newsdate">02.02.2013</span>
+                        <p>Fildişi Sahilleri Liman Ulaştırma Gümrük Resmi Kuruluşu olan Transimex Kuruluşu ile Odamız Yatırım anlaşması imzalamıştır.</p>
+                    </div>
+                    <div class="share"><img src="img/social.jpg" alt=""/></div>
+                </div>
+            </div>
+
+            <div class="insideContent news">
+                <div class="newsUnit">
+                    <div class="newsImage"><img src="img/news/thumb/img0002.jpg" alt=""/></div>
+                    <div class="newsContent">
+                        <span>Yetki Anlaşması</span><span class="newsdate">02.02.2013</span>
+                        <p>Cote D'ivoire(Fildişi Sahili) hükümeti  ile Fildişi Sahili Türk Ticaret ve Sanayi odası Türkiye'ye ayrıcalık tanıyan
+                            iki anlaşmayı imzaladı.</p>
+                    </div>
+                    <div class="share"><img src="img/social.jpg" alt=""/></div>
+                </div>
+            </div>
+
             <div class="insideContent">
                 <span class="HeadLine">Etkinliklerimiz</span>
                 <div class="activityContainer">

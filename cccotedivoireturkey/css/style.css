@@ -74,7 +74,7 @@
 .red { color: red !important;}
 body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduITC, "Arial sans-serif"; background-color: #eeebe4;}
 
-.container { width: 950px; margin:  0 auto; height: 250px; }
+.container { width: 950px; margin:  0 auto; height: 900px;  }
 .header { width: 950px;  height: 168px; float: left; background: url("../img/flag_bg.png") no-repeat top left; }
 .header .headerLeft { float: left; }
 .header .headerLeft .logo { width: 118px ; height: 119px; margin: 22px 0 0 16px; float: left; background: url("../img/logo.png") no-repeat center; }
@@ -96,6 +96,13 @@ body { background: url("../img/bg_image.png") repeat-x top; font-family: ConduIT
 .middle .content .leftContent { width: 600px; float: left; margin-left: 37px; margin-top: 32px; }
 .middle .content .leftContent .insideContent { float: left; padding-bottom: 15px; }
 .middle .content .leftContent .insideContent p { font-family:  Omnes, "Arial sans-serif"; text-align: justify; line-height: 22px; color: #8f8f8f; font-size: 13px; padding: 8px 11px 0 3px; text-align: justify }
+.middle .content .leftContent .insideContent .newsUnit { width: 593px; background: #fff;  float: left; margin: 15px 0 0 0; border: 1px solid #cbcbcb; }
+.middle .content .leftContent .insideContent .newsUnit .newsImage { width: 150px; margin: 5px; background: #fff; float: left; }
+.middle .content .leftContent .insideContent .newsUnit .newsContent { width: 425px; height: 120px; float: left; font-family: Omnes, "Arial sans-serif";  background: #fff;  }
+.middle .content .leftContent .insideContent .newsUnit .newsContent span {color: #ff0000; padding-top: 4px; font-size: 17px; display: inline-block;}
+.middle .content .leftContent .insideContent .newsUnit .newsContent .newsdate { float: right;color: #f77f00; }
+.middle .content .leftContent .insideContent .newsUnit .share { padding: 8px;  width: 100%; background: #e0e0e0; float: left; text-align: right}
+
 /********* SLIDER *********/
 .middle .content .leftContent .sliderWrapper { position: relative; width: 593px; height: 328px;  margin-top: 16px; margin-bottom: 20px; overflow-x: hidden; }
 .middle .content .leftContent .sliderWrapper .dynamics { height: inherit; overflow-y: hidden; }

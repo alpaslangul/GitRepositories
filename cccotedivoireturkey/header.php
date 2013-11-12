@@ -11,12 +11,13 @@
         $resultName = $filename.'"'.' onload="initialize()"';
         }
 ?>
-<html><head>
+<!DOCTYPE html><head>
     <title>Côte d'Ivoire</title>
     <link rel="stylesheet" href="css/style.css">
     <meta charset="utf-8">
 </head>
 <body <?php echo $resultName; ?>>
+
 <div class="container">
 
     <div class="header">
