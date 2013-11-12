@@ -54,7 +54,7 @@ SLIDER = {
 
     adverLoop : function ()
     {
-        console.log(SLIDER.loop);
+
             if (SLIDER.loop < 3)
             {
                 $('.advertising img').eq(SLIDER.loop).show().siblings().hide();

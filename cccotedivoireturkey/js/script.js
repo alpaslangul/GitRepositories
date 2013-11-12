@@ -14,8 +14,6 @@ CCC = {
         $('.toogleHead').on('click', CCC.toggleActive);
     },
 
-
-
     photosHover : function () {
         var a = $(this).children('.photosFront').index();
         $(this).children('.photosFront').fadeIn(300);

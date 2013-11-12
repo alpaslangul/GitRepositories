@@ -2,7 +2,8 @@
 
 body {
     margin: 0;
-    background: #54baa9;
+    background: #ffffff;
+    font-family: Helvetica, 'Arial sans-serif';
 }
 
 @import "../../css/reset.css";
@@ -19,6 +20,7 @@ a{ cursor : pointer;}
     font-weight: normal;
     font-style: normal;
 }
+
 
 
 /* login page */
@@ -59,6 +61,19 @@ select  { *margin-top: 1px;} /* ie 7 */
 .wrapper .inner input[type=button] { width: 125px; height: 32px; color: #555; border-radius : 4px; box-shadow: 1px 1px #d1d0d0; text-shadow: 1px 1px #fff; border: none; outline: none; float: right; margin: 25px 52px 0 0; background: url("../img/btnGreen.png") }
 .wrapper .inner input[type=button]:hover { color: #fff; text-shadow: 1px 1px #777; box-shadow: 1px 1px #b4b1b1; cursor: pointer;   }
 .wrapper .inner .terms { width: 462px; float: left; font-size: 11px; text-align: right; padding: 10px 52px 0 0; cursor: pointer;   }
+
+#admin { background: white;  }
+.headInf { width: 100%; height: 33px; position: static;}
+.headInf .information { width: 100%; height: 30px; color: #fff; background: #464646; box-shadow: 0px 1px 4px #000;}
+.adminLeft { float: left; width: 265px; height: 600px; background-color: #ececec; font-family: ConduITC, "Arial sans-serif"; background: url("../img/leftBg.png") right repeat-y }
+.adminLeft .menuItems { width:100%; float: left;  }
+.adminLeft .menuItems a { width: 30px; height: 30px; margin-left: 5px; display: block; float: left; background: url("../img/adminSprite.png"); }
+.adminLeft .menuItems #users {  }
+.adminLeft .menuItems span{ padding: 6px 0 0 4px; display: inline-block; line-height:22px; font-family: Helvetica, 'Arial sans-serif'; cursor: pointer; }
+.adminLeft .adminLogo { float: left; padding: 10px;  }
+.adminLeft .adminLogo img { float: left; }
+.adminLeft .adminLogo span { font-size: 12px; padding: 8px 5px; float: left; width: 160px; }
+.adminRight { width: 100%; background: #ffffff; }
 
 
 

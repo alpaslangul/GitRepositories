@@ -8,8 +8,24 @@ CCC = {
         $('.spnsLeftBtn').on('click', CCC.slider.leftClick);
         $('.spnsRightBtn').on('click', CCC.slider.rightClick);
         $('.sponsorsContainer').css('width', CCC.imageW * CCC.itemCount);
-        $('.up').bind('click', CCC.pageUp)
-        $('.maps-button').bind('click', CCC.pageDown)
+        $('.pageUp').bind('click', CCC.pageUp)
+        $('.maps-button').bind('click', CCC.pageDown);
+        $('.photos div').hover(CCC.photosHover, CCC.photosLeave);
+        $('.toogleHead').on('click', CCC.toggleActive);
+
+    },
+
+    photosHover : function () {
+        var a = $(this).children('.photosFront').index();
+        $(this).children('.photosFront').fadeIn(300);
+    },
+
+    photosLeave : function () {
+        $(this).children('.photosFront').fadeOut(300);
+    },
+
+    toggleActive : function () {
+        $(this).find('.contentText').slideToggle('slow').parents('.toogleHead').find('.contentHeader').toggleClass('dp');
     },
 
     clear : function() {
@@ -34,7 +50,7 @@ CCC = {
             setInterval(function()
             {
                 CCC.slider.rightClick();
-            }, 3000);
+            }, 4750);
         },
 
         leftClick : function ()
@@ -64,5 +80,6 @@ CCC = {
 
 $(document).ready( function() {
     CCC.commonInit();
-    CCC.slider.timer()
+    CCC.slider.timer();
+
 });

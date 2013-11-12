@@ -153,9 +153,10 @@
 </div>
 <?php include 'footer.php'; ?>
 <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
-<script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
 <script type="text/javascript" src="js/script.js"></script>
 <script type="text/javascript" src="js/slider.js"></script>
+<script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
+
 <script type="text/javascript" src="js/dwopdown.js"></script>
 <script type="text/javascript">
     $('#1 a').css('color', '#f77f00');
