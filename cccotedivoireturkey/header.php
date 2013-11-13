@@ -4,11 +4,11 @@
     $filename = basename($file, '.'.$info['extension']);
     if ($filename!="connection")
         {
-            $resultName = $filename;
+            $resultName = "id=\"$filename\"";
         }
     else
         {
-        $resultName = $filename.'"'.' onload="initialize()"';
+        $resultName = "id=\"$filename\" ".'"'.'onload="initialize()"';
         }
 ?>
 <!DOCTYPE html><head>

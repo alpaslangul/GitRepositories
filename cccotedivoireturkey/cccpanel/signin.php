@@ -1,15 +1,4 @@
-<html>
-<head>
-    <title></title>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="css/style.css">
-    <!--[if IE 8]>
-    <style type="text/css">
-        select  { margin-top: 1px !important;}
-    </style>
-    <![endif]-->
-</head>
-<body id="signin">
+<?php include 'header.php'; ?>
 <div class="wrapper">
 <div class="container">
     <div class="inner">

@@ -23,7 +23,7 @@
         </div>
 
         <div class="dashBoard">
-            <a href="edit.php">+ Yeni Haber Ekle</a>
+            <a href="post-new.php">+ Yeni Haber Ekle</a>
         </div>
 </div>
 </div>
@@ -34,6 +34,7 @@
             <span>Chambre De Commerce Et D’ındustrıe
                   Turque En Cote D’ıvoıre</span>
         </div>
+
         <div class="menuItems"><a href="#" id="users"><span>Kullanıcılar</span></a></div>
         <div class="menuItems"><a href="#" id="cetegory"><span>Kategoriler</span></a></div>
         <div class="menuItems"><a href="edit.php" id="news"><span>Haberler</span></a></div>
@@ -47,9 +48,18 @@
     <div class="adminRight">
         <div class="panelHeadText">
             <a href="#"></a>
-            <span>Başlık Metni</span>
+            <span>Yeni Haber Ekle</span>
             <div class="panelbox">
+                <div class="editTable">
+                    <div class="editTableContainer">
+                        <div class="editTableLine">Haber Başlığı<input type="text" class="inpText" /></div>
+                        <div class="editTableLine"><input type="text" class="inpText" /></div>
+                        <div class="editTableLine"><input type="text" class="inpText" /></div>
 
+                    </div>
+                    <div class=""></div>
+
+                </div>
             </div>
         </div>
     </div>

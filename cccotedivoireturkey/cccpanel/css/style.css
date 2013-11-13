@@ -8,7 +8,8 @@ body {
 
 @import "../../css/reset.css";
 
-a{ cursor : pointer;}
+a{ cursor : pointer; text-decoration: none;}
+.headInf a { color: #ccc;}
 
 @font-face {
     font-family: 'Helvetica';
@@ -63,10 +64,14 @@ select  { *margin-top: 1px;} /* ie 7 */
 .wrapper .inner .terms { width: 462px; float: left; font-size: 11px; text-align: right; padding: 10px 52px 0 0; cursor: pointer;   }
 
 #admin { background: white; }
-.panelRight { width: 100%; min-width: 1070px; }
+.panelRight { width: 100%; min-width: 1188px; }
 .headInf { width: 100%; min-width: 1070px; height: 33px; position: static; }
 .headInf .information { width: 100%; min-width: 1070px; height: 30px; color: #fff; background: #464646; box-shadow: 0px 1px 4px #000;}
-.headInf .information span { padding-left: 17px; font-size: 13px; line-height: 30px; color: #cccccc;}
+.headInf .information .leftTop { width: 265px; height: 30px; float: left;}
+.headInf .information .dashBoard { width:800px; height: 30px; float: left; }
+.headInf .information .dashBoard a { display: inline-block; line-height: 21px; padding: 5px 5px 5px 5px; }
+.headInf .information .dashBoard a:hover { background: #cccccc; color: #464646; }
+.headInf .information .leftTop span { padding-left: 17px; font-size: 13px; line-height: 30px; color: #cccccc;}
 .adminLeft { float: left; width: 265px; height: 600px; background-color: #ececec; font-family: ConduITC, "Arial sans-serif"; background: url("../img/leftBg.png") right repeat-y }
 .adminLeft .menuItems { width:100%; float: left;  cursor: pointer;}
 .adminLeft .menuItems:hover { background: #AAAAAA; border-right: 5px solid #ce0000; width: 260px; }
@@ -74,19 +79,21 @@ select  { *margin-top: 1px;} /* ie 7 */
 .adminLeft .menuItems #users { background-position: 132px 0px; }
 .adminLeft .menuItems #cetegory {background-position: 252px -45px;  }
 .adminLeft .menuItems #news {background-position: 266px 0px;  }
-.adminLeft .menuItems span{ padding: 6px 0 0 4px; display: inline-block; line-height:22px; font-family: Helvetica, 'Arial sans-serif'; cursor: pointer; }
+.adminLeft .menuItems span{ width: 150px; padding: 6px 0 0 44px; display: inline-block; line-height:22px; font-family: Helvetica, 'Arial sans-serif'; color: #333333; cursor: pointer; }
 .adminLeft .adminLogo { float: left; padding: 10px;  }
 .adminLeft .adminLogo img { float: left; }
 .adminLeft .adminLogo span { font-size: 12px; padding: 8px 5px; float: left; width: 160px; }
-.adminRight { background: #ffffff;  float: left;}
-.adminRight .panelHeadText { margin: 15px 0 0 15px; display: inline-block;color: #000000;}
+.adminRight { background: #ffffff;  }
+.adminRight .panelHeadText { margin: 15px 0 0 15px; display: inline-block; color: #000000;}
 .adminRight .panelHeadText span { line-height: 42px; margin-left: 10px;}
 .adminRight .panelHeadText a { width: 39px; height: 39px; display: block; float: left; background: url("../img/adminSprite.png") -125px 3px no-repeat;  }
-.adminRight .panelbox { -webkit-border-radius: 5px; width: 800px; height: 50px;  margin: 10px 0 0 9px;  background: #ececec; border: 1px solid #d6d2d2;
+.adminRight .panelbox { -webkit-border-radius: 5px; width: 800px; margin: 10px 0 0 9px;  background: #ececec; border: 1px solid #d6d2d2;
     -moz-border-radius: 5px;
     border-radius: 5px;    }
-
-
+.adminRight .panelbox .editTable { width: 780px; margin: 10px 10px; }
+.adminRight .panelbox .editTable .editTableContainer { width: 100%; }
+.adminRight .panelbox .editTable .editTableContainer .editTableLine { width: 600px; color: #bbb; }
+.adminRight .panelbox .editTable .editTableContainer .editTableLine .inpText { width: 590px; }
 
 
 

@@ -23,7 +23,7 @@
         </div>
 
         <div class="dashBoard">
-            <a href="edit.php">+ Yeni Haber Ekle</a>
+            <a href="post-new.php">+ Yeni Haber Ekle</a>
         </div>
 </div>
 </div>
