@@ -1,3 +1,11 @@
+<?php
+ session_start();
+ $check = (int)$_SESSION['status'];
+ if ($check != 1 ){
+     header("Location: login.php");
+ }
+?>
+
 <!DOCTYPE html>
 <head>
     <title></title>
