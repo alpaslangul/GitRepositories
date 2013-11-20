@@ -1,14 +1,31 @@
-<!DOCTYPE html>
-<head>
-    <title></title>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body id="admin">
+<?php
+
+ session_start();
+ $check = (int)$_SESSION['status'];
+ if ($check != 1 ){
+     header("Location: login.php");
+ }
+ include 'header.php';
+?>
+
+<!--<!DOCTYPE html>-->
+<!--<head>-->
+<!--    <title></title>-->
+<!--    <meta charset="utf-8">-->
+<!--    <link rel="stylesheet" href="css/style.css">-->
+<!--</head>-->
+<!--<body >-->
+
 <div class="headInf">
     <div class="information">
-        <span>www.tacpromosyon.com.tr</span>
-    </div>
+        <div class="leftTop">
+            <span>www.tacpromosyon.com.tr</span>
+        </div>
+
+        <div class="dashBoard">
+            <a href="edit.php">+ Yeni Haber Ekle</a>
+        </div>
+</div>
 </div>
 <div class="panelRight">
     <div class="adminLeft">
@@ -17,21 +34,23 @@
             <span>Chambre De Commerce Et D’ındustrıe
                   Turque En Cote D’ıvoıre</span>
         </div>
-        <div class="menuItems"><a href="#" id="users"></a><span>Kullanıcılar</span></div>
-        <div class="menuItems"><a href="#" id="cetegory"></a><span>Kategoriler</span></div>
-        <div class="menuItems"><a href="#" id="news"></a><span>Haberler</span></div>
-        <div class="menuItems"><a href="#" id="gallery"></a><span>Foto Galeri</span></div>
-        <div class="menuItems"><a href="#" id="photo"></a><span>Fotoğraflar</span></div>
-        <div class="menuItems"><a href="#" id="connection"></a><span>İletişim Formu</span></div>
-        <div class="menuItems"><a href="#" id="members"></a><span>Üyeler</span></div>
-        <div class="menuItems"><a href="#" id="settings"></a><span>Ayarlar</span></div>
+        <div class="menuItems"><a href="#" id="users"><span>Kullanıcılar</span></a></div>
+        <div class="menuItems"><a href="#" id="cetegory"><span>Kategoriler</span></a></div>
+        <div class="menuItems"><a href="edit.php" id="news"><span>Haberler</span></a></div>
+        <div class="menuItems"><a href="#" id="gallery"><span>Foto Galeri</span></a></div>
+        <div class="menuItems"><a href="#" id="photo"><span>Fotoğraflar</span></a></div>
+        <div class="menuItems"><a href="#" id="connection"><span>İletişim Formu</span></a></div>
+        <div class="menuItems"><a href="#" id="members"><span>Üyeler</span></a></div>
+        <div class="menuItems"><a href="#" id="settings"><span>Ayarlar</span></a></div>
 
     </div>
     <div class="adminRight">
         <div class="panelHeadText">
             <a href="#"></a>
             <span>Başlık Metni</span>
-            <div class="panelbox"></div>
+            <div class="panelbox">
+
+            </div>
         </div>
     </div>
 </div>

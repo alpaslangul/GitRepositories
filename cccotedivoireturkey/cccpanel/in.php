@@ -2,7 +2,9 @@
     header('Content-Type: text/html; charset=utf-8');
     $usern = $_POST['username'];
     $pass  = $_POST['password'];
-    $con   = mysql_connect("94.73.151.249", "cotdivoure", "ccc123");
+    session_start();
+    $_SESSION['status']=FALSE;
+    $con   = mysql_connect("xxx", "xxx", "xxx");
 
     if (!$con) {
         die('Connection Failed' . mysql_error());
@@ -11,7 +13,10 @@
     $result = mysql_query("select username, password from ccc_user where username = '$usern' ");
     $row    = mysql_fetch_array($result);
     if ($row["username"] == $usern && $row["password"] == $pass)
+    {
+        $_SESSION['status']=TRUE;
         header("Location: index.php");
+    }
     else
         echo "Hatalı giriş yaptınız";
 ?>

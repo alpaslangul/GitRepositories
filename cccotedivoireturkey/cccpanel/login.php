@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title></title>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body id="login">
+<?php include 'header.php'; ?>
 <div class="wrapper">
 
     <div class="container">
@@ -50,7 +43,7 @@
             </div>
 
             <div class="loginBottom">
-                <a href="signin.html" name="loginSignBtn" class="SignBtn"></a>
+                <a href="signin.php" name="loginSignBtn" class="SignBtn"></a>
             </div>
 
         </div>

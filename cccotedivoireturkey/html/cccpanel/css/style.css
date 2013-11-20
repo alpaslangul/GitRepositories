@@ -74,7 +74,7 @@ select  { *margin-top: 1px;} /* ie 7 */
 .adminLeft .menuItems #users { background-position: 132px 0px; }
 .adminLeft .menuItems #cetegory {background-position: 252px -45px;  }
 .adminLeft .menuItems #news {background-position: 266px 0px;  }
-.adminLeft .menuItems span{ padding: 6px 0 0 4px; display: inline-block; line-height:22px; font-family: Helvetica, 'Arial sans-serif'; cursor: pointer; }
+.adminLeft .menuItems a span{ padding: 6px 0 0 4px; display: inline-block; line-height:22px; font-family: Helvetica, 'Arial sans-serif'; cursor: pointer; }
 .adminLeft .adminLogo { float: left; padding: 10px;  }
 .adminLeft .adminLogo img { float: left; }
 .adminLeft .adminLogo span { font-size: 12px; padding: 8px 5px; float: left; width: 160px; }
