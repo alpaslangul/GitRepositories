@@ -4,7 +4,7 @@
     $pass  = $_POST['password'];
     session_start();
     $_SESSION['status']=FALSE;
-    $con   = mysql_connect("94.73.151.249", "cotdivoure", "ccc123");
+    $con   = mysql_connect("xxx", "xxx", "xxx");
 
     if (!$con) {
         die('Connection Failed' . mysql_error());
