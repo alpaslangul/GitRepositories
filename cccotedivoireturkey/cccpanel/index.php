@@ -1,9 +1,8 @@
 <?php
-
  session_start();
- $check = (int)$_SESSION['status'];
- if ($check != 1 ){
-     header("Location: login.php");
+ $check = $_SESSION['status'];
+ if ($check ==false ){
+     header("Location: index.php");
  }
  include 'header.php';
 ?>
