@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+1"          <?php include 'header.php'; ?>
             <div class="leftContent">
                 <span class="contentHeader">Hakkımızda</span>
                 <span class="contentHeadLine">Fildişi Sahili ile Türkiye Arasındaki Ticari Köprü</span>
