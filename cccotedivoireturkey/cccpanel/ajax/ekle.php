@@ -1,6 +1,5 @@
 <?php
 //kullanıcı adı mail önceden varmı 2 defa olamaz kontrolu
-
 $con   = mysql_connect("94.73.151.249", "cotdivoure", "CCC456");
 
 if (!$con) {

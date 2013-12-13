@@ -10,8 +10,6 @@ if (isset($_GET['logout'])) {
     session_destroy();
     header("Location:login.php");
 }
-
-
 include 'header.php';
 ?>
 
@@ -50,14 +48,12 @@ include 'header.php';
         <div class="menuItems"><a href="#" id="members"><span>Üyeler</span></a></div>
         <div class="menuItems"><a href="#" id="settings"><span>Ayarlar</span></a></div>
         <div class="menuItems"><a href="index.php?logout" id="settings2"><span>Güvenli çıkış</span></a></div>
-
     </div>
     <div class="adminRight">
         <div class="panelHeadText">
             <a href="#"></a>
             <span>Başlık Metni</span>
             <div class="panelbox">
-
             </div>
         </div>
     </div>
