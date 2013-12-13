@@ -4,7 +4,6 @@
     header('Content-Type: text/html; charset=utf-8');
     $usern = $_POST['username'];
     $pass  = $_POST['password'];
-
     if (empty($usern) && empty($pass))
     {
         die("lütfen bilgileri tam olarak giriniz");
