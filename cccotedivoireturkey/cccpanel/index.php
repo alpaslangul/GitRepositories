@@ -1,10 +1,16 @@
 <?php
  session_start();
- $check = $_SESSION['status'];
- if ($check ==false ){
-     header("Location: index.php");
+//var_dump($_SESSION['status']);die;
+ if (empty($_SESSION['status']) ){
+     header("Location: login.php");
  }
- include 'header.php';
+
+//oturumu kapat içindir
+if (isset($_GET['logout'])) {
+    session_destroy();
+    header("Location:login.php");
+}
+include 'header.php';
 ?>
 
 <!--<!DOCTYPE html>-->
@@ -41,14 +47,13 @@
         <div class="menuItems"><a href="#" id="connection"><span>İletişim Formu</span></a></div>
         <div class="menuItems"><a href="#" id="members"><span>Üyeler</span></a></div>
         <div class="menuItems"><a href="#" id="settings"><span>Ayarlar</span></a></div>
-
+        <div class="menuItems"><a href="index.php?logout" id="settings2"><span>Güvenli çıkış</span></a></div>
     </div>
     <div class="adminRight">
         <div class="panelHeadText">
             <a href="#"></a>
             <span>Başlık Metni</span>
             <div class="panelbox">
-
             </div>
         </div>
     </div>

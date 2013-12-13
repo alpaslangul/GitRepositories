@@ -39,7 +39,6 @@
                 <span>
                     Sitenin üyeler özel kısımlarını kullanabilmek haber listemize katılmak
                     ve gelişmelerden haberdar olmak için üye olabilirsiniz.
-
                 </span>
             </div>
 
