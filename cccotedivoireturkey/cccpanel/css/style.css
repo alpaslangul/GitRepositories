@@ -56,11 +56,12 @@ a{ cursor : pointer; text-decoration: none;}
 .wrapper .inner .innerLeft p { font-size: 14px; color: #777; margin: 18px 0 0 78px; }
 .wrapper .inner .innerRight { width: 256px; float: left; margin-top: 30px;  }
 .wrapper .inner .innerRight .inputLayer { width: 210px; height: 30px; float: left; background: url("../img/sprite.png"); margin: 1px 0; }
-.wrapper .inner .innerRight .inputLayer input[type=text]{ width: 200px; height: 22px; line-height: 22px; border: none; outline: none; margin-top: 2px; margin-left: 3px;}
+.wrapper .inner .innerRight .inputLayer input[type=text] { width: 200px; height: 22px; line-height: 22px; border: none; outline: none; margin-top: 2px; margin-left: 3px;}
+.wrapper .inner .innerRight .inputLayer input[type=password]{ width: 200px; height: 22px; line-height: 22px; border: none; outline: none; margin-top: 2px; margin-left: 3px;}
 .wrapper .inner .innerRight select{ width: 204px; height: 24px; border: 0; outline: none; margin-top: 3px;  margin-left: 3px; line-height: 24px; }
 select  { *margin-top: 1px;} /* ie 7 */
-.wrapper .inner input[type=button] { width: 125px; height: 32px; color: #555; border-radius : 4px; box-shadow: 1px 1px #d1d0d0; text-shadow: 1px 1px #fff; border: none; outline: none; float: right; margin: 25px 52px 0 0; background: url("../img/btnGreen.png") }
-.wrapper .inner input[type=button]:hover { color: #fff; text-shadow: 1px 1px #777; box-shadow: 1px 1px #b4b1b1; cursor: pointer;   }
+.wrapper .inner input[type=submit] { width: 125px; height: 32px; color: #555; border-radius : 4px; box-shadow: 1px 1px #d1d0d0; text-shadow: 1px 1px #fff; border: none; outline: none; float: right; margin: 25px 52px 0 0; background: url("../img/btnGreen.png") }
+.wrapper .inner input[type=submit]:hover { color: #fff; text-shadow: 1px 1px #777; box-shadow: 1px 1px #b4b1b1; cursor: pointer;   }
 .wrapper .inner .terms { width: 462px; float: left; font-size: 11px; text-align: right; padding: 10px 52px 0 0; cursor: pointer;   }
 
 #admin { background: white; }
