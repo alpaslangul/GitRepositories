@@ -1,11 +1,10 @@
 <?php
-//kullanıcı adı mail önceden varmı 2 defa olamaz kontrolu
+    //kullanıcı adı mail önceden varmı 2 defa olamaz kontrolu
     $con   = mysql_connect("94.73.151.249", "cotdivoure", "CCC456");
     @mysql_query("SET NAMES 'utf8'");
     @mysql_query("SET CHARACTER SET 'utf8'");
     @mysql_query("SET COLLATION_CONNECTION = 'utf8_general_ci'");
-    if (!$con)
-    {
+    if (!$con) {
         die('Connection Failed' . mysql_error());
     }
     mysql_select_db("cccdb", $con);
@@ -24,8 +23,7 @@
 
     if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
 
-        if ( $parola != $parola2)
-        {
+        if ( $parola != $parola2) {
             echo "Parolanızı tekrar ederken hata yaptınız.";
             die;
 
@@ -34,15 +32,10 @@
         $result = mysql_query("INSERT INTO ccc_user SET name='".$ad ."', surname='".$soyad ."', username='".$kullaniciad ."' , password='".$parola ."'
 , email_addres='".$email ."', status='0', gender='".$cinsiyet ."', phone='".$telefon ."', city='".$city ."', town='".$town ."' ");
 
-        if ($result==1 )
-        {
+        if ($result==1 ) {
             echo 'ok';
         }
 
-
     } else {
         echo "This ($email) email address is considered not valid.";
-
     }
-
-
