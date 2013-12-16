@@ -46,21 +46,33 @@
 
     </div>
     <div class="adminRight">
-        <div class="panelHeadText">
+        <div class="panelInLeft">
             <a href="#"></a>
             <span>Yeni Haber Ekle</span>
             <div class="panelbox">
                 <div class="editTable">
                     <div class="editTableContainer">
-                        <div class="editTableLine">Haber Başlığı<input type="text" class="inpText" /></div>
-                        <div class="editTableLine"><input type="text" class="inpText" /></div>
-                        <div class="editTableLine"><input type="text" class="inpText" /></div>
+                        <div class="editTableLine">
+                            <span>Haber Kategorisi</span><br/>
+                            <select id="kategori_id" name="kategori_id">
+                                <option value="1">Genel</option>
+                                <option value="6">Etkinlik</option>
+                            </select>
+                        </div>
+                        <div class="editTableLine"><span>Haber Başlığı</span><input type="text" class="inpText" /></div>
+                        <div class="editTableLine"><span>Haber Linki</span><input type="text" class="inpText" /></div>
+                        <div class="editTableLine"><span>Etiketler</span><input type="text" class="inpText" /></div>
+                        <div class="editTableLine"><span>Haber Metni</span><input type="text" class="inpText" /></div>
+                        <div class="editTableLine"><span>Haber Metni</span><input type="text" class="inpText" /></div>
 
                     </div>
                     <div class=""></div>
 
                 </div>
             </div>
+        </div>
+        <div class="panelInRight">
+            Panel Right
         </div>
     </div>
 </div>

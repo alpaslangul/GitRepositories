@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98520bca-4f60-45fd-ab8b-e77eec24bae5" name="Default" comment="test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/js/Serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/conn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/mysql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/js/selectchained.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/smtr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/ajax/ekle.php" afterPath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/ajax/ekle.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/header.php" afterPath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/in.php" afterPath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/in.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/signin.php" afterPath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/signin.php" />
+    <list default="true" id="98520bca-4f60-45fd-ab8b-e77eec24bae5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/post-new.php" afterPath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/post-new.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/css/style.css" afterPath="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cccotedivoireturkey/html/cccpanel/css/style.css" afterPath="$PROJECT_DIR$/cccotedivoireturkey/html/cccpanel/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GitRepositories.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387203522332" ignored="false" />
+    <file path="/Dummy.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387205667837" ignored="false" />
     <file path="/test.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1386930176344" ignored="false" />
     <file path="/signin.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387201084261" ignored="false" />
     <file path="/ekle.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387197180404" ignored="false" />
     <file path="/in.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387196082397" ignored="false" />
-    <file path="/style.css" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387197624348" ignored="false" />
+    <file path="/style.css" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387208808589" ignored="false" />
+    <file path="/post-new.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387208884038" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +34,26 @@
     <favorites_list name="GitRepositories" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="post-new.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/post-new.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="68" selection-start="2804" selection-end="2804" vertical-scroll-proportion="0.7016275">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="99" column="90" selection-start="7903" selection-end="7903" vertical-scroll-proportion="-16.76">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -64,12 +77,14 @@
         <option value="$PROJECT_DIR$/cccotedivoireturkey/as.php" />
         <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/as.php" />
         <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/in.php" />
-        <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/css/style.css" />
         <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/smtr.php" />
         <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/signin.php" />
         <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/header.php" />
         <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/mysql.php" />
         <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/ajax/ekle.php" />
+        <option value="$PROJECT_DIR$/cccotedivoireturkey/html/cccpanel/css/style.css" />
+        <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/css/style.css" />
+        <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/post-new.php" />
       </list>
     </option>
   </component>
@@ -175,6 +190,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GitRepositories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GitRepositories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cccotedivoireturkey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cccpanel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -251,29 +288,37 @@
       <created>1386930182105</created>
       <updated>1386930182105</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="user added form continue">
+      <created>1387203557042</created>
+      <updated>1387203557042</updated>
+    </task>
+    <task id="LOCAL-00004" summary="user added form continue">
+      <created>1387205673844</created>
+      <updated>1387205673844</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26040554" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26040554" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -321,7 +366,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="user added form continue" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -336,21 +381,12 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="test" />
+    <MESSAGE value="user added form continue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="21" selection-start="43" selection-end="43" vertical-scroll-proportion="0.025996534" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/js/Serialize.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="548" selection-end="548" vertical-scroll-proportion="0.3488372" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/connectionForm/class.smtp.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.590106">
@@ -372,20 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="9" selection-start="1895" selection-end="1895" vertical-scroll-proportion="0.33255813">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="33" selection-start="4601" selection-end="4601" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/conn.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="22" selection-start="151" selection-end="156" vertical-scroll-proportion="0.123674914">
@@ -396,13 +418,6 @@
     <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/js/selectchained.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="353" selection-end="353" vertical-scroll-proportion="0.30035335">
           <folding />
         </state>
       </provider>
@@ -437,7 +452,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/ajax/ekle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="221" selection-end="221" vertical-scroll-proportion="0.088339224">
+        <state line="29" column="9" selection-start="920" selection-end="920" vertical-scroll-proportion="0.7866185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="42" selection-start="395" selection-end="395" vertical-scroll-proportion="0.46112117">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="20" selection-start="330" selection-end="330" vertical-scroll-proportion="0.23396881">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/html/cccpanel/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="28" selection-start="6615" selection-end="6615" vertical-scroll-proportion="0.68085104">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="9" selection-start="1895" selection-end="1895" vertical-scroll-proportion="-4.611702">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="90" selection-start="7903" selection-end="7903" vertical-scroll-proportion="-16.76">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/post-new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="68" selection-start="2804" selection-end="2804" vertical-scroll-proportion="0.7016275">
           <folding />
         </state>
       </provider>
