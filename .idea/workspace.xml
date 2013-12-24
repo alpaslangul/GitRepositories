@@ -2,346 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98520bca-4f60-45fd-ab8b-e77eec24bae5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/1after.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/1after.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/1before.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/1before.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/2after.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/2after.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/2before.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/2before.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/3after.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/3after.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/3before.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/3before.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/OpenSans-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/OpenSans-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/OpenSans-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/OpenSans-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/OpenSans-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/OpenSans-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_Airglow_One_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/modules/TELEFUNKEN_Licht_Airglow_One_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/modules/TELEFUNKEN_Licht_Airglow_One_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_A19_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/general_ligth/TELEFUNKEN_Licht_LED_A19_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/general_ligth/TELEFUNKEN_Licht_LED_A19_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_AR111_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/general_ligth/TELEFUNKEN_Licht_LED_AR111_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/general_ligth/TELEFUNKEN_Licht_LED_AR111_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_AR111_GU53_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/general_ligth/TELEFUNKEN_Licht_LED_AR111_GU53_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/general_ligth/TELEFUNKEN_Licht_LED_AR111_GU53_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_KERZE_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/general_ligth/TELEFUNKEN_Licht_LED_KERZE_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/general_ligth/TELEFUNKEN_Licht_LED_KERZE_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_KERZE_Flamme_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/general_ligth/TELEFUNKEN_Licht_LED_KERZE_Flamme_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/general_ligth/TELEFUNKEN_Licht_LED_KERZE_Flamme_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_LUSTER_E14_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/general_ligth/TELEFUNKEN_Licht_LED_LUSTER_E14_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/general_ligth/TELEFUNKEN_Licht_LED_LUSTER_E14_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_LUSTER_E27_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/general_ligth/TELEFUNKEN_Licht_LED_LUSTER_E27_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/general_ligth/TELEFUNKEN_Licht_LED_LUSTER_E27_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_MR16_10W_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/general_ligth/TELEFUNKEN_Licht_LED_MR16_10W_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/general_ligth/TELEFUNKEN_Licht_LED_MR16_10W_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_MR16_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/general_ligth/TELEFUNKEN_Licht_LED_MR16_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/general_ligth/TELEFUNKEN_Licht_LED_MR16_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_PAR16_LONG_BASE_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/general_ligth/TELEFUNKEN_Licht_LED_PAR16_LONG_BASE_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/general_ligth/TELEFUNKEN_Licht_LED_PAR16_LONG_BASE_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_PAR16_SHORT_BASE_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/general_ligth/TELEFUNKEN_Licht_LED_PAR16_SHORT_BASE_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/general_ligth/TELEFUNKEN_Licht_LED_PAR16_SHORT_BASE_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_PAR20_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/general_ligth/TELEFUNKEN_Licht_LED_PAR20_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/general_ligth/TELEFUNKEN_Licht_LED_PAR20_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_PAR38_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/general_ligth/TELEFUNKEN_Licht_LED_PAR38_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/general_ligth/TELEFUNKEN_Licht_LED_PAR38_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_TUBE_CENTUM_4_KLAR_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/tube/TELEFUNKEN_Licht_LED_TUBE_CENTUM_4_KLAR_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/tube/TELEFUNKEN_Licht_LED_TUBE_CENTUM_4_KLAR_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/TELEFUNKEN_Licht_LED_TUBE_CENTUM_4_MATT_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/tube/TELEFUNKEN_Licht_LED_TUBE_CENTUM_4_MATT_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/tube/TELEFUNKEN_Licht_LED_TUBE_CENTUM_4_MATT_72dpi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/Ubuntu_Condensed.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/Ubuntu_Condensed.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/Ubuntu_Condensed.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/Ubuntu_Condensed.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/Ubuntu_Condensed.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/Ubuntu_Condensed.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5869.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/ry/_DSC5869.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5872.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/ry/_DSC5872.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5877.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/ry/_DSC5877.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5884.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/ry/_DSC5884.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5886.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/ry/_DSC5886.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5889.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/ry/_DSC5889.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5893.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/ry/_DSC5893.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5894.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/ry/_DSC5894.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5898.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5898.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5899.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5899.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5904.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5904.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5911.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5911.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5914.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5914.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5916.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5916.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5917.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5917.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5919.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5919.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5921.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5921.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5923.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5923.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5927.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5927.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5934.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5934.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5935.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5935.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5941.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5941.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5944.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5944.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5947.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/kv/_DSC5947.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5955.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/ry/_DSC5955.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5961.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/ry/_DSC5961.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5973.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/ry/_DSC5973.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5982.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/ry/_DSC5982.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/_DSC5987.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ref/ry/_DSC5987.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/adress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/ai.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/arrowL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/arrowR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/bg-yedek.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/bg1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/bg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/bg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/bg3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/bg4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/bg4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/bg5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/bg5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/button.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/button.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/button.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/button.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/calculator.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/calculator.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/closeBtn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/closeMap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/color-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/color-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/connection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/door.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/door.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/fabric.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/fabric.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/front.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/front.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/gat-logo.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/gat-logo.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/gat-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/gat-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/gat-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/gat.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/gatas-Intro-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/gatas-Intro-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/gothic.TTF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/gothic.TTF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/gothic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/gothic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/gothic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/gothic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/hangar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/hangar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/img.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/img.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/lbImage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/light-corner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/light-corner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/light-shadow1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/light-shadow1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/light-shadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/light-shadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/light1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/light1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/light2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/light2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/light3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/light3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/light4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/light4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/light5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/light5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/logo-text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/logo-text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/logoColor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/mainImage1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/mainImage1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/mainImage2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/mainImage2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/mainImage3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/mainImage3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/mainImage4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/mainImage4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/menu_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/menu_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/moniLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/music.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/music.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/productFront.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/productFront.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/shutterstock_150148013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/socialSprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/socialSprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/img/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/telefunken_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/telefunken_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/tenis.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/tenis.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/zap.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/zap.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/zap.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/zap.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/1index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/OpenSans-Light.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/OpenSans-Light.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/OpenSans-Light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/OpenSans-Light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/Ubuntu_Condensed.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/Ubuntu_Condensed.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/Ubuntu_Condensed.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/Ubuntu_Condensed.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/aspmail.asp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/class.phpmailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/class.phpmailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/class.smtp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/class.smtp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/en.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/en.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/en.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/foot.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/form.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/gothic.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/gothic.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/font/gothic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/font/gothic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/il/chain-select/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/indexen.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/indexen.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/indextr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/indextr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/js/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/js/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/js/jquery-2.0.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/img/product/link.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/img/product/link.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/maps.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/il/chain-select/mysql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/language/phpmailer.lang-br.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/language/phpmailer.lang-cz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/language/phpmailer.lang-de.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/language/phpmailer.lang-en.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/language/phpmailer.lang-es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/language/phpmailer.lang-fr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/language/phpmailer.lang-it.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/language/phpmailer.lang-nl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/language/phpmailer.lang-no.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/language/phpmailer.lang-se.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/language/phpmailer.lang-tr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/.idea/public.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/robot.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/il/chain-select/selectchained.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/il/chain-select/smtr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/tesekkur.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/tesekkur.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/tesekkur.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/tr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/tr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/yedek/tr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gat-as/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gigi/js/script.js" afterPath="$PROJECT_DIR$/gigi/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GitRepositories.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387876177435" ignored="false" />
+    <file path="/Dummy.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387888669814" ignored="false" />
     <file path="/test.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1386930176344" ignored="false" />
     <file path="/signin.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387201084261" ignored="false" />
     <file path="/ekle.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387197180404" ignored="false" />
@@ -366,7 +33,17 @@
     <favorites_list name="GitRepositories" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gigi/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="0" selection-start="2018" selection-end="2018" vertical-scroll-proportion="1.3058419">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -398,6 +75,7 @@
         <option value="$PROJECT_DIR$/cccotedivoireturkey/html/cccpanel/css/style.css" />
         <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/css/style.css" />
         <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/post-new.php" />
+        <option value="$PROJECT_DIR$/gigi/js/script.js" />
       </list>
     </option>
   </component>
@@ -434,7 +112,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -463,16 +140,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="il" />
+              <option name="myItemId" value="gigi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GitRepositories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GitRepositories" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chain-select" />
+              <option name="myItemId" value="gigi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -588,7 +280,11 @@
       <created>1387299742347</created>
       <updated>1387299742347</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="project upload">
+      <created>1387876210960</created>
+      <updated>1387876210960</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -613,14 +309,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28228387" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2854856" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -701,11 +397,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/in.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="151" selection-end="151" vertical-scroll-proportion="0.088339224" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="0.14134276" />
@@ -779,6 +470,13 @@
     <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gigi/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="0" selection-start="2018" selection-end="2018" vertical-scroll-proportion="1.3058419">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

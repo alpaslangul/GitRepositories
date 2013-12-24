@@ -1,3 +1,4 @@
+var i=1; // image idex for loop
 CCC = {
 
     commonInit : function() {
@@ -25,8 +26,13 @@ CCC = {
             });
 
         setInterval(function() {
-            CCC.backgroundRoll();
-        }, 6000);
+            CCC.backgroundRoll(i);
+            if (i==3) {
+                i=0;
+            }
+            i++;
+
+        }, 5000);
     },
 
     ligthbox : function() {
@@ -52,21 +58,26 @@ CCC = {
     backgroundRoll : function () {
         var ht = Math.round($(window).height());
         var wt = Math.round($(window).width());
-        var bg = Math.floor((Math.random()*3)+1);
         var sizeRate = parseFloat(ht / wt).toFixed(3);
+//        var bg = Math.floor((Math.random()*3)+1);
+
         if (sizeRate > 0.665) {
             $('.content').fadeTo('slow', 0, function()
             {
-                $('.content').css('background', 'url("img/bg'+bg+'.jpg")');
-                console.log(bg);
+                $('.content').css('background', 'url("img/bg'+i+'.jpg")');
+                console.log(i);
+
             }).fadeTo('slow', 1);
 
         } else if (sizeRate < 0.665) {
             $('.content').fadeTo('slow', 0, function()
             {
-                $('.content').css('background', 'url("img/bg'+bg+'.jpg")');
-                console.log(bg);
+                $('.content').css('background', 'url("img/bg'+i+'.jpg")');
+                console.log(i);
+
+
             }).fadeTo('slow', 1);
+
         }
 
         $(window).resize(
@@ -79,16 +90,15 @@ CCC = {
                 if (sizeRate > 0.665) {
                     $('.content').fadeTo('slow', 0, function()
                     {
-                        $('.content').css('background', 'url("img/bg'+bg+'.jpg")');
-                        console.log(bg);
+                        $('.content').css('background', 'url("img/bg'+i+'.jpg")');
+
                     }).fadeTo('slow', 1);
 //
                 } else if (sizeRate < 0.665) {
 
                     $('.content').fadeTo('slow', 0, function()
                     {
-                        $('.content').css('background', 'url("img/bg'+bg+'.jpg")');
-                        console.log(bg);
+                        $('.content').css('background', 'url("img/bg'+i+'.jpg")');
                     }).fadeTo('slow', 1);
 
                 }
