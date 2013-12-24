@@ -1,0 +1,30 @@
+<?php
+    $dil['baslik']='Main Page | GAT-AŞ';
+    $dil['main']='About Us';
+    $dil['partners']='Turkish';
+    $dil['services  ']='English';
+    $dil['secenek']='Turkish';
+    $dil['products']='tr';
+    $dil['connection']='Home';
+    $dil['channels']='Home';
+    $dil['references']='Home';
+    $dil['solution']='Home';
+    $dil['warehouse']='Home';
+    $dil['hangar']='Home';
+    $dil['in-out-side']='Home';
+    $dil['calculate']='Home';
+    $dil['aboutText']='Home';
+    $dil['after']='Home';
+    $dil['before']='Home';
+    $dil['detailsText']='Home';
+    $dil['nameSurname']='Home';
+    $dil['mail']='Home';
+    $dil['message']='Home';
+    $dil['sendBtn']='Home';
+    $dil['warehouseBtn']='Home';
+    $dil['hangarBtn']='Home';
+    $dil['in-out-sideBtn']='Home';
+    $dil['dil']='tr';
+    $dil['tr']='Turkish';
+    $dil['en']='English';
+?>

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="css/style.css">
+    <meta charset="utf-8">
+    <style type="text/css">
+        #map-canvas {
+            margin:0;
+            padding: 0;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+<div class="wrapper">
+    <div class="header">
+        <div class="socialLayer">
+            <a href="#" class="facebook"></a>
+            <a href="#" class="twitter"></a>
+            <a href="#" class="youtube"></a>
+        </div>
+    </div>
+    <div class="content">
+        <div class="middle">
+            <div class="inner"></div>
+            <div class="buttonsLayer">
+                <div class="btn1"><a href="#"><img src="img/map.png" alt=""></a></div>
+                <div class="btn2"><a href="#"><img src="img/mail.png" alt=""></a></div>
+                <div class="btn3"><a href="#"><img src="img/connection.png" alt=""></a></div>
+            </div>
+            <div class="dresses">
+                <span>ABENDKLEIDER</span>
+                <span>BALLKLEIDER</span>
+                <span>COCKTAILKLEIDER</span>
+                <span>GROSSE GRÖSSEN</span>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <span>© 2013-2014 GIGI dresses. All Rights Reserved.</span>
+        <div class="moni">
+            <span>powered by </span>
+            <a href="http://www.moni.com.tr" target="_blank"></a>
+        </div>
+    </div>
+
+</div>
+<div class="lightbox" id="map">
+    <div class="mapContainer">
+         <div id="map-canvas"></div>
+        <span class="closeBtn"></span>
+    </div>
+</div>
+
+<div class="lightbox" id="message">
+    <div class="mapContainer">
+        <form method="POST" action="mail.php">
+        <div class="messageContainer">
+
+            <div class="messageForm">
+                <div class="formText">
+                    <span>Name</span>
+                    <span>E-Mail</span>
+                    <span>Telefon</span>
+                    <span>Kommentar</span>
+                </div>
+                <div class="formValues">
+
+                        <div class="name">
+                            <input type="text" name="nameValue"/>
+                        </div>
+                        <div class="email">
+                            <input type="text" name="mailValue"/>
+                        </div>
+                        <div class="web">
+                            <input type="text" name="phoneValue"/>
+                        </div>
+                        <div class="message">
+                            <textarea name="messageValue" id="" cols="30" rows="5"></textarea>
+                        </div>
+
+                </div>
+            </div>
+            <input type="submit" value="" name="btn"/>
+        </div>
+        </form>
+        <span class="closeBtn"></span>
+    </div>
+</div>
+
+<div class="lightbox" id="adress">
+    <div class="mapContainer">
+        <div class="messageContainer">
+            <div class="messageForm">
+                <span>Tel.: 01743295212</span><br/>
+                <span>Otto Hahn Str 6</span><br/>
+                <span>D 63303 Dreieich</span><br/>
+                <span>Deutschland</span>
+            </div>
+        </div>
+        <span class="closeBtn"></span>
+</div>
+</div>
+
+<script type="text/javascript" src="js/jquery-2.0.2.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<script>
+    var map,map2;
+    function initialize() {
+        var mapOptions = {
+            zoom: 14,
+            center: new google.maps.LatLng(49.987435, 8.787689),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        var myLatLng = new google.maps.LatLng(49.987435, 8.787689);
+
+        map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
+        map.setTilt(45);
+
+        var beachMarker = new google.maps.Marker({
+            position: myLatLng,
+            map: map
+        });
+
+
+    }
+
+    google.maps.event.addDomListener(window, 'load', initialize);
+
+</script>
+</body>
+</html>

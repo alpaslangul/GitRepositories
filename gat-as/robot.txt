@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /.idea/
+Disallow: /font/
+Disallow: /language/
+Disallow: /yedek/
+Disallow: /index.html

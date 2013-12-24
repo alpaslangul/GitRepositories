@@ -1,0 +1,46 @@
+body { margin: 0; font-family: Helvetica, "Arial sans-serif"}
+
+.wrapper { width: 100%; min-width: 1050px; position: absolute;}
+.wrapper .header { width: 100%; height: 50px; margin: 0; background: #2c2c2c; }
+.wrapper .header .socialLayer { width: 110px; height: 30px; margin: 10px; position: absolute; }
+.wrapper .header .socialLayer .facebook { width: 30px; height: 30px; float: left; background: url("../img/socialSprite.png") -39px -4px}
+.wrapper .header .socialLayer .twitter  { width: 30px; height: 30px; margin-left: 10px; float: left; background: url("../img/socialSprite.png") -4px -4px}
+.wrapper .header .socialLayer .youtube  { width: 30px; height: 30px; margin-left: 10px; float: left; background: url("../img/socialSprite.png") -73px -4px}
+.wrapper .content { width: 100%; min-height: 560px;  margin: 0; background: url("../img/bg1.jpg") top center; }
+.wrapper .content .middle { width: 550px ; margin-left: 60px;}
+.wrapper .content .middle .inner { width: 390px; height: 171px; margin: 0 auto; padding: 10px; position: relative; background: url("../img/logoColor.png") center no-repeat; }
+.wrapper .content .middle .buttonsLayer { width: 350px; height: 200px; margin: 30px auto;}
+.wrapper .content .middle .dresses { width: 620px;  margin: 30px auto; color: #ffffff; text-align: center }
+.wrapper .content .middle .dresses span { font-family: Times New Roman, "Arial sans-serif"; background: #000000; cursor: pointer; padding: 5px;}
+.wrapper .content .middle .dresses span:hover {background: #32373c; cursor: pointer; padding: 7px;}
+.wrapper .content .middle .buttonsLayer div { width: 110px; height: 110px; float: left;}
+.wrapper .content .middle .buttonsLayer div img {padding: 21px; }
+.wrapper .content .middle .buttonsLayer .btn1 { background: url("../img/button.png") }
+.wrapper .content .middle .buttonsLayer .btn2 { background: url("../img/button.png"); margin-left: 10px; }
+.wrapper .content .middle .buttonsLayer .btn3 { background: url("../img/button.png"); margin-left: 10px;}
+.wrapper .footer { width: 100%; height: 50px; font-size: 12px; color: #ffffff; background: black; line-height: 50px; }
+
+.lightbox { position: absolute; width: 100%; min-width: 1050px; min-height: 660px; background: url("../img/lbImage.png") repeat; z-index: 99; }
+.lightbox .mapContainer { position: relative; width: 600px; height:450px; margin: 75px auto; z-index: 99; border: 10px solid #fff;}
+.lightbox .mapContainer .closeBtn{ position: absolute; width: 29px; height:29px; background: url("../img/closeBtn.jpg"); z-index: 100; border: 10px solid #fff; top:0; right: 0; cursor: pointer; }
+
+.lightbox .mapContainer .messageContainer { width: 100%; height:450px; background: #ffffff;}
+.lightbox .mapContainer .messageContainer .messageForm { width: 550px;  margin-left: 40px; top: 60px; position: absolute;}
+.lightbox .mapContainer .messageContainer .messageForm .formText { width: 175px; height:300px; float: left;}
+.lightbox .mapContainer .messageContainer .messageForm .formText span { width: 175px; display: block; line-height: 44px;}
+.lightbox .mapContainer .messageContainer .messageForm .formValues {width: 325px; height:300px; float: left; }
+.lightbox .mapContainer .messageContainer .messageForm .formValues div { background: url("../img/sprite.png"); width: 325px; height: 44px; margin: 3px 0;}
+.lightbox .mapContainer .messageContainer .messageForm .formValues .name { background-position: -13px -48px; width: 325px; height: 44px; }
+.lightbox .mapContainer .messageContainer .messageForm .formValues .email { background-position: -13px -105px; width: 325px; height: 44px; }
+.lightbox .mapContainer .messageContainer .messageForm .formValues .web { background-position: -13px -162px; width: 325px; height: 44px; }
+.lightbox .mapContainer .messageContainer .messageForm .formValues .message { background-position: -13px -217px; width: 325px; height: 144px; }
+.lightbox .mapContainer .messageContainer .messageForm .formValues .message textarea{ width: 310px; height: 120px; border: none; outline: none; background-color: transparent; resize: none; margin:5px 5px; }
+.lightbox .mapContainer .messageContainer .messageForm .formValues div input { border: none; outline: none; background-color: transparent; width: 290px; height: 30px; line-height: 30px; padding: 8px 20px 0 10px;  }
+
+#adress .mapContainer .messageContainer .messageForm span { display: block; }
+.lightbox .mapContainer .messageContainer input[type="submit"] { width: 110px; height: 50px; position: absolute; right: 60px; bottom: 30px; background: url("../img/sprite.png") -13px -369px; border: none; outline: none; cursor: pointer;}
+
+.moni {width: 125px; float: right; margin: 13px 8px; line-height: 24px;height: 23px; display: inline-block;}
+.moni a { background: url("../img/moniLogo.png"); width: 49px; height: 20px; display: block; float: right;}
+
+.thanks { color: #ffffff; display: block; text-align: center}

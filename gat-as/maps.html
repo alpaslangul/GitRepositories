@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <style type="text/css">
+        html, body, #map-canvas {
+            margin:0;
+            padding: 0;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+<div id="map-canvas">
+
+</div>
+
+
+
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<script>
+    var map;
+    function initialize() {
+        var mapOptions = {
+            zoom: 16,
+            center: new google.maps.LatLng(41.064934, 28.826343),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
+        var image = 'http://www.gat-as.com/gat-logo.png';
+        var myLatLng = new google.maps.LatLng(41.064934, 28.826343);
+        var beachMarker = new google.maps.Marker({
+            position: myLatLng,
+            map: map,
+            icon: image
+        });
+
+    }
+
+    google.maps.event.addDomListener(window, 'load', initialize);
+
+</script>
+</body>
+</html>
