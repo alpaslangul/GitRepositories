@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>www.gigimode.de</title>
+    <link rel="stylesheet" href="css/style.css"/>
+    <meta charset="utf-8">
+    <style type="text/css">
+        #map-canvas {
+            margin:0;
+            padding: 0;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+<div class="page">
+    <div class="pageContainer">
+        <div class="leftLayer connBgClr">
+            <div class="menuLayer">
+                <a href="mainpage.html">Ana Sayfa</a>
+                <a href="aboutus.html">Hakkımızda</a>
+                <a href="stores.html">Mağazalarımız</a>
+                <a href="collection.html">Kolleksiyonlar</a>
+                <a href="connection.html">İletişim</a>
+            </div>
+            <div class="bottomLogo">
+                <a href="index.html"><img src="img/menuLogo.png" alt=""/></a>
+            </div>
+        </div>
+        <div class="rightLayer">
+            <div class="connLeft">
+                <div class="connForm">
+                    <div class="formLabels">Adınız</div>
+                    <div class="inputLayer"><input type="text"/></div>
+                    <div class="formLabels">E-posta adresiniz</div>
+                    <div class="inputLayer"><input type="text"/></div>
+                    <div class="formLabels">Mesaj başlığı</div>
+                    <div class="inputLayer"><input type="text"/></div>
+                    <div class="formLabels">Mesajınız</div>
+                    <div class="textLayer"><textarea name="message" id="" cols="31" rows="6"></textarea></div>
+                    <div class="formSubmit">
+                        <input type="submit" value="Gönder"/>
+                    </div>
+
+                </div>
+            </div>
+            <div class="connRight">
+                <div class="mapLayer">
+                    <div id="map-canvas"></div>
+                    <!--<img src="img/map.jpg" alt=""/>-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="foot">
+        <span>© 2013-2014 GIGI dresses. All Rights Reserved.</span>
+    </div>
+</div>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<script>
+    var map,map2;
+    function initialize() {
+        var mapOptions = {
+            zoom: 14,
+            center: new google.maps.LatLng(49.987435, 8.787689),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        var myLatLng = new google.maps.LatLng(49.987435, 8.787689);
+
+        map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
+        map.setTilt(45);
+
+        var beachMarker = new google.maps.Marker({
+            position: myLatLng,
+            map: map
+        });
+
+
+    }
+
+    google.maps.event.addDomListener(window, 'load', initialize);
+
+</script>
+</body>
+</html>
