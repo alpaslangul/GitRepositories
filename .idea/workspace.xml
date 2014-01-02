@@ -6,7 +6,7 @@
     </list>
     <ignored path="GitRepositories.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1388673472630" ignored="false" />
+    <file path="/Dummy.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1388673710346" ignored="false" />
     <file path="/test.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1386930176344" ignored="false" />
     <file path="/signin.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387201084261" ignored="false" />
     <file path="/ekle.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387197180404" ignored="false" />
@@ -251,7 +251,11 @@
       <created>1388673482598</created>
       <updated>1388673482598</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="gigi html page upload">
+      <created>1388673712908</created>
+      <updated>1388673712908</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
