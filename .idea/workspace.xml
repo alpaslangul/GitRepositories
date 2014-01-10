@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98520bca-4f60-45fd-ab8b-e77eec24bae5" name="Default" comment="">
+    <list default="true" id="98520bca-4f60-45fd-ab8b-e77eec24bae5" name="Default" comment="test">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GitRepositories.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1388673710346" ignored="false" />
+    <file path="/Dummy.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1389349344678" ignored="false" />
     <file path="/test.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1386930176344" ignored="false" />
     <file path="/signin.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387201084261" ignored="false" />
     <file path="/ekle.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387197180404" ignored="false" />
     <file path="/in.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387196082397" ignored="false" />
-    <file path="/style.css" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1388673321911" ignored="false" />
+    <file path="/style.css" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1388759227561" ignored="false" />
     <file path="/post-new.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387208884038" ignored="false" />
     <file path="/index.html" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1388673077799" ignored="false" />
+    <file path="C:/xampp/htdocs/web/www.gat-as.com/html/public/css/style.css" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1388759255760" ignored="false" />
+    <file path="C:/xampp/htdocs/web/www.gat-as.com/html/public/indextr.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1388758833442" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -102,7 +104,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -123,6 +124,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,7 +257,11 @@
       <created>1388673712908</created>
       <updated>1388673712908</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="test">
+      <created>1388673739016</created>
+      <updated>1388673739016</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -279,16 +285,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.291889" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29829243" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -298,6 +303,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -309,7 +315,7 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
         <are-packages-shown value="false" />
@@ -345,7 +351,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="gigi html page upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -359,12 +365,12 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="test" />
     <MESSAGE value="user added form continue" />
     <MESSAGE value="pos_new.php devam" />
     <MESSAGE value="project upload" />
     <MESSAGE value="bg image loop index count changed" />
     <MESSAGE value="gigi html page upload" />
+    <MESSAGE value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -427,37 +433,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/html/js/slider.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="419" selection-end="419" vertical-scroll-proportion="0.25773194">
-          <folding />
-        </state>
+        <state line="15" column="0" selection-start="419" selection-end="419" vertical-scroll-proportion="0.25773194" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/html/index-eski.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="38" selection-start="858" selection-end="858" vertical-scroll-proportion="0.430622">
-          <folding />
-        </state>
+        <state line="24" column="38" selection-start="858" selection-end="858" vertical-scroll-proportion="0.430622" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gigi/commingsoon/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="1320" selection-end="1422" vertical-scroll-proportion="0.18727915">
-          <folding />
-        </state>
+        <state line="42" column="0" selection-start="1320" selection-end="1422" vertical-scroll-proportion="0.18727915" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gigi/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="16" selection-start="4356" selection-end="4356" vertical-scroll-proportion="0.40465117">
-          <folding />
-        </state>
+        <state line="48" column="16" selection-start="4356" selection-end="4356" vertical-scroll-proportion="0.40465117" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gigi/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="591" selection-end="591" vertical-scroll-proportion="0.3180212">
-          <folding />
-        </state>
+        <state line="18" column="22" selection-start="591" selection-end="591" vertical-scroll-proportion="0.3180212" />
       </provider>
     </entry>
   </component>
