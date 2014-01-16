@@ -1,22 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98520bca-4f60-45fd-ab8b-e77eec24bae5" name="Default" comment="test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="98520bca-4f60-45fd-ab8b-e77eec24bae5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8407.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8407.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8410.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8410.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8417.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8417.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8430.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8430.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8438.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8438.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8470.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8470.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8487.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8487.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8488.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8488.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8491.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8491.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8505.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8505.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8520.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8520.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8522.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8522.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8525.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8525.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8526.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8526.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8530.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8530.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8532.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8532.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8539.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8539.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8547.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8547.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8558.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8558.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8562.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8562.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8575.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8575.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8579.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8579.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8584.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8584.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8585.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8585.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8587.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8587.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8590.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8590.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8593.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8593.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8600.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8600.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8637.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8637.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8645.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8645.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8652.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8652.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8659.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8659.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8661.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8661.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8675.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8675.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8695.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8695.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8698.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8698.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8701.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8701.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8702.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8702.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8703.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8703.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8704.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8704.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8710.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8710.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8715.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8715.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8745.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8745.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8754.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8754.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8757.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8757.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8763.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8763.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/IMG_8767.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/photos/thumb/IMG_8767.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/arrowL.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/arrowR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/gallery/video/gigimode_web.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/img/mini-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/gallery1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gigi/public/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gigi/public/aboutus.html" afterPath="$PROJECT_DIR$/gigi/public/aboutus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gigi/public/collection.html" afterPath="$PROJECT_DIR$/gigi/public/collection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gigi/public/connection.html" afterPath="$PROJECT_DIR$/gigi/public/connection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gigi/public/index.html" afterPath="$PROJECT_DIR$/gigi/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gigi/public/mainpage.html" afterPath="$PROJECT_DIR$/gigi/public/mainpage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gigi/public/stores.html" afterPath="$PROJECT_DIR$/gigi/public/stores.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gigi/public/css/style.css" afterPath="$PROJECT_DIR$/gigi/public/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GitRepositories.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1389352903503" ignored="false" />
+    <file path="/Dummy.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1389883860284" ignored="false" />
     <file path="/test.txt" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1386930176344" ignored="false" />
     <file path="/signin.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387201084261" ignored="false" />
     <file path="/ekle.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387197180404" ignored="false" />
     <file path="/in.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387196082397" ignored="false" />
     <file path="/style.css" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1388759227561" ignored="false" />
     <file path="/post-new.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1387208884038" ignored="false" />
-    <file path="/index.html" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1388673077799" ignored="false" />
+    <file path="/index.html" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1389353032874" ignored="false" />
     <file path="C:/xampp/htdocs/web/www.gat-as.com/html/public/css/style.css" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1388759255760" ignored="false" />
     <file path="C:/xampp/htdocs/web/www.gat-as.com/html/public/indextr.php" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1388758833442" ignored="false" />
+    <file path="D:/myWeb/html-practice/responsive/index.html" changelist="98520bca-4f60-45fd-ab8b-e77eec24bae5" time="1389883876819" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +143,7 @@
     <favorites_list name="GitRepositories" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.14786418">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -63,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/js/Serialize.js" />
         <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/conn.php" />
         <option value="$PROJECT_DIR$/cccotedivoireturkey/as.php" />
         <option value="$PROJECT_DIR$/cccotedivoireturkey/cccpanel/as.php" />
@@ -79,6 +176,7 @@
         <option value="$PROJECT_DIR$/gigi/js/script.js" />
         <option value="$PROJECT_DIR$/gigi/public/index.html" />
         <option value="$PROJECT_DIR$/gigi/public/css/style.css" />
+        <option value="$PROJECT_DIR$/connectionForm/index.html" />
       </list>
     </option>
   </component>
@@ -87,7 +185,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -115,6 +213,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -133,9 +232,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GitRepositories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GitRepositories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gigi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,6 +301,13 @@
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
@@ -276,7 +395,11 @@
       <created>1389349366224</created>
       <updated>1389349366224</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="test">
+      <created>1389352915545</created>
+      <updated>1389352915545</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -300,15 +423,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1092" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31216648" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31590182" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -391,11 +514,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/signin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cccotedivoireturkey/cccpanel/mysql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="244" selection-end="384" vertical-scroll-proportion="-1.625" />
@@ -468,9 +586,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.14786418">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.14786418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connectionForm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="23" selection-start="556" selection-end="556" vertical-scroll-proportion="0.25309336" />
       </provider>
     </entry>
   </component>

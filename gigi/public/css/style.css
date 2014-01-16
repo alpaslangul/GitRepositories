@@ -38,6 +38,11 @@ body { background: #000000; }
 .page .pageContainer .rightLayer .contentRight .contentBottom .navButtons .up:hover   { background-position: -1px -249px; }
 .page .pageContainer .rightLayer .contentRight .contentBottom .navButtons .down { background-position: -43px -39px; }
 .page .pageContainer .rightLayer .contentRight .contentBottom .navButtons .down:hover { background-position: -43px -249px; }
+.page .pageContainer .rightLayer .contents { width: 691px; float: left; }
+.page .pageContainer .rightLayer .contents .photosFull { width: 664px; height: 484px; margin: 10px 5px; float: left; overflow: auto; }
+.page .pageContainer .rightLayer .contents .photosFull .photos{ width: 640px; float: left;}
+.page .pageContainer .rightLayer .contents .photosFull .photos .thumbs { width: 201px; height: 147px; float: left; margin:7px 6px; cursor: pointer; }
+
 
 /* SLIDER */
 .page .pageContainer .sliderLayer { overflow-x: hidden !important; }
@@ -58,7 +63,7 @@ body { background: #000000; }
 .page .pageContainer .rightLayer .contentRight .contentMiddle .storeLayer .storeSlide { width: 275px;  float: left; text-align: left;}
 
 .page .pageContainer .rightLayer .contentRight .contentMiddle .collections { width: 275px; height: 243px; overflow: hidden;}
-.page .pageContainer .rightLayer .contentRight .contentMiddle .collections a { float: left; cursor: pointer; text-decoration: none; color: #000;}
+.page .pageContainer .rightLayer .contentRight .contentMiddle .collections a { float: left; width: 100%; line-height: 30px;  cursor: pointer; text-decoration: none; color: #000;}
 .page .pageContainer .rightLayer .contentRight .contentMiddle .collections a:hover { color: #007c29; cursor: pointer}
 .page .pageContainer .rightLayer .contentRight .contentMiddle .collections a:before { content: "\25cf" }
 
@@ -80,3 +85,13 @@ body { background: #000000; }
 .page .foot a {background: url("../img/moniLogo.png"); width: 48px; height: 20px; float: right ;margin-top: -5px;}
 .page .foot .moni {margin:0 5px; font-size: 12px; line-height: 18px; }
 .page .foot span { color: #959595; font-family: Tahoma, "Arial sans-serif"; float: right;}
+
+.lightbox {  width: 100%; min-width: 1360px; top: 0px; background: url("../img/mini-bg.png") repeat; z-index: 99999;  position: absolute; display: none;}
+.lightbox .innerBox { border: 10px solid #626262; background: #fff; margin: 100px auto; display: none; left: 50%; position: relative; cursor: pointer; z-index: 9999999;}
+.lightbox .innerBox .ligthboxContent { margin: 0; padding: 0; height: 100%; z-index: 9999; }
+.lightbox .innerBox .navWrap { }
+.lightbox .innerBox .navWrap img[class="closeBtn"] { float: right; padding: 6px; cursor: pointer;}
+.lightbox .innerBox .navWrap .navBar { float: left; padding-left: 10px; display: block;}
+.lightbox .innerBox .navWrap .navBar span { line-height: 50px; padding-left: 25px; font-size: 15px; font-family: Arial; font-weight: bold;}
+.lightbox .innerBox .navWrap .navBar img[id="leftStep"] { float: left; padding: 1px; cursor: pointer;}
+.lightbox .innerBox .navWrap .navBar img[id="rightStep"]{ float: left; padding: 1px; cursor: pointer;}
