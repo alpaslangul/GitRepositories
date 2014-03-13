@@ -1,0 +1,179 @@
+#main-nav a:hover{
+    background-color: #017c84;
+}
+
+ /*#main-nav li.active a{*/
+     /*background-color: #0099B9;*/
+ /*}*/
+
+#main-slider-container .main-headings h1,
+#main-slider-container .main-headings h2{
+    background: #0099B9;
+}
+
+#main-slider-container .sub-headings span i{
+    color: #0099B9;
+}
+
+#main-slider-container button{
+    background-color: #0099B9;
+}
+
+#main-slider-container .heading-connector1{
+    background-position: 0 0;
+}
+
+#main-slider-container .heading-connector2{
+    background-position: 0 -196px;
+}
+
+.button-container button{
+    color: #0099B9;
+    border: solid 2px #404041;
+}
+
+/*.button-container button:hover,*/
+/*.button-container div.active button{*/
+    /*background: #0099B9;*/
+/*}*/
+
+.button-container div .service-arrow{
+    background-position: 0px 0;
+}
+
+#notched-line{
+    background-position: 0 0px;
+}
+
+.service-description > span:first-child{
+    color: #0099B9;
+}
+
+#newsletter button{
+    background-color: #0099B9;
+}
+
+.parallax1 .testimonial-container .quote-mark{
+    color: #0099B9;
+}
+
+.parallax-container button,
+#row6 form button{
+    background-color: #0099B9;
+}
+
+#row6 #form-alert p {
+    background-color: #0099B9;
+}
+
+.process-wrap {
+    background: #0099B9;
+}
+
+.process-info .process-info-front {
+    background: #0099B9;
+}
+
+#skills-container .skill .bar{
+    background-color: #0099B9;
+}
+
+.collapsable-items-container .collapsable-item .clickable-area.active h4{
+    color: #0099B9;
+}
+
+.collapsable-items-container .collapsable-item .clickable-area.active button{
+    background-color: #0099B9;
+}
+
+#team-container .team-member .team-member-details .links a{
+    color: #0099B9;
+}
+
+#gallery-container .gallery-options button.active{
+    background-color: #0099B9;
+}
+
+#gallery-container .transparent-hover{
+    background-color: #0099B9;
+}
+
+#testimonials .testimonial-by-container .testimonial-by-company{
+    color: #0099B9;
+}
+
+.contact-details ul li span:first-child{
+    color: #0099B9;
+}
+
+.banner{
+    background-color: #0099B9;
+}
+
+footer #upper-footer h3{
+    color: #0099B9;
+}
+
+footer #upper-footer .news .date span{
+    color: #0099B9;
+}
+
+footer #upper-footer .news ul li.last button,
+footer #upper-footer .tweets .more-tweets,
+footer #upper-footer .tweets ul li.last button {
+    color: #0099B9;
+}
+
+footer #upper-footer .tweets .tweet-container > span:first-child{
+    color: #0099B9;
+}
+
+footer #upper-footer .tweets .tweet-container ul li .hashtag{
+    color: #0099B9;
+}
+
+footer #bottom-footer .social-links li a{
+    color: #0099B9;
+}
+
+.portfolio-modal .details h2{
+    color: #0099B9;
+}
+
+.portfolio-modal .details .project-info{
+    border-bottom: 1px solid #0099B9;
+    border-top: 1px solid #0099B9;
+}
+
+.gallery-inner-container .close-button{
+    color: #0099B9;
+}
+
+.portfolio-modal .portfolio-nav button{
+    background-color: #0099B9;
+}
+
+#options-panel h4{
+    color: #0099B9;
+}
+
+@media only screen and (max-width: 480px){
+    #main-slider-container .heading-connector1 {
+        background-position: -31px 0px;
+    }
+
+    #main-slider-container .heading-connector2{
+        background-position: -22px -197px;
+    }
+}
+
+.buttonsPos1 { background-position: 0px -65px;}
+.buttonsPos1:hover { background-position: -71px -65px;}
+.buttonsPos2 { background-position: 0px 2px;}
+.buttonsPos2:hover { background-position: -71px 2px;}
+.buttonsPos3 { background-position: 4px -194px;}
+.buttonsPos3:hover { background-position: -67px -194px;}
+.buttonsPos4 { background-position: 0px -253px;}
+.buttonsPos4:hover { background-position: -71px -253px;}
+.buttonsPos5 { background-position: 0px -136px;}
+.buttonsPos5:hover { background-position: -71px -136px;}
